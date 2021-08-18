@@ -13,3 +13,16 @@
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
+
+## DNS
+### Papers/Thesis
+| Year | Title | Author | Link | Github |
+| --- | --- | --- | --- | --- |
+| 2021 | DNS and the DNS Cache Poisoning Attack -a 103 pages introduction to DNS and basic DNS poisoning | Avi Kak  | [Link](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture17.pdf) | |
+
+
+## Vulnerability Discovery - Web
+### Papers/Thesis
+| Year | Title | Author | Link | Github |
+| --- | --- | --- | --- | --- |
+| 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
