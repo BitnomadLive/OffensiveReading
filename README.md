@@ -9,6 +9,7 @@
 | 2020 | Cross-Origin State Inference (COSI) Attacks:Leaking Web Site States through XS-Leaks | Avinash Sudhodanan, Soheil Khodayari, Juan Caballero | [Link](https://arxiv.org/pdf/1908.02204.pdf) |  |
 | 2019 | BakingTimer: privacy analysis of server-side request processing time | Iskander Sánchez-Rola, D. Balzarotti, I. Santos | [Link](https://www.semanticscholar.org/paper/BakingTimer%3A-privacy-analysis-of-server-side-time-S%C3%A1nchez-Rola-Balzarotti/fcb40f635dc8195c8529585d7bfcde8920e0a57b) | |
 | 2019 | Browser Fingerprinting using Combinatorial Sequence Testing | Bernhard Garn, Dimitris E. Simos, Stefan Zauner, Rick Kuhn, Raghu Kacker| [Link](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=927531) |  |
+| 2018 | How Tracking Companies Circumvented Ad Blockers Using WebSockets | Muhammad Ahmad Bashir, Sajjad Arshad, Engin Kirda, William Robertson, Christo Wilson | [Link](https://sajjadium.github.io/files/imc2018websockets_paper.pdf) | --- |
 | 2017 | Practical Keystroke Timing Attacks in Sandboxed JavaScript | Moritz Lipp, Daniel Gruss, Michael Schwarz, David Bidner, Clementine Maurice, Stefan Mangard | [Link](https://mlq.me/download/keystroke_js.pdf) | [Github](https://github.com/IAIK/interruptjs) |
 | 2016 | HEIST: HTTP Encrypted Information can be Stolen through TCP-windows | Mathy Vanhoef,Tom Van Goethem | [Link](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf) | |
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
@@ -121,11 +122,18 @@
 | 2021 | SeaGlass Enabling City-Wide IMSI-Catcher Detection | -Peter Ney, Ian Smith, Tadayoshi Kohno, Gabriel Cadamuro | [Link](https://seaglass.cs.washington.edu/) |
 | 2020 | BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | Andy Nguyen | [Link](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html) |
 
+
 ## IoT
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | A Measurement Study on the (In)security of End-of-Life (EoL) Embedded Devices | Dingding Wang, Muhui Jiang, Rui Chang, Yajin Zhou, Baolei Hou, Xiapu Luo, Lei Wu, Kui Ren | [LINK](https://arxiv.org/pdf/2105.14298.pdf) | --- |
+| 2020 | HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation| Abraham A. Clements, Eric Gustafson, Tobias Scharnowski, Paul Grosen, David Fritz, Christopher Kruegel, Giovanni Vigna, Saurabh Bagchi, Mathias Payer | [Link](http://hexhive.epfl.ch/publications/files/20SEC2.pdf) | [Github](https://github.com/embedded-sec/halucinator) |
+
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2020 | Using Z3 Theorem on AVR Firmware | Ryan Cornateanu | [Link](https://ryancor.medium.com/using-z3-theorem-on-avr-firmware-c6d2f45ac9c2) |
 
 
 ## Misc/Other 
