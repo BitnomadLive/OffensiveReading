@@ -50,7 +50,8 @@
 ## Side Channels
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
-| 2019 | SMoTherSpectre: Exploiting Speculative Executionthrough Port Contention | Atri Bhattacharyya, Alexandra Sandulescu, Matthias Neugschwandtner, Alessandro Sorniotti, Babak Falsafi, Mathias Payer, Anil Kurmus  | [Link](https://hexhive.epfl.ch/publications/files/19CCS.pdf) | [Github](https://github.com/HexHive/SMoTherSpectre) |
+| --- | --- | --- | --- | --- |
+| 2019 | SMoTherSpectre: Exploiting Speculative Executionthrough Port Contention | Atri Bhattacharyya, Alexandra Sandulescu, Matthias Neugschwandtner, Alessandro Sorniotti, Babak Falsafi, Mathias Payer, Anil Kurmus | [Link](https://hexhive.epfl.ch/publications/files/19CCS.pdf) | [Github](https://github.com/HexHive/SMoTherSpectre) |
 
 
 ## DNS
