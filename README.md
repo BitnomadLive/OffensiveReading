@@ -77,8 +77,7 @@
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2021 | Leveraging AI to optimize website structure discovery during Penetration Testing | Diego Antonellib, Roberta Cascellab, Gaetano Perronea, Simon Pietro
-Romanoa, Antonio Schiano | [Link](https://arxiv.org/pdf/2101.07223.pdf) | --- |
+| 2021 | Leveraging AI to optimize website structure discovery during Penetration Testing | Diego Antonellib, Roberta Cascellab, Gaetano Perronea, Simon Pietro Romanoa, Antonio Schiano | [Link](https://arxiv.org/pdf/2101.07223.pdf) | --- |
 | 2021 | The Threat of Offensive AI to Organizations | YISROEL MIRSKY, AMBRA DEMONTIS, JAIDIP KOTAK, RAM SHANKAR, DENG GELEI, LIU YANG, XIANGYU ZHANG, WENKE LEE, YUVAL ELOVICI, BATTISTA BIGGIO | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
 | 2021 | Deep Learning-Based Autonomous DrivingSystems: A Survey of Attacks and Defenses | Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han | [Link](https://arxiv.org/pdf/2104.01789.pdf) | --- |
 | 2017 | Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN | Weiwei Hu, Ying Tan | [Link](https://arxiv.org/pdf/1702.05983.pdf) | --- |
