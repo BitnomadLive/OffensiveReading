@@ -6,6 +6,7 @@
 | --- | --- | --- | --- | --- |
 | 2021 | SoK: In Search of Lost Time: A Review of JavaScript Timers in Browsers. | Thomas Rokicki, Clémentine Maurice, Pierre Laperdrix | [Link](https://hal.inria.fr/hal-03215569) | --- |
 | 2021 | Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage | Soroush Karami, Panagiotis Ilia, Jason Polakis | [Link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-2_23104_paper.pdf) | |
+| 2020 | Cross-Origin State Inference (COSI) Attacks:Leaking Web Site States through XS-Leaks | Avinash Sudhodanan, Soheil Khodayari, Juan Caballero | [Link](https://arxiv.org/pdf/1908.02204.pdf) |  |
 | 2019 | BakingTimer: privacy analysis of server-side request processing time | Iskander Sánchez-Rola, D. Balzarotti, I. Santos | [Link](https://www.semanticscholar.org/paper/BakingTimer%3A-privacy-analysis-of-server-side-time-S%C3%A1nchez-Rola-Balzarotti/fcb40f635dc8195c8529585d7bfcde8920e0a57b) | |
 | 2019 | Browser Fingerprinting using Combinatorial Sequence Testing | Bernhard Garn, Dimitris E. Simos, Stefan Zauner, Rick Kuhn, Raghu Kacker| [Link](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=927531) |  |
 | 2017 | Practical Keystroke Timing Attacks in Sandboxed JavaScript | Moritz Lipp, Daniel Gruss, Michael Schwarz, David Bidner, Clementine Maurice, Stefan Mangard | [Link](https://mlq.me/download/keystroke_js.pdf) | [Github](https://github.com/IAIK/interruptjs) |
@@ -15,6 +16,7 @@
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
+| 2021 | Examining JavaScript Inter-Process Communication in Firefox  | Frederik Braun | [Link](https://blog.mozilla.org/attack-and-defense/2021/04/27/examining-javascript-inter-process-communication-in-firefox/) |
 | 2020 | Marginwidth/marginheight – the unexpected cross-origin communication channel | Michał Bentkowski | [Link](https://research.securitum.com/marginwidth-marginheight-the-unexpected-cross-origin-communication-channel/) |
 | 2018 | Side-channel attacking browsers through CSS3 features | Ruslan Habalov | [Link](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) |
 | 2016 | CSS mix-blend-mode is bad for your browsing history | lcamtuf | [Link](https://lcamtuf.blogspot.com/2016/08/css-mix-blend-mode-is-bad-for-keeping.html) |
@@ -40,6 +42,7 @@
 | 2021 | Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses | Anatoly Shusterman, Ayush Agarwal, Sioli O’Connell, Daniel Genkin, Yossi Oren, Yuval Yarom  | [Link](https://arxiv.org/pdf/2103.04952.pdf) | --- |
 | 2021| Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets | Pierre Laperdrix, Oleksii Starov, Quan Chen, Alexandros Kapravelos, Nick Nikiforakis | [Link](https://www.usenix.org/system/files/sec21fall-laperdrix.pdf) | [Github](https://github.com/plaperdr/fingerprinting-in-style) |
 | 2020 | Confused by Path: Analysis of Path Confusion Based Attacks | Seyed Ali Mirheidari | [Link](https://iris.unitn.it/retrieve/handle/11572/280512/382175/rpo/) | --- |
+| 2020 | Large-Scale Analysis of Style Injection by Relative Path Overwrite | Sajjad Arshad, Seyed Ali Mirheidari, Tobias Lauinger, Bruno Crispo, Engin Kirda, William Robertson  | [Link](https://arxiv.org/pdf/1811.00917.pdf) | --- |
 
 ### Blogposts
 | Year | Title | Author | Link |
@@ -60,8 +63,15 @@
 | --- | --- | --- | --- | --- |
 | 2021 | DNS and the DNS Cache Poisoning Attack | Avi Kak  | [Link](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture17.pdf) | |
 | 2021 | The CNAME of the Game:Large-scale Analysis of DNS-based TrackingEvasion | Yana Dimova, Gunes Acar, Lukasz Olejnik, Wouter Joosen, Tom Van Goethem | [Link](https://arxiv.org/pdf/2102.09301.pdf) | --- |
+| 2020 | Cross Layer Attacks and How to Use Them (forDNS Cache Poisoning, Device Tracking and More) | Amit Klein | [Link](https://arxiv.org/pdf/2012.07432.pdf) | --- |
 | 2017 | Something From Nothing (There): Collecting Global IPv6 Datasets From DNS | Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna | [Link](https://ipv6.farm/publications/pam2017-nxdomain.pdf) | [Gitlab](https://gitlab.inet.tu-berlin.de/ptr6scan/toolchain) |
+| 2011 | Bitsquatting  DNS    Hijacking    without    Exploitation | Dinaburg | [Link](https://media.blackhat.com/bh-us-11/Dinaburg/BH_US_11_Dinaburg_Bitsquatting_WP.pdf) | --- |
 | 2005 | NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Yehuda Afek, Anat Bremler-Barr, Lior Shafir | [Link](https://arxiv.org/ftp/arxiv/papers/2005/2005.09107.pdf) | --- |
+
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2021 | Dangling DNS: Amazon EC2 IPs (Current State) | Mohamed Elbadry | [Link](https://blog.melbadry9.xyz/dangling-dns/aws/ddns-ec2-current-state) |
 
 
 ## Vulnerability Discovery - Web
@@ -72,6 +82,7 @@
 | 2021 | Over 100 Bugs in a Row: Security Analysis of the Top-Rated Joomla Extensions | Marcus Niemietz, Mario Korth, Christian Mainka, Juraj Somorovsky | [Link](https://arxiv.org/pdf/2102.03131.pdf) | --- |
 | 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
 | 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
+| 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | --- | --- |
 
 ## AI
 ### Papers/Thesis
@@ -92,13 +103,23 @@
 | 2021 | Revizor: Fuzzing for Leaks in Black-box CPUs | Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Github](https://github.com/hw-sw-contracts/revizor) |
 | 2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | Xiaotao Feng, Ruoxi Sun, Xiaogang Zhu, Minhui Xue, Sheng Wen, Dongxi Liu, Surya Nepal, Yang Xiang | [Link](https://arxiv.org/pdf/2105.05445.pdf) | --- |
 
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2021 | Speculating the entire x86-64 Instruction Set In Seconds with This One Weird Trick | Can Bölük | [Link](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/) |
+| 2020 | Bugs on the Windshield: Fuzzing the Windows Kernel | Netanel Ben Simon | [Link](https://research.checkpoint.com/2020/bugs-on-the-windshield-fuzzing-the-windows-kernel/amp/) |
+
 ## Mobile/Radio 
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | LTrack: Stealthy Tracking of Mobile Phones in LTE | Martin Kotuliak, Simon Erni, Patrick Leu, Marc Röschlin, Srdjan Capkun | [Link](https://arxiv.org/pdf/2106.05007.pdf) | --- |
 
-
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2021 | SeaGlass Enabling City-Wide IMSI-Catcher Detection | -Peter Ney, Ian Smith, Tadayoshi Kohno, Gabriel Cadamuro | [Link](https://seaglass.cs.washington.edu/) |
+| 2020 | BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | Andy Nguyen | [Link](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html) |
 
 ## IoT
 ### Papers/Thesis
@@ -134,6 +155,7 @@
 | 2021 | Security and Privacy of Social Logins (II) | Louis Christopher Jannett | [Link](https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html) |
 | 2021 | Security and Privacy of Social Logins (III) | Louis Christopher Jannett | [Link](https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part3.html) |
 | 2021 | Weird Ways to Run Unmanaged Code in .NET | XPN/Adam Chester | [Link](https://blog.xpnsec.com/weird-ways-to-execute-dotnet/) |
+| 2020 | Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine | Bert Hubert  | [Link](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) |
 | 2020 | Practical Exploitation of Math.random on V8 | d0nut | [YT](https://www.youtube.com/watch?v=_Iv6fBrcbAM) [Github](https://github.com/d0nutptr/v8_rand_buster) |
 | 2018 | Introduction to Locality-Sensitive Hashing | Tyler Neylon | [Link](https://unboxresearch.com/articles/lsh_post1.html) |
 
