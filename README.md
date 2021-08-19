@@ -12,7 +12,6 @@
 | 2016 | HEIST: HTTP Encrypted Information can be Stolen through TCP-windows | Mathy Vanhoef,Tom Van Goethem | [Link](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf) | |
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
 
-
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
@@ -21,13 +20,14 @@
 | 2016 | CSS mix-blend-mode is bad for your browsing history | lcamtuf | [Link](https://lcamtuf.blogspot.com/2016/08/css-mix-blend-mode-is-bad-for-keeping.html) |
 | NULL | History theft with CSS Boolean algebra | lcamtuf | [Link](https://lcamtuf.coredump.cx/css_calc/) |
 
+
 ## XSS
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
 | 2020 | PMForce: Systematically AnalyzingpostMessage Handlers at Scale | Marius Steffens, Ben Stock | [Link](https://people.cispa.io/ben.stock/papers/steffens2020pmforce.pdf) | [Github](https://github.com/mariussteffens/pmforce) |
-| --- | Auto-Patching DOM-based XSS At Scale | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://www.comp.nus.edu.sg/~tsunami/papers/fse15-main.pdf) | --- |
+| 2015 | Auto-Patching DOM-based XSS At Scale | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://www.comp.nus.edu.sg/~tsunami/papers/fse15-main.pdf) | --- |
 | 2015 | DEXTERJS: Robust Testing Platform for DOM-Based XSSVulnerabilities | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://n.ethz.ch/~sshivaji/publications/dexterjs_fse15.pdf) | --- |
 | 2013 | 25 Million Flows Later - Large-scale Detection of DOM-based XSS | Sebastian Lekies, Ben Stock, Martin Johns | [Link](https://people.cispa.io/ben.stock/papers/lekies2013flows.pdf) | --- |
 | 2013 | mXSS Attacks:  Attacking well-secured Web-Applicationsby using innerHTML Mutations | Mario Heiderich, Jörg Schwenk, Tilman Frosch, Jonas Magazinius, Edward Z. Yang  | [Link](https://cure53.de/fp170.pdf) | --- |
@@ -37,9 +37,9 @@
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses | Anatoly Shusterman, Ayush Agarwal, Sioli O’Connell, Daniel Genkin, Yossi Oren, Yuval Yarom  | [Link](https://arxiv.org/pdf/2103.04952.pdf) | --- |
 | 2021| Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets | Pierre Laperdrix, Oleksii Starov, Quan Chen, Alexandros Kapravelos, Nick Nikiforakis | [Link](https://www.usenix.org/system/files/sec21fall-laperdrix.pdf) | [Github](https://github.com/plaperdr/fingerprinting-in-style) |
 | 2020 | Confused by Path: Analysis of Path Confusion Based Attacks | Seyed Ali Mirheidari | [Link](https://iris.unitn.it/retrieve/handle/11572/280512/382175/rpo/) | --- |
-
 
 ### Blogposts
 | Year | Title | Author | Link |
@@ -47,6 +47,10 @@
 | 2019 | Better Exfiltration via HTML Injection | d0nut | [Link](https://d0nut.medium.com/better-exfiltration-via-html-injection-31c72a2dae8b) |
 
 
+## Side Channels
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| 2019 | SMoTherSpectre: Exploiting Speculative Executionthrough Port Contention | --- | [Link](https://hexhive.epfl.ch/publications/files/19CCS.pdf) | [Github](https://github.com/HexHive/SMoTherSpectre) |
 
 
 ## DNS
@@ -54,6 +58,9 @@
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | DNS and the DNS Cache Poisoning Attack | Avi Kak  | [Link](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture17.pdf) | |
+| 2021 | The CNAME of the Game:Large-scale Analysis of DNS-based TrackingEvasion | Yana Dimova, Gunes Acar, Lukasz Olejnik, Wouter Joosen, Tom Van Goethem | [Link](https://arxiv.org/pdf/2102.09301.pdf) | --- |
+| 2017 | Something From Nothing (There): Collecting Global IPv6 Datasets From DNS | Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna | [Link](https://ipv6.farm/publications/pam2017-nxdomain.pdf) | [Gitlab](https://gitlab.inet.tu-berlin.de/ptr6scan/toolchain) |
+| 2005 | NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Yehuda Afek, Anat Bremler-Barr, Lior Shafir | [Link](https://arxiv.org/ftp/arxiv/papers/2005/2005.09107.pdf) | --- |
 
 
 ## Vulnerability Discovery - Web
@@ -61,19 +68,26 @@
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
+| 2021 | Over 100 Bugs in a Row: Security Analysis of the Top-Rated Joomla Extensions | Marcus Niemietz, Mario Korth, Christian Mainka, Juraj Somorovsky | [Link](https://arxiv.org/pdf/2102.03131.pdf) | --- |
 | 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
+| 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
 
 ## AI
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Leveraging AI to optimize website structure discovery during Penetration Testing | Diego Antonellib, Roberta Cascellab, Gaetano Perronea, Simon Pietro
+Romanoa, Antonio Schiano | [Link](https://arxiv.org/pdf/2101.07223.pdf) | --- |
 | 2021 | The Threat of Offensive AI to Organizations | YISROEL MIRSKY, AMBRA DEMONTIS, JAIDIP KOTAK, RAM SHANKAR, DENG GELEI, LIU YANG, XIANGYU ZHANG, WENKE LEE, YUVAL ELOVICI, BATTISTA BIGGIO | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
 | 2021 | Deep Learning-Based Autonomous DrivingSystems: A Survey of Attacks and Defenses | Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han | [Link](https://arxiv.org/pdf/2104.01789.pdf) | --- |
+| 2017 | Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN | Weiwei Hu, Ying Tan | [Link](https://arxiv.org/pdf/1702.05983.pdf) | --- |
 
-## Fuzzing 
+
+## Fuzzing / Exploitation / Vulnerability Discovery in Binaries
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Spotting Silent Buffer Overflows in Execution Trace throughGraph Neural Network Assisted Data Flow Analysis | Zhilong Wang, Li Yu, Suhang Wang and Peng Liu | [Link](https://arxiv.org/pdf/2102.10452.pdf) | --- |
 | 2021 | QFuzz: Quantitative Fuzzing for Side Channels | Yannic Noller, Saeid Tizpaz-Niari | [Link](https://arxiv.org/pdf/2106.03346.pdf) | [Github](https://github.com/yannicnoller/qfuzz) |
 | 2021 | Revizor: Fuzzing for Leaks in Black-box CPUs | Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Github](https://github.com/hw-sw-contracts/revizor) |
 | 2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | Xiaotao Feng, Ruoxi Sun, Xiaogang Zhu, Minhui Xue, Sheng Wen, Dongxi Liu, Surya Nepal, Yang Xiang | [Link](https://arxiv.org/pdf/2105.05445.pdf) | --- |
@@ -97,6 +111,8 @@
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks | Johannes Krupp, Christian Rossow | [Link](https://arxiv.org/pdf/2103.08440.pdf) | --- |
+| 2021 | The Rise and Fall of Fake News sites: A Traffic Analysis | -Manolis Chalkiadakis, Alexandros Kornilakis, Pangiotis Papadopoulos, Evangelos P. Markatos, Nicolas Kourtellis  | -[Link](https://arxiv.org/pdf/2103.09258.pdf) | --- |
 | 2021 | Kubernetes Auto-Scaling: YoYo attack vulnerability and mitigation | Ronen Ben-David, Anat Bremler-Barr | [Link](https://arxiv.org/pdf/2105.00542.pdf) | --- |
 | 2021 | Intrinsic Propensity for Vulnerability in Computers?Arbitrary Code Execution in the Universal Turing Machine | Pontus Johnson | [Link](https://arxiv.org/pdf/2105.02124.pdf) | --- |
 | 2021 | Python and Malware:  Developing Stealth and Evasive Malware WithoutObfuscation | Vasilios Koutsokostas, Constantinos Patsakis | [Link](https://arxiv.org/pdf/2105.00565.pdf) | --- |
@@ -106,14 +122,18 @@
 | 2021 | Web Content Signing with Service Workers | Thomas Sutter, Peter Berlich, Marc Rennhard, Kevin Lapagna, Fabio Germann | [Link](https://arxiv.org/pdf/2105.05551.pdf) | --- |
 | 2021 | Memory-Safety Challenge Considered Solved? An In-DepthStudy with All Rust CVEs | Hui Xu, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, Michael R. Lyu | [Link](https://arxiv.org/pdf/2003.03296.pdf) | --- |
 | 2020 | Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs | Boqin Qin, Yilun Chen, Zeming Yu, Linhai Song, Yiying Zhang | [Link](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf) | --- |
+| 2020 | Security and Privacy of Social Login | Louis Christopher Jannett | [Link](https://www.nds.ruhr-uni-bochum.de/media/nds/arbeiten/2020/10/29/Masterarbeit_Louis_Jannett_Security_and_Privacy_of_Social_Logins.pdf) | --- |
 | 2014 | ECMAScript 6 for Penetration Testers |  Mario Heiderich | [Link](https://cure53.de/es6-for-penetration-testers.pdf) | --- |
-
+| 2005 | A Self-Learning Worm Using Importance Scanning | Zesheng Chen, Chuanyi Ji | [Link](https://users.pfw.edu/chenz/paper/worm05-chen.pdf) | --- |
+| 2005 | Network Protocol Analysis using Bioinformatics Algorithms | Marshall A. Beddoe | [Link](http://phreakocious.net/PI/PI.pdf) | |
 
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
+| 2021 | Security and Privacy of Social Logins (I) | Louis Christopher Jannett | [Link](https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part1.html) |
+| 2021 | Security and Privacy of Social Logins (II) | Louis Christopher Jannett | [Link](https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html) |
+| 2021 | Security and Privacy of Social Logins (III) | Louis Christopher Jannett | [Link](https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part3.html) |
 | 2021 | Weird Ways to Run Unmanaged Code in .NET | XPN/Adam Chester | [Link](https://blog.xpnsec.com/weird-ways-to-execute-dotnet/) |
 | 2020 | Practical Exploitation of Math.random on V8 | d0nut | [YT](https://www.youtube.com/watch?v=_Iv6fBrcbAM) [Github](https://github.com/d0nutptr/v8_rand_buster) |
-
-
+| 2018 | Introduction to Locality-Sensitive Hashing | Tyler Neylon | [Link](https://unboxresearch.com/articles/lsh_post1.html) |
 
