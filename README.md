@@ -21,6 +21,12 @@
 | 2016 | CSS mix-blend-mode is bad for your browsing history | lcamtuf | [Link](https://lcamtuf.blogspot.com/2016/08/css-mix-blend-mode-is-bad-for-keeping.html) |
 | NULL | History theft with CSS Boolean algebra | lcamtuf | [Link](https://lcamtuf.coredump.cx/css_calc/) |
 
+## XSS
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
+| 2013 | mXSS Attacks:  Attacking well-secured Web-Applicationsby using innerHTML Mutations | Mario Heiderich, Jörg Schwenk, Tilman Frosch, Jonas Magazinius, Edward Z. Yang  | [Link](https://cure53.de/fp170.pdf) | --- |
 
 
 ## CSS
@@ -28,6 +34,8 @@
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021| Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets | Pierre Laperdrix, Oleksii Starov, Quan Chen, Alexandros Kapravelos, Nick Nikiforakis | [Link](https://www.usenix.org/system/files/sec21fall-laperdrix.pdf) | [Github](https://github.com/plaperdr/fingerprinting-in-style) |
+| 2020 | Confused by Path: Analysis of Path Confusion Based Attacks | Seyed Ali Mirheidari | [Link](https://iris.unitn.it/retrieve/handle/11572/280512/382175/rpo/) | --- |
+
 
 ### Blogposts
 | Year | Title | Author | Link |
@@ -41,7 +49,7 @@
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2021 | DNS and the DNS Cache Poisoning Attack -a 103 pages introduction to DNS and basic DNS poisoning | Avi Kak  | [Link](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture17.pdf) | |
+| 2021 | DNS and the DNS Cache Poisoning Attack | Avi Kak  | [Link](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture17.pdf) | |
 
 
 ## Vulnerability Discovery - Web
@@ -52,6 +60,44 @@
 
 
 
+## AI
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2021 | The Threat of Offensive AI to Organizations | YISROEL MIRSKY, AMBRA DEMONTIS, JAIDIP KOTAK, RAM SHANKAR, DENG GELEI, LIU YANG, XIANGYU ZHANG, WENKE LEE, YUVAL ELOVICI, BATTISTA BIGGIO | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
+
+## Fuzzing 
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2021 | QFuzz: Quantitative Fuzzing for Side Channels | Yannic Noller, Saeid Tizpaz-Niari | [Link](https://arxiv.org/pdf/2106.03346.pdf) | [Github](https://github.com/yannicnoller/qfuzz) |
+| 2021 | Revizor: Fuzzing for Leaks in Black-box CPUs | Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Github](https://github.com/hw-sw-contracts/revizor) |
+| 2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | Xiaotao Feng, Ruoxi Sun, Xiaogang Zhu, Minhui Xue, Sheng Wen, Dongxi Liu, Surya Nepal, Yang Xiang | [Link](https://arxiv.org/pdf/2105.05445.pdf) | --- |
+
+## Mobile/Radio 
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2021 | LTrack: Stealthy Tracking of Mobile Phones in LTE | Martin Kotuliak, Simon Erni, Patrick Leu, Marc Röschlin, Srdjan Capkun | [Link](https://arxiv.org/pdf/2106.05007.pdf) | --- |
+
+
+
+## IoT
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2021 | A Measurement Study on the (In)security of End-of-Life (EoL) Embedded Devices | Dingding Wang, Muhui Jiang, Rui Chang, Yajin Zhou, Baolei Hou, Xiapu Luo, Lei Wu, Kui Ren | [LINK](https://arxiv.org/pdf/2105.14298.pdf) | --- |
+
+
+## Misc/Other 
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2021 | The Closer You Look, The More You Learn: A Grey-box Approach to Protocol State Machine Learning | Chris McMahon Stone, Sam L. Thomas, Mathy Vanhoef, James Henderson, Nicolas Bailluet, Tom Chothia  | [LINK](https://arxiv.org/pdf/2106.02623.pdf) | --- |
+| 2021 | How Great is the Great Firewall? Measuring China’s DNS Censorship | Nguyen Phong Hoang, Arian Akhavan Niaki, Jakub Dalek, Jeffrey Knockel, Pellaeon Lin, Bill Marczak, Masashi Crete-Nishihata, Phillipa Gill, Michalis Polychronakis | [Link](https://arxiv.org/pdf/2106.02167.pdf) | --- |
+| 2021 | SEVerity: Code Injection Attacks against Encrypted Virtual Machines | Mathias Morbitzer, Sergej Proskurin, Martin Radev, Marko Dorfhuber, Erick Quintanar Salas | [Link](https://arxiv.org/pdf/2105.13824.pdf) | --- |
+| 2021 | Web Content Signing with Service Workers | Thomas Sutter, Peter Berlich, Marc Rennhard, Kevin Lapagna, Fabio Germann | [Link](https://arxiv.org/pdf/2105.05551.pdf) | --- |
+| 2014 | ECMAScript 6 for Penetration Testers |  Mario Heiderich | [Link](https://cure53.de/es6-for-penetration-testers.pdf) | --- |
 
 
 
