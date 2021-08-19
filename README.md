@@ -26,6 +26,10 @@
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
+| 2020 | PMForce: Systematically AnalyzingpostMessage Handlers at Scale | Marius Steffens, Ben Stock | [Link](https://people.cispa.io/ben.stock/papers/steffens2020pmforce.pdf) | [Github](https://github.com/mariussteffens/pmforce) |
+| --- | Auto-Patching DOM-based XSS At Scale | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://www.comp.nus.edu.sg/~tsunami/papers/fse15-main.pdf) | --- |
+| 2015 | DEXTERJS: Robust Testing Platform for DOM-Based XSSVulnerabilities | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://n.ethz.ch/~sshivaji/publications/dexterjs_fse15.pdf) | --- |
+| 2013 | 25 Million Flows Later - Large-scale Detection of DOM-based XSS | Sebastian Lekies, Ben Stock, Martin Johns | [Link](https://people.cispa.io/ben.stock/papers/lekies2013flows.pdf) | --- |
 | 2013 | mXSS Attacks:  Attacking well-secured Web-Applicationsby using innerHTML Mutations | Mario Heiderich, Jörg Schwenk, Tilman Frosch, Jonas Magazinius, Edward Z. Yang  | [Link](https://cure53.de/fp170.pdf) | --- |
 
 
@@ -57,14 +61,14 @@
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
-
-
+| 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
 
 ## AI
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | The Threat of Offensive AI to Organizations | YISROEL MIRSKY, AMBRA DEMONTIS, JAIDIP KOTAK, RAM SHANKAR, DENG GELEI, LIU YANG, XIANGYU ZHANG, WENKE LEE, YUVAL ELOVICI, BATTISTA BIGGIO | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
+| 2021 | Deep Learning-Based Autonomous DrivingSystems: A Survey of Attacks and Defenses | Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han | [Link](https://arxiv.org/pdf/2104.01789.pdf) | --- |
 
 ## Fuzzing 
 ### Papers/Thesis
@@ -93,11 +97,23 @@
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Kubernetes Auto-Scaling: YoYo attack vulnerability and mitigation | Ronen Ben-David, Anat Bremler-Barr | [Link](https://arxiv.org/pdf/2105.00542.pdf) | --- |
+| 2021 | Intrinsic Propensity for Vulnerability in Computers?Arbitrary Code Execution in the Universal Turing Machine | Pontus Johnson | [Link](https://arxiv.org/pdf/2105.02124.pdf) | --- |
+| 2021 | Python and Malware:  Developing Stealth and Evasive Malware WithoutObfuscation | Vasilios Koutsokostas, Constantinos Patsakis | [Link](https://arxiv.org/pdf/2105.00565.pdf) | --- |
 | 2021 | The Closer You Look, The More You Learn: A Grey-box Approach to Protocol State Machine Learning | Chris McMahon Stone, Sam L. Thomas, Mathy Vanhoef, James Henderson, Nicolas Bailluet, Tom Chothia  | [LINK](https://arxiv.org/pdf/2106.02623.pdf) | --- |
 | 2021 | How Great is the Great Firewall? Measuring China’s DNS Censorship | Nguyen Phong Hoang, Arian Akhavan Niaki, Jakub Dalek, Jeffrey Knockel, Pellaeon Lin, Bill Marczak, Masashi Crete-Nishihata, Phillipa Gill, Michalis Polychronakis | [Link](https://arxiv.org/pdf/2106.02167.pdf) | --- |
 | 2021 | SEVerity: Code Injection Attacks against Encrypted Virtual Machines | Mathias Morbitzer, Sergej Proskurin, Martin Radev, Marko Dorfhuber, Erick Quintanar Salas | [Link](https://arxiv.org/pdf/2105.13824.pdf) | --- |
 | 2021 | Web Content Signing with Service Workers | Thomas Sutter, Peter Berlich, Marc Rennhard, Kevin Lapagna, Fabio Germann | [Link](https://arxiv.org/pdf/2105.05551.pdf) | --- |
+| 2021 | Memory-Safety Challenge Considered Solved? An In-DepthStudy with All Rust CVEs | Hui Xu, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, Michael R. Lyu | [Link](https://arxiv.org/pdf/2003.03296.pdf) | --- |
+| 2020 | Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs | Boqin Qin, Yilun Chen, Zeming Yu, Linhai Song, Yiying Zhang | [Link](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf) | --- |
 | 2014 | ECMAScript 6 for Penetration Testers |  Mario Heiderich | [Link](https://cure53.de/es6-for-penetration-testers.pdf) | --- |
+
+
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2021 | Weird Ways to Run Unmanaged Code in .NET | XPN/Adam Chester | [Link](https://blog.xpnsec.com/weird-ways-to-execute-dotnet/) |
+| 2020 | Practical Exploitation of Math.random on V8 | d0nut | [YT](https://www.youtube.com/watch?v=_Iv6fBrcbAM) [Github](https://github.com/d0nutptr/v8_rand_buster) |
 
 
 
