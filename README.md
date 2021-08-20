@@ -10,9 +10,11 @@
 | 2019 | BakingTimer: privacy analysis of server-side request processing time | Iskander Sánchez-Rola, D. Balzarotti, I. Santos | [Link](https://www.semanticscholar.org/paper/BakingTimer%3A-privacy-analysis-of-server-side-time-S%C3%A1nchez-Rola-Balzarotti/fcb40f635dc8195c8529585d7bfcde8920e0a57b) | |
 | 2019 | Browser Fingerprinting using Combinatorial Sequence Testing | Bernhard Garn, Dimitris E. Simos, Stefan Zauner, Rick Kuhn, Raghu Kacker| [Link](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=927531) |  |
 | 2018 | How Tracking Companies Circumvented Ad Blockers Using WebSockets | Muhammad Ahmad Bashir, Sajjad Arshad, Engin Kirda, William Robertson, Christo Wilson | [Link](https://sajjadium.github.io/files/imc2018websockets_paper.pdf) | --- |
+| 2017 | Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript | Michael Schwarz, Clémentine Maurice, Daniel Gruss, Stefan Mangard | [Link](https://gruss.cc/files/fantastictimers.pdf) | --- |
 | 2017 | Practical Keystroke Timing Attacks in Sandboxed JavaScript | Moritz Lipp, Daniel Gruss, Michael Schwarz, David Bidner, Clementine Maurice, Stefan Mangard | [Link](https://mlq.me/download/keystroke_js.pdf) | [Github](https://github.com/IAIK/interruptjs) |
 | 2016 | HEIST: HTTP Encrypted Information can be Stolen through TCP-windows | Mathy Vanhoef,Tom Van Goethem | [Link](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf) | |
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
+| 2009 | Cross-origin javascript capability leaks: detection, exploitation, and defense | Adam Barth, Joel Weinberger,Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/barth-weinberger-song.pdf) | --- |
 
 ### Blogposts
 | Year | Title | Author | Link |
@@ -119,7 +121,7 @@
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
-| 2021 | SeaGlass Enabling City-Wide IMSI-Catcher Detection | -Peter Ney, Ian Smith, Tadayoshi Kohno, Gabriel Cadamuro | [Link](https://seaglass.cs.washington.edu/) |
+| 2021 | SeaGlass Enabling City-Wide IMSI-Catcher Detection | Peter Ney, Ian Smith, Tadayoshi Kohno, Gabriel Cadamuro | [Link](https://seaglass.cs.washington.edu/) |
 | 2020 | BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | Andy Nguyen | [Link](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html) |
 
 
@@ -141,7 +143,7 @@
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks | Johannes Krupp, Christian Rossow | [Link](https://arxiv.org/pdf/2103.08440.pdf) | --- |
-| 2021 | The Rise and Fall of Fake News sites: A Traffic Analysis | -Manolis Chalkiadakis, Alexandros Kornilakis, Pangiotis Papadopoulos, Evangelos P. Markatos, Nicolas Kourtellis  | -[Link](https://arxiv.org/pdf/2103.09258.pdf) | --- |
+| 2021 | The Rise and Fall of Fake News sites: A Traffic Analysis | Manolis Chalkiadakis, Alexandros Kornilakis, Pangiotis Papadopoulos, Evangelos P. Markatos, Nicolas Kourtellis  | -[Link](https://arxiv.org/pdf/2103.09258.pdf) | --- |
 | 2021 | Kubernetes Auto-Scaling: YoYo attack vulnerability and mitigation | Ronen Ben-David, Anat Bremler-Barr | [Link](https://arxiv.org/pdf/2105.00542.pdf) | --- |
 | 2021 | Intrinsic Propensity for Vulnerability in Computers?Arbitrary Code Execution in the Universal Turing Machine | Pontus Johnson | [Link](https://arxiv.org/pdf/2105.02124.pdf) | --- |
 | 2021 | Python and Malware:  Developing Stealth and Evasive Malware WithoutObfuscation | Vasilios Koutsokostas, Constantinos Patsakis | [Link](https://arxiv.org/pdf/2105.00565.pdf) | --- |
