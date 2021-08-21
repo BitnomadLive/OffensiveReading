@@ -16,6 +16,7 @@
 | 2016 | Trusted Browsers for Uncertain Times | David Kohlbrenner, Hovav Shacham | [Link](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kohlbrenner.pdf) | --- |
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
 | 2009 | Cross-origin javascript capability leaks: detection, exploitation, and defense | Adam Barth, Joel Weinberger,Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/barth-weinberger-song.pdf) | --- |
+| 2007 | Exposing Private Information by Timing Web Applications | Andrew Bortz, Dan Boneh, Palash Nandy | [Link](http://crypto.stanford.edu/~dabo/papers/webtiming.pdf) | --- |
 
 ### Blogposts
 | Year | Title | Author | Link |
