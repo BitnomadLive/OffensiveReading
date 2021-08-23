@@ -107,6 +107,9 @@
 | 2021 | QFuzz: Quantitative Fuzzing for Side Channels | Yannic Noller, Saeid Tizpaz-Niari | [Link](https://arxiv.org/pdf/2106.03346.pdf) | [Github](https://github.com/yannicnoller/qfuzz) |
 | 2021 | Revizor: Fuzzing for Leaks in Black-box CPUs | Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Github](https://github.com/hw-sw-contracts/revizor) |
 | 2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | Xiaotao Feng, Ruoxi Sun, Xiaogang Zhu, Minhui Xue, Sheng Wen, Dongxi Liu, Surya Nepal, Yang Xiang | [Link](https://arxiv.org/pdf/2105.05445.pdf) | --- |
+| 2020 | The never ending war in the stack and the reincarnation of ROP attacks | Ammari Nader, Joan Calvet, Jose M. Fernandez | [Link](https://arxiv.org/pdf/2005.11886.pdf) | --- |
+| 2015 | Pattern-Based Vulnerability Discovery | Fabian Yamaguchi | [Link](https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0023-9682-0/mainFastWeb.pdf) | --- |
+
 
 ### Blogposts
 | Year | Title | Author | Link |
@@ -125,7 +128,7 @@
 | --- | --- | --- | --- |
 | 2021 | SeaGlass Enabling City-Wide IMSI-Catcher Detection | Peter Ney, Ian Smith, Tadayoshi Kohno, Gabriel Cadamuro | [Link](https://seaglass.cs.washington.edu/) |
 | 2020 | BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | Andy Nguyen | [Link](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html) |
-
+| 2019 | New Type Of GPS Spoofing Attack In China Creates "Crop Circles" Of False Location Data | Joseph Trevithick | [Link](https://www.thedrive.com/the-war-zone/31092/new-type-of-gps-spoofing-attack-in-china-creates-crop-circles-of-false-location-data) | 
 
 ## IoT
 ### Papers/Thesis
@@ -133,6 +136,7 @@
 | --- | --- | --- | --- | --- |
 | 2021 | A Measurement Study on the (In)security of End-of-Life (EoL) Embedded Devices | Dingding Wang, Muhui Jiang, Rui Chang, Yajin Zhou, Baolei Hou, Xiapu Luo, Lei Wu, Kui Ren | [LINK](https://arxiv.org/pdf/2105.14298.pdf) | --- |
 | 2020 | HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation| Abraham A. Clements, Eric Gustafson, Tobias Scharnowski, Paul Grosen, David Fritz, Christopher Kruegel, Giovanni Vigna, Saurabh Bagchi, Mathias Payer | [Link](http://hexhive.epfl.ch/publications/files/20SEC2.pdf) | [Github](https://github.com/embedded-sec/halucinator) |
+| 2016 | Towards Automated Dynamic Analysis for Linux-based Embedded Firmware | Daming D. Chen, Manuel Egele, Maverick Woo, David Brumley | [Link](https://raw.githubusercontent.com/firmadyne/firmadyne/master/paper/paper.pdf) | [Github](https://github.com/firmadyne/firmadyne) |
 
 ### Blogposts
 | Year | Title | Author | Link |
