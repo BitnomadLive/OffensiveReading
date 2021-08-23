@@ -1,6 +1,6 @@
 # OffensiveReading
 
-A collection of papers about offensive IT security with some blogposts sprinkled in. .If you want to contribute a paper just open a issue or issue a pull request. 
+A collection of papers about offensive IT security with some blogposts sprinkled in. If you want to contribute a paper just open a issue or issue a pull request. 
 
 ## Browsers / Browser Side Channel
 ### Papers/Thesis
