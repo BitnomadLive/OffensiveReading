@@ -1,5 +1,7 @@
 # OffensiveReading
 
+A collection of papers about offensive IT security with some blogposts sprinkled in. .If you want to contribute a paper just open a issue or issue a pull request. 
+
 ## Browsers / Browser Side Channel
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
@@ -109,13 +111,14 @@
 | 2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | Xiaotao Feng, Ruoxi Sun, Xiaogang Zhu, Minhui Xue, Sheng Wen, Dongxi Liu, Surya Nepal, Yang Xiang | [Link](https://arxiv.org/pdf/2105.05445.pdf) | --- |
 | 2020 | The never ending war in the stack and the reincarnation of ROP attacks | Ammari Nader, Joan Calvet, Jose M. Fernandez | [Link](https://arxiv.org/pdf/2005.11886.pdf) | --- |
 | 2015 | Pattern-Based Vulnerability Discovery | Fabian Yamaguchi | [Link](https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0023-9682-0/mainFastWeb.pdf) | --- |
-
+| 2016 | Toward large-scale vulnerability discovery using Machine Learning | Gustavo Grieco, Guillermo Luis Grinblat, Lucas Uzal, Sanjay Rawat, Josselin Feist, Laurent Mounier  | [Link](http://www.covert.io/research-papers/deep-learning-security/Toward%20large-scale%20vulnerability%20discovery%20using%20Machine%20Learning.pdf) | --- |
 
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
 | 2021 | Speculating the entire x86-64 Instruction Set In Seconds with This One Weird Trick | Can Bölük | [Link](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/) |
 | 2020 | Bugs on the Windshield: Fuzzing the Windows Kernel | Netanel Ben Simon | [Link](https://research.checkpoint.com/2020/bugs-on-the-windshield-fuzzing-the-windows-kernel/amp/) |
+| 2018 | Deep Exploit - Github Project | Isao Takaesu | [Github](https://github.com/13o-bbr-bbq/machine_learning_security/blob/master/DeepExploit/README.md) |
 
 ## Mobile/Radio 
 ### Papers/Thesis
@@ -129,6 +132,7 @@
 | 2021 | SeaGlass Enabling City-Wide IMSI-Catcher Detection | Peter Ney, Ian Smith, Tadayoshi Kohno, Gabriel Cadamuro | [Link](https://seaglass.cs.washington.edu/) |
 | 2020 | BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | Andy Nguyen | [Link](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html) |
 | 2019 | New Type Of GPS Spoofing Attack In China Creates "Crop Circles" Of False Location Data | Joseph Trevithick | [Link](https://www.thedrive.com/the-war-zone/31092/new-type-of-gps-spoofing-attack-in-china-creates-crop-circles-of-false-location-data) | 
+| 2019 | Wireless attacks on aircraft instrument landing systems | Adrian Colyer | [Link](https://blog.acolyer.org/2019/09/27/wireless-attacks-on-aircraft-instrument-landing-systems/) |
 
 ## IoT
 ### Papers/Thesis
