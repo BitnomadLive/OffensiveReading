@@ -35,8 +35,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
 | 2020 | PMForce: Systematically AnalyzingpostMessage Handlers at Scale | Marius Steffens, Ben Stock | [Link](https://people.cispa.io/ben.stock/papers/steffens2020pmforce.pdf) | [Github](https://github.com/mariussteffens/pmforce) |
+| 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
 | 2015 | Auto-Patching DOM-based XSS At Scale | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://www.comp.nus.edu.sg/~tsunami/papers/fse15-main.pdf) | --- |
 | 2015 | DEXTERJS: Robust Testing Platform for DOM-Based XSSVulnerabilities | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://n.ethz.ch/~sshivaji/publications/dexterjs_fse15.pdf) | --- |
 | 2013 | 25 Million Flows Later - Large-scale Detection of DOM-based XSS | Sebastian Lekies, Ben Stock, Martin Johns | [Link](https://people.cispa.io/ben.stock/papers/lekies2013flows.pdf) | --- |
@@ -97,7 +97,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2021 | Leveraging AI to optimize website structure discovery during Penetration Testing | Diego Antonellib, Roberta Cascellab, Gaetano Perronea, Simon Pietro Romanoa, Antonio Schiano | [Link](https://arxiv.org/pdf/2101.07223.pdf) | --- |
-| 2021 | The Threat of Offensive AI to Organizations | YISROEL MIRSKY, AMBRA DEMONTIS, JAIDIP KOTAK, RAM SHANKAR, DENG GELEI, LIU YANG, XIANGYU ZHANG, WENKE LEE, YUVAL ELOVICI, BATTISTA BIGGIO | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
+| 2021 | The Threat of Offensive AI to Organizations | Yisroel Mirsky, Ambra Demontis, Jaidip Kotak, Ram Shankar, Deng Gelei, Liu Yang, Xiangyu Zhang, Wenke Lee, Yuval Elovici, Battista Biggio | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
 | 2021 | Deep Learning-Based Autonomous DrivingSystems: A Survey of Attacks and Defenses | Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han | [Link](https://arxiv.org/pdf/2104.01789.pdf) | --- |
 | 2017 | Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN | Weiwei Hu, Ying Tan | [Link](https://arxiv.org/pdf/1702.05983.pdf) | --- |
 
@@ -111,8 +111,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Revizor: Fuzzing for Leaks in Black-box CPUs | Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Github](https://github.com/hw-sw-contracts/revizor) |
 | 2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | Xiaotao Feng, Ruoxi Sun, Xiaogang Zhu, Minhui Xue, Sheng Wen, Dongxi Liu, Surya Nepal, Yang Xiang | [Link](https://arxiv.org/pdf/2105.05445.pdf) | --- |
 | 2020 | The never ending war in the stack and the reincarnation of ROP attacks | Ammari Nader, Joan Calvet, Jose M. Fernandez | [Link](https://arxiv.org/pdf/2005.11886.pdf) | --- |
-| 2015 | Pattern-Based Vulnerability Discovery | Fabian Yamaguchi | [Link](https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0023-9682-0/mainFastWeb.pdf) | --- |
 | 2016 | Toward large-scale vulnerability discovery using Machine Learning | Gustavo Grieco, Guillermo Luis Grinblat, Lucas Uzal, Sanjay Rawat, Josselin Feist, Laurent Mounier  | [Link](http://www.covert.io/research-papers/deep-learning-security/Toward%20large-scale%20vulnerability%20discovery%20using%20Machine%20Learning.pdf) | --- |
+| 2015 | Pattern-Based Vulnerability Discovery | Fabian Yamaguchi | [Link](https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0023-9682-0/mainFastWeb.pdf) | --- |
+
 
 ### Blogposts
 | Year | Title | Author | Link |
