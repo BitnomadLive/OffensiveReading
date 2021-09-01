@@ -8,6 +8,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | --- | --- | --- | --- | --- |
 | 2021 | SoK: In Search of Lost Time: A Review of JavaScript Timers in Browsers. | Thomas Rokicki, Clémentine Maurice, Pierre Laperdrix | [Link](https://hal.inria.fr/hal-03215569) | --- |
 | 2021 | Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage | Soroush Karami, Panagiotis Ilia, Jason Polakis | [Link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-2_23104_paper.pdf) | |
+| 2020 | Everything Old is New Again: Binary Security of WebAssembly | Daniel Lehmann, Johannes Kinder, Michael Pradel | [Link](https://www.usenix.org/system/files/sec20-lehmann.pdf) | --- |
 | 2020 | Cross-Origin State Inference (COSI) Attacks:Leaking Web Site States through XS-Leaks | Avinash Sudhodanan, Soheil Khodayari, Juan Caballero | [Link](https://arxiv.org/pdf/1908.02204.pdf) |  |
 | 2019 | BakingTimer: privacy analysis of server-side request processing time | Iskander Sánchez-Rola, D. Balzarotti, I. Santos | [Link](https://www.semanticscholar.org/paper/BakingTimer%3A-privacy-analysis-of-server-side-time-S%C3%A1nchez-Rola-Balzarotti/fcb40f635dc8195c8529585d7bfcde8920e0a57b) | |
 | 2019 | Browser Fingerprinting using Combinatorial Sequence Testing | Bernhard Garn, Dimitris E. Simos, Stefan Zauner, Rick Kuhn, Raghu Kacker| [Link](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=927531) |  |
@@ -42,6 +43,12 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2013 | 25 Million Flows Later - Large-scale Detection of DOM-based XSS | Sebastian Lekies, Ben Stock, Martin Johns | [Link](https://people.cispa.io/ben.stock/papers/lekies2013flows.pdf) | --- |
 | 2013 | mXSS Attacks:  Attacking well-secured Web-Applicationsby using innerHTML Mutations | Mario Heiderich, Jörg Schwenk, Tilman Frosch, Jonas Magazinius, Edward Z. Yang  | [Link](https://cure53.de/fp170.pdf) | --- |
 
+
+## Network
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2020 | EtherOops Exploring Practical Methods To Exploit Ethernet Packet In Packet Attacks | Ben Seri, Gregory Vishnepolsky, Yevgeny Yusepovsky | [Link](https://i.blackhat.com/USA-20/Thursday/us-20-Seri-EtherOops-Exploring-Practical-Methods-To-Exploit-Ethernet-Packet-In-Packet-Attacks-wp.pdf) | --- |
 
 ## CSS
 ### Papers/Thesis
@@ -164,6 +171,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | SEVerity: Code Injection Attacks against Encrypted Virtual Machines | Mathias Morbitzer, Sergej Proskurin, Martin Radev, Marko Dorfhuber, Erick Quintanar Salas | [Link](https://arxiv.org/pdf/2105.13824.pdf) | --- |
 | 2021 | Web Content Signing with Service Workers | Thomas Sutter, Peter Berlich, Marc Rennhard, Kevin Lapagna, Fabio Germann | [Link](https://arxiv.org/pdf/2105.05551.pdf) | --- |
 | 2021 | Memory-Safety Challenge Considered Solved? An In-DepthStudy with All Rust CVEs | Hui Xu, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, Michael R. Lyu | [Link](https://arxiv.org/pdf/2003.03296.pdf) | --- |
+| 2020 | Light CommANDS: Laser-Based Audio Injection on Voice-Controolable Systems | Takeshi Sugawara, Benjamin Cyr, Sara Rampazzi, Daniel Genkin, Kevin Fu | [Link](https://www.usenix.org/system/files/sec20-sugawara.pdf) | --- |
 | 2020 | Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs | Boqin Qin, Yilun Chen, Zeming Yu, Linhai Song, Yiying Zhang | [Link](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf) | --- |
 | 2020 | Security and Privacy of Social Login | Louis Christopher Jannett | [Link](https://www.nds.ruhr-uni-bochum.de/media/nds/arbeiten/2020/10/29/Masterarbeit_Louis_Jannett_Security_and_Privacy_of_Social_Logins.pdf) | --- |
 | 2014 | ECMAScript 6 for Penetration Testers |  Mario Heiderich | [Link](https://cure53.de/es6-for-penetration-testers.pdf) | --- |
