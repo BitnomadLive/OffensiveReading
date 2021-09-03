@@ -6,6 +6,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2021 | CorbFuzz: Checking Browser Security Policies with Fuzzing | Chaofan Shou,  ̇Ismet Burak Kadron, Qi Su, Tevfik Bultan | [Link](https://arxiv.org/pdf/2109.00398.pdf) | --- |
 | 2021 | SoK: In Search of Lost Time: A Review of JavaScript Timers in Browsers. | Thomas Rokicki, Clémentine Maurice, Pierre Laperdrix | [Link](https://hal.inria.fr/hal-03215569) | --- |
 | 2021 | Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage | Soroush Karami, Panagiotis Ilia, Jason Polakis | [Link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-2_23104_paper.pdf) | |
 | 2020 | Everything Old is New Again: Binary Security of WebAssembly | Daniel Lehmann, Johannes Kinder, Michael Pradel | [Link](https://www.usenix.org/system/files/sec20-lehmann.pdf) | --- |
@@ -69,6 +70,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Leaking Control Flow Information via the Hardware Prefetcher | Yun Chen, Lingfeng Pei, Trevor E. Carlson | [Link](https://arxiv.org/pdf/2109.00474.pdf) | --- |
 | 2019 | SMoTherSpectre: Exploiting Speculative Executionthrough Port Contention | Atri Bhattacharyya, Alexandra Sandulescu, Matthias Neugschwandtner, Alessandro Sorniotti, Babak Falsafi, Mathias Payer, Anil Kurmus | [Link](https://hexhive.epfl.ch/publications/files/19CCS.pdf) | [Github](https://github.com/HexHive/SMoTherSpectre) |
 
 
@@ -161,6 +163,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Demystifying Scam Tokens on Uniswap Decentralized Exchange | Pengcheng Xia, Haoyu Wang, Bingyu Gao, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng Xiao, Guoai Xu | [Link](https://arxiv.org/pdf/2109.00229.pdf) | --- |
 | 2021 | BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks | Johannes Krupp, Christian Rossow | [Link](https://arxiv.org/pdf/2103.08440.pdf) | --- |
 | 2021 | The Rise and Fall of Fake News sites: A Traffic Analysis | Manolis Chalkiadakis, Alexandros Kornilakis, Pangiotis Papadopoulos, Evangelos P. Markatos, Nicolas Kourtellis  | -[Link](https://arxiv.org/pdf/2103.09258.pdf) | --- |
 | 2021 | Kubernetes Auto-Scaling: YoYo attack vulnerability and mitigation | Ronen Ben-David, Anat Bremler-Barr | [Link](https://arxiv.org/pdf/2105.00542.pdf) | --- |
