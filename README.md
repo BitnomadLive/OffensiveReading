@@ -20,6 +20,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2016 | Trusted Browsers for Uncertain Times | David Kohlbrenner, Hovav Shacham | [Link](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kohlbrenner.pdf) | --- |
 | 2015 | The Spy in the Sandbox: Practical Cache Attacks in JavaScript and their Implications | Yossef Oren, Vasileios P. Kemerlis, Simha Sethumadhavan, Angelos D. Keromytis | [Link](http://www.cs.columbia.edu/~simha/spyjs.ccs15.pdf) | --- |
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
+| 2013 | Redefining Web Browser Principals with a Configurable Origin Policy | Yinzhi Cao, Vaibhav Rastogi, Zhichun Li, Yan Chen, Alexander Moshchuk | [Link](https://yinzhicao.org/COP/COP_DSN2013.pdf) | --- |
 | 2009 | Cross-origin javascript capability leaks: detection, exploitation, and defense | Adam Barth, Joel Weinberger,Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/barth-weinberger-song.pdf) | --- |
 | 2007 | Exposing Private Information by Timing Web Applications | Andrew Bortz, Dan Boneh, Palash Nandy | [Link](http://crypto.stanford.edu/~dabo/papers/webtiming.pdf) | --- |
 
@@ -70,6 +71,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Touchtone leakage attacks via smartphone sensors: mitigation without hardware modification | Connor Bolton, Yan Long, Jun Han, Josiah Hester, Kevin Fu | [Link](https://arxiv.org/pdf/2109.13834.pdf) | --- |
 | 2021 | Leaking Control Flow Information via the Hardware Prefetcher | Yun Chen, Lingfeng Pei, Trevor E. Carlson | [Link](https://arxiv.org/pdf/2109.00474.pdf) | --- |
 | 2019 | SMoTherSpectre: Exploiting Speculative Executionthrough Port Contention | Atri Bhattacharyya, Alexandra Sandulescu, Matthias Neugschwandtner, Alessandro Sorniotti, Babak Falsafi, Mathias Payer, Anil Kurmus | [Link](https://hexhive.epfl.ch/publications/files/19CCS.pdf) | [Github](https://github.com/HexHive/SMoTherSpectre) |
 
@@ -105,6 +107,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | A Deep Learning-based Penetration Testing Framework for Vulnerability Identification in Internet of Things Environments | Nickolaos Koroniotis, Nour Moustafa, Benjamin Turnbul, Francesco Schiliro, Praveen Gauravaram, Helge Janicke | [Link](https://arxiv.org/pdf/2109.09259.pdf) | --- |
 | 2021 | Leveraging AI to optimize website structure discovery during Penetration Testing | Diego Antonellib, Roberta Cascellab, Gaetano Perronea, Simon Pietro Romanoa, Antonio Schiano | [Link](https://arxiv.org/pdf/2101.07223.pdf) | --- |
 | 2021 | The Threat of Offensive AI to Organizations | Yisroel Mirsky, Ambra Demontis, Jaidip Kotak, Ram Shankar, Deng Gelei, Liu Yang, Xiangyu Zhang, Wenke Lee, Yuval Elovici, Battista Biggio | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
 | 2021 | Deep Learning-Based Autonomous DrivingSystems: A Survey of Attacks and Defenses | Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han | [Link](https://arxiv.org/pdf/2104.01789.pdf) | --- |
@@ -115,6 +118,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | VIA: Analyzing Device Interfaces of Protected Virtual Machines | Felicitas Hetzelt, Martin Radev, Robert Buhren, Mathias Morbitzer, Jean-Pierre Seifert | [Link](https://arxiv.org/pdf/2109.10660.pdf) | --- |
 | 2021 | Spotting Silent Buffer Overflows in Execution Trace throughGraph Neural Network Assisted Data Flow Analysis | Zhilong Wang, Li Yu, Suhang Wang and Peng Liu | [Link](https://arxiv.org/pdf/2102.10452.pdf) | --- |
 | 2021 | QFuzz: Quantitative Fuzzing for Side Channels | Yannic Noller, Saeid Tizpaz-Niari | [Link](https://arxiv.org/pdf/2106.03346.pdf) | [Github](https://github.com/yannicnoller/qfuzz) |
 | 2021 | Revizor: Fuzzing for Leaks in Black-box CPUs | Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Github](https://github.com/hw-sw-contracts/revizor) |
