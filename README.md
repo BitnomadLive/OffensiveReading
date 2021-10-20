@@ -101,7 +101,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Over 100 Bugs in a Row: Security Analysis of the Top-Rated Joomla Extensions | Marcus Niemietz, Mario Korth, Christian Mainka, Juraj Somorovsky | [Link](https://arxiv.org/pdf/2102.03131.pdf) | --- |
 | 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
 | 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
-| 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | --- | --- |
+| 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
 
 ## AI
 ### Papers/Thesis
