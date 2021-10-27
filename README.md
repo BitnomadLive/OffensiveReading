@@ -17,11 +17,15 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2018 | How Tracking Companies Circumvented Ad Blockers Using WebSockets | Muhammad Ahmad Bashir, Sajjad Arshad, Engin Kirda, William Robertson, Christo Wilson | [Link](https://sajjadium.github.io/files/imc2018websockets_paper.pdf) | --- |
 | 2017 | Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript | Michael Schwarz, Clémentine Maurice, Daniel Gruss, Stefan Mangard | [Link](https://gruss.cc/files/fantastictimers.pdf) | --- |
 | 2017 | Practical Keystroke Timing Attacks in Sandboxed JavaScript | Moritz Lipp, Daniel Gruss, Michael Schwarz, David Bidner, Clementine Maurice, Stefan Mangard | [Link](https://mlq.me/download/keystroke_js.pdf) | [Github](https://github.com/IAIK/interruptjs) |
+| 2016 | On the Incoherencies in Web Browser Access Control Policies | Kapil Singh, Alexander Moshchuk, Helen J. Wang, Wenke Lee | [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/incoherencyAndWebAnalyzer.pdf) | --- |
 | 2016 | HEIST: HTTP Encrypted Information can be Stolen through TCP-windows | Mathy Vanhoef,Tom Van Goethem | [Link](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf) | |
 | 2016 | Trusted Browsers for Uncertain Times | David Kohlbrenner, Hovav Shacham | [Link](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kohlbrenner.pdf) | --- |
 | 2015 | The Spy in the Sandbox: Practical Cache Attacks in JavaScript and their Implications | Yossef Oren, Vasileios P. Kemerlis, Simha Sethumadhavan, Angelos D. Keromytis | [Link](http://www.cs.columbia.edu/~simha/spyjs.ccs15.pdf) | --- |
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
 | 2013 | Redefining Web Browser Principals with a Configurable Origin Policy | Yinzhi Cao, Vaibhav Rastogi, Zhichun Li, Yan Chen, Alexander Moshchuk | [Link](https://yinzhicao.org/COP/COP_DSN2013.pdf) | --- |
+| 2010 | The Emperor’s New APIs: On the (In)Secure Usage of New Client-side Primitives | Steve Hanna, Eui Chul Richard Shin, Devdatta Akhawe, Arman Boehm, Prateek Saxena, Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/w2sp2010ena.pdf) | --- |
+| 2010 | Object views: Fine-grained sharing in browsers | 
+Leo Meyerovich, Adrienne Porter Felt, Mark Miller | [Link](https://www.researchgate.net/publication/221022599_Object_views_Fine-grained_sharing_in_browsers) | --- |
 | 2009 | Cross-origin javascript capability leaks: detection, exploitation, and defense | Adam Barth, Joel Weinberger,Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/barth-weinberger-song.pdf) | --- |
 | 2007 | Exposing Private Information by Timing Web Applications | Andrew Bortz, Dan Boneh, Palash Nandy | [Link](http://crypto.stanford.edu/~dabo/papers/webtiming.pdf) | --- |
 
