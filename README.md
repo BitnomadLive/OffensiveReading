@@ -6,6 +6,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2021 | Gummy Browsers: Targeted Browser Spoofing against State-of-the-Art Fingerprinting Techniques | zengrui liu, prakash shrestha, nitesh saxena | [Link](https://arxiv.org/pdf/2110.10129.pdf) | --- |
 | 2021 | CorbFuzz: Checking Browser Security Policies with Fuzzing | Chaofan Shou,  ̇Ismet Burak Kadron, Qi Su, Tevfik Bultan | [Link](https://arxiv.org/pdf/2109.00398.pdf) | --- |
 | 2021 | SoK: In Search of Lost Time: A Review of JavaScript Timers in Browsers. | Thomas Rokicki, Clémentine Maurice, Pierre Laperdrix | [Link](https://hal.inria.fr/hal-03215569) | --- |
 | 2021 | Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage | Soroush Karami, Panagiotis Ilia, Jason Polakis | [Link](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-2_23104_paper.pdf) | |
@@ -107,6 +108,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Physical Side-Channel Attacks on Embedded Neural Networks: A Survey | Maria Méndez Real, Rubén Salvador | [Link](https://arxiv.org/pdf/2110.11290.pdf) | --- |
 | 2021 | A Deep Learning-based Penetration Testing Framework for Vulnerability Identification in Internet of Things Environments | Nickolaos Koroniotis, Nour Moustafa, Benjamin Turnbul, Francesco Schiliro, Praveen Gauravaram, Helge Janicke | [Link](https://arxiv.org/pdf/2109.09259.pdf) | --- |
 | 2021 | Leveraging AI to optimize website structure discovery during Penetration Testing | Diego Antonellib, Roberta Cascellab, Gaetano Perronea, Simon Pietro Romanoa, Antonio Schiano | [Link](https://arxiv.org/pdf/2101.07223.pdf) | --- |
 | 2021 | The Threat of Offensive AI to Organizations | Yisroel Mirsky, Ambra Demontis, Jaidip Kotak, Ram Shankar, Deng Gelei, Liu Yang, Xiangyu Zhang, Wenke Lee, Yuval Elovici, Battista Biggio | [Link](https://arxiv.org/pdf/2106.15764.pdf) | --- |
@@ -162,6 +164,13 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | --- | --- | --- | --- |
 | 2020 | Using Z3 Theorem on AVR Firmware | Ryan Cornateanu | [Link](https://ryancor.medium.com/using-z3-theorem-on-avr-firmware-c6d2f45ac9c2) |
 
+## Crypto/DeFi 
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2021 | Franchised Quantum Money | Bhaskar Roberts, Mark Zhandry | [Link](https://arxiv.org/pdf/2110.09733.pdf) | --- |
+| 2021 | An Empirical Study of Protocols in Smart Contracts | Timothy Mou, Michael Coblenz, Jonathan Aldrich | [Link](https://arxiv.org/pdf/2110.08983.pdf) | --- |
+| 2021 | Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit | Kaihua Qin, Liyi Zhou, Benjamin Livshits, Arthur Gervais | [Link](https://arxiv.org/pdf/2003.03810.pdf) | --- |
 
 ## Misc/Other 
 ### Papers/Thesis
