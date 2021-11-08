@@ -146,6 +146,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Security Header Fields in HTTP Clients | Pascal Gadient, Oscar Nierstrasz, Mohammad Ghafari  | [Link](https://arxiv.org/ftp/arxiv/papers/2111/2111.03601.pdf) | --- |
 | 2021 | LTrack: Stealthy Tracking of Mobile Phones in LTE | Martin Kotuliak, Simon Erni, Patrick Leu, Marc Röschlin, Srdjan Capkun | [Link](https://arxiv.org/pdf/2106.05007.pdf) | --- |
 
 ### Blogposts
