@@ -6,6 +6,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2021 | An Empirical Analysis of HTTPS Configuration Security | Camelia Simoiu, Wilson Nguyen, Zakir Durumeric | [Link](https://arxiv.org/pdf/2111.00703.pdf) | --- |
 | 2021 | Gummy Browsers: Targeted Browser Spoofing against State-of-the-Art Fingerprinting Techniques | zengrui liu, prakash shrestha, nitesh saxena | [Link](https://arxiv.org/pdf/2110.10129.pdf) | --- |
 | 2021 | CorbFuzz: Checking Browser Security Policies with Fuzzing | Chaofan Shou,  ̇Ismet Burak Kadron, Qi Su, Tevfik Bultan | [Link](https://arxiv.org/pdf/2109.00398.pdf) | --- |
 | 2021 | SoK: In Search of Lost Time: A Review of JavaScript Timers in Browsers. | Thomas Rokicki, Clémentine Maurice, Pierre Laperdrix | [Link](https://hal.inria.fr/hal-03215569) | --- |
@@ -24,8 +25,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
 | 2013 | Redefining Web Browser Principals with a Configurable Origin Policy | Yinzhi Cao, Vaibhav Rastogi, Zhichun Li, Yan Chen, Alexander Moshchuk | [Link](https://yinzhicao.org/COP/COP_DSN2013.pdf) | --- |
 | 2010 | The Emperor’s New APIs: On the (In)Secure Usage of New Client-side Primitives | Steve Hanna, Eui Chul Richard Shin, Devdatta Akhawe, Arman Boehm, Prateek Saxena, Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/w2sp2010ena.pdf) | --- |
-| 2010 | Object views: Fine-grained sharing in browsers | 
-Leo Meyerovich, Adrienne Porter Felt, Mark Miller | [Link](https://www.researchgate.net/publication/221022599_Object_views_Fine-grained_sharing_in_browsers) | --- |
+| 2010 | Object views: Fine-grained sharing in browsers | Leo Meyerovich, Adrienne Porter Felt, Mark Miller | [Link](https://www.researchgate.net/publication/221022599_Object_views_Fine-grained_sharing_in_browsers) | --- |
 | 2009 | Cross-origin javascript capability leaks: detection, exploitation, and defense | Adam Barth, Joel Weinberger,Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/barth-weinberger-song.pdf) | --- |
 | 2007 | Exposing Private Information by Timing Web Applications | Andrew Bortz, Dan Boneh, Palash Nandy | [Link](http://crypto.stanford.edu/~dabo/papers/webtiming.pdf) | --- |
 
@@ -124,6 +124,7 @@ Leo Meyerovich, Adrienne Porter Felt, Mark Miller | [Link](https://www.researchg
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Fuzzm: Finding Memory Bugs through Binary-Only Instrumentation and Fuzzing of WebAssembly | Daniel Lehmann, Martin Toldam Torp, Michael Pradel | [Link](https://arxiv.org/pdf/2110.15433.pdf) | --- |
 | 2021 | VIA: Analyzing Device Interfaces of Protected Virtual Machines | Felicitas Hetzelt, Martin Radev, Robert Buhren, Mathias Morbitzer, Jean-Pierre Seifert | [Link](https://arxiv.org/pdf/2109.10660.pdf) | --- |
 | 2021 | Spotting Silent Buffer Overflows in Execution Trace throughGraph Neural Network Assisted Data Flow Analysis | Zhilong Wang, Li Yu, Suhang Wang and Peng Liu | [Link](https://arxiv.org/pdf/2102.10452.pdf) | --- |
 | 2021 | QFuzz: Quantitative Fuzzing for Side Channels | Yannic Noller, Saeid Tizpaz-Niari | [Link](https://arxiv.org/pdf/2106.03346.pdf) | [Github](https://github.com/yannicnoller/qfuzz) |
@@ -180,6 +181,7 @@ Leo Meyerovich, Adrienne Porter Felt, Mark Miller | [Link](https://www.researchg
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Trojan Source: Invisible Vulnerabilities | Nicholas Boucher, Ross Anderson | [Link](https://arxiv.org/pdf/2111.00169.pdf) | --- |
 | 2021 | Demystifying Scam Tokens on Uniswap Decentralized Exchange | Pengcheng Xia, Haoyu Wang, Bingyu Gao, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng Xiao, Guoai Xu | [Link](https://arxiv.org/pdf/2109.00229.pdf) | --- |
 | 2021 | BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks | Johannes Krupp, Christian Rossow | [Link](https://arxiv.org/pdf/2103.08440.pdf) | --- |
 | 2021 | The Rise and Fall of Fake News sites: A Traffic Analysis | Manolis Chalkiadakis, Alexandros Kornilakis, Pangiotis Papadopoulos, Evangelos P. Markatos, Nicolas Kourtellis  | -[Link](https://arxiv.org/pdf/2103.09258.pdf) | --- |
