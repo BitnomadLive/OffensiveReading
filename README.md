@@ -6,6 +6,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2021 | Remote Memory-Deduplication Attacks | Martin Schwarzl, Erik Kraft, Moritz Lipp, Daniel Gruss | [Link](https://arxiv.org/pdf/2111.08553.pdf) | --- |
+| --- | --- | --- | --- | --- |
 | 2021 | T-Reqs: HTTP Request Smuggling with Differential Fuzzing | Bahruz Jabiyev, Steven Sprecher, Kaan Onarlioglu, Engin Kirda | [Link](https://bahruz.me/papers/ccs2021treqs.pdf) | --- |
 | 2021 | An Empirical Analysis of HTTPS Configuration Security | Camelia Simoiu, Wilson Nguyen, Zakir Durumeric | [Link](https://arxiv.org/pdf/2111.00703.pdf) | --- |
 | 2021 | Gummy Browsers: Targeted Browser Spoofing against State-of-the-Art Fingerprinting Techniques | zengrui liu, prakash shrestha, nitesh saxena | [Link](https://arxiv.org/pdf/2110.10129.pdf) | --- |
@@ -23,6 +25,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2016 | HEIST: HTTP Encrypted Information can be Stolen through TCP-windows | Mathy Vanhoef,Tom Van Goethem | [Link](https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf) | |
 | 2016 | Trusted Browsers for Uncertain Times | David Kohlbrenner, Hovav Shacham | [Link](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kohlbrenner.pdf) | --- |
 | 2015 | The Spy in the Sandbox: Practical Cache Attacks in JavaScript and their Implications | Yossef Oren, Vasileios P. Kemerlis, Simha Sethumadhavan, Angelos D. Keromytis | [Link](http://www.cs.columbia.edu/~simha/spyjs.ccs15.pdf) | --- |
+| 2015 | Practical Memory Deduplication Attacks in Sandboxed Javascript | Daniel Gruss(, David Bidner, Stefan Mangard | [Link](https://sci-hub.st/10.1007/978-3-319-24174-6_6) | --- |
 | 2013 | Pixel Perfect Timing  Attacks with HTML5  | Paul Stone | [Link](https://web.archive.org/web/20200424035111/https://go.contextis.com/rs/140-OCV-459/images/Pixel_Perfect_Timing_Attacks_with_HTML5_Whitepaper%20(1).pdf) | [PoC](https://ndev.tk/visted/) |
 | 2013 | Redefining Web Browser Principals with a Configurable Origin Policy | Yinzhi Cao, Vaibhav Rastogi, Zhichun Li, Yan Chen, Alexander Moshchuk | [Link](https://yinzhicao.org/COP/COP_DSN2013.pdf) | --- |
 | 2010 | The Emperor’s New APIs: On the (In)Secure Usage of New Client-side Primitives | Steve Hanna, Eui Chul Richard Shin, Devdatta Akhawe, Arman Boehm, Prateek Saxena, Dawn Song | [Link](http://webblaze.cs.berkeley.edu/papers/w2sp2010ena.pdf) | --- |
@@ -77,6 +80,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Practical Timing Side Channel Attacks on Memory Compression | Martin Schwarzl, Pietro Borrello, Daniel Gruss, Gururaj Saileshwar, Hanna Müller, Michael Schwarz | [Link](https://arxiv.org/pdf/2111.08404.pdf) | --- |
 | 2021 | Touchtone leakage attacks via smartphone sensors: mitigation without hardware modification | Connor Bolton, Yan Long, Jun Han, Josiah Hester, Kevin Fu | [Link](https://arxiv.org/pdf/2109.13834.pdf) | --- |
 | 2021 | Leaking Control Flow Information via the Hardware Prefetcher | Yun Chen, Lingfeng Pei, Trevor E. Carlson | [Link](https://arxiv.org/pdf/2109.00474.pdf) | --- |
 | 2019 | SMoTherSpectre: Exploiting Speculative Executionthrough Port Contention | Atri Bhattacharyya, Alexandra Sandulescu, Matthias Neugschwandtner, Alessandro Sorniotti, Babak Falsafi, Mathias Payer, Anil Kurmus | [Link](https://hexhive.epfl.ch/publications/files/19CCS.pdf) | [Github](https://github.com/HexHive/SMoTherSpectre) |
