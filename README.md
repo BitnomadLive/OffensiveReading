@@ -180,6 +180,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | JACK THE RIPPLER: Arbitrage on the Decentralized Exchange of the XRP Ledger | Gaspard Peduzzi, Jason James, Jiahua Xu  | [Link](https://arxiv.org/pdf/2106.16158.pdf) | --- |
 | 2021 | Understanding Security Issues in the NFT Ecosystem | Dipanjan Das, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, Giovanni Vigna | [Link](https://arxiv.org/pdf/2111.08893.pdf) | --- |
 | 2021 | Franchised Quantum Money | Bhaskar Roberts, Mark Zhandry | [Link](https://arxiv.org/pdf/2110.09733.pdf) | --- |
 | 2021 | An Empirical Study of Protocols in Smart Contracts | Timothy Mou, Michael Coblenz, Jonathan Aldrich | [Link](https://arxiv.org/pdf/2110.08983.pdf) | --- |
