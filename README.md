@@ -7,7 +7,6 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
 | 2021 | Remote Memory-Deduplication Attacks | Martin Schwarzl, Erik Kraft, Moritz Lipp, Daniel Gruss | [Link](https://arxiv.org/pdf/2111.08553.pdf) | --- |
-| --- | --- | --- | --- | --- |
 | 2021 | T-Reqs: HTTP Request Smuggling with Differential Fuzzing | Bahruz Jabiyev, Steven Sprecher, Kaan Onarlioglu, Engin Kirda | [Link](https://bahruz.me/papers/ccs2021treqs.pdf) | --- |
 | 2021 | An Empirical Analysis of HTTPS Configuration Security | Camelia Simoiu, Wilson Nguyen, Zakir Durumeric | [Link](https://arxiv.org/pdf/2111.00703.pdf) | --- |
 | 2021 | Gummy Browsers: Targeted Browser Spoofing against State-of-the-Art Fingerprinting Techniques | zengrui liu, prakash shrestha, nitesh saxena | [Link](https://arxiv.org/pdf/2110.10129.pdf) | --- |
