@@ -53,6 +53,10 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2013 | 25 Million Flows Later - Large-scale Detection of DOM-based XSS | Sebastian Lekies, Ben Stock, Martin Johns | [Link](https://people.cispa.io/ben.stock/papers/lekies2013flows.pdf) | --- |
 | 2013 | mXSS Attacks:  Attacking well-secured Web-Applicationsby using innerHTML Mutations | Mario Heiderich, Jörg Schwenk, Tilman Frosch, Jonas Magazinius, Edward Z. Yang  | [Link](https://cure53.de/fp170.pdf) | --- |
 
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2021 | Exploiting Client-Side Prototype Pollution in the wild | [s1r1us](https://blog.s1r1us.ninja/) | [Link](https://blog.s1r1us.ninja/research/PP) |
 
 ## Network
 ### Papers/Thesis
