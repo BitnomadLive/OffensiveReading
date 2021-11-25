@@ -183,6 +183,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Machine Learning Guided Cross-Contract Fuzzing | Yinxing Xue, Jiaming Ye, Wei Zhang, Jun Sun, Lei Ma, Haijun Wang, Jianjun Zhao | [Link](https://arxiv.org/ftp/arxiv/papers/2111/2111.12423.pdf) | --- |
 | 2021 | JACK THE RIPPLER: Arbitrage on the Decentralized Exchange of the XRP Ledger | Gaspard Peduzzi, Jason James, Jiahua Xu  | [Link](https://arxiv.org/pdf/2106.16158.pdf) | --- |
 | 2021 | Understanding Security Issues in the NFT Ecosystem | Dipanjan Das, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, Giovanni Vigna | [Link](https://arxiv.org/pdf/2111.08893.pdf) | --- |
 | 2021 | Franchised Quantum Money | Bhaskar Roberts, Mark Zhandry | [Link](https://arxiv.org/pdf/2110.09733.pdf) | --- |
