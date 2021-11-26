@@ -140,6 +140,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Revizor: Fuzzing for Leaks in Black-box CPUs | Oleksii Oleksenko, Christof Fetzer, Boris Köpf, Mark Silberstein | [Link](https://arxiv.org/pdf/2105.06872.pdf) | [Github](https://github.com/hw-sw-contracts/revizor) |
 | 2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | Xiaotao Feng, Ruoxi Sun, Xiaogang Zhu, Minhui Xue, Sheng Wen, Dongxi Liu, Surya Nepal, Yang Xiang | [Link](https://arxiv.org/pdf/2105.05445.pdf) | --- |
 | 2020 | The never ending war in the stack and the reincarnation of ROP attacks | Ammari Nader, Joan Calvet, Jose M. Fernandez | [Link](https://arxiv.org/pdf/2005.11886.pdf) | --- |
+| 2020 | FuzzGen: Automatic Fuzzer Generation | Kyriakos K. Ispoglou, Daniel Austin, Vishwath Mohan, Mathias Payer | [Link](https://hexhive.epfl.ch/publications/files/20SEC.pdf) | [Github](https://github.com/HexHive/FuzzGen) |
 | 2016 | Toward large-scale vulnerability discovery using Machine Learning | Gustavo Grieco, Guillermo Luis Grinblat, Lucas Uzal, Sanjay Rawat, Josselin Feist, Laurent Mounier  | [Link](http://www.covert.io/research-papers/deep-learning-security/Toward%20large-scale%20vulnerability%20discovery%20using%20Machine%20Learning.pdf) | --- |
 | 2015 | Pattern-Based Vulnerability Discovery | Fabian Yamaguchi | [Link](https://ediss.uni-goettingen.de/bitstream/handle/11858/00-1735-0000-0023-9682-0/mainFastWeb.pdf) | --- |
 
