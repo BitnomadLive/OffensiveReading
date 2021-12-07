@@ -202,6 +202,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Characterizing Retweet Bots: The Case of Black Market Accounts | Tugrulcan Elmas, Rebekah Overdorf, Karl Abere | [Link](https://arxiv.org/pdf/2112.02366.pdf) | --- |
 | 2021 | Hardware Trojan Insertion in Finalized Layouts: a Silicon Demonstration | Tiago Perez, Samuel Pagliarini | [Link](https://arxiv.org/pdf/2112.02972.pdf) | --- |
 | 2021 | Trojan Source: Invisible Vulnerabilities | Nicholas Boucher, Ross Anderson | [Link](https://arxiv.org/pdf/2111.00169.pdf) | --- |
 | 2021 | Demystifying Scam Tokens on Uniswap Decentralized Exchange | Pengcheng Xia, Haoyu Wang, Bingyu Gao, Weihang Su, Zhou Yu, Xiapu Luo, Chao Zhang, Xusheng Xiao, Guoai Xu | [Link](https://arxiv.org/pdf/2109.00229.pdf) | --- |
