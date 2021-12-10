@@ -85,6 +85,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Automated Side Channel Analysis of Media Software with Manifold Learning | Yuanyuan Yuan, Qi Pang, Shuai Wang | [Link](https://arxiv.org/pdf/2112.04947.pdf) | [Github](https://github.com/Yuanyuan-Yuan/Manifold-SCA) |
 | 2021 | Practical Timing Side Channel Attacks on Memory Compression | Martin Schwarzl, Pietro Borrello, Daniel Gruss, Gururaj Saileshwar, Hanna Müller, Michael Schwarz | [Link](https://arxiv.org/pdf/2111.08404.pdf) | --- |
 | 2021 | Touchtone leakage attacks via smartphone sensors: mitigation without hardware modification | Connor Bolton, Yan Long, Jun Han, Josiah Hester, Kevin Fu | [Link](https://arxiv.org/pdf/2109.13834.pdf) | --- |
 | 2021 | Leaking Control Flow Information via the Hardware Prefetcher | Yun Chen, Lingfeng Pei, Trevor E. Carlson | [Link](https://arxiv.org/pdf/2109.00474.pdf) | --- |
