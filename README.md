@@ -79,6 +79,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
+| 2021 | Data Exfiltration via CSS + SVG Font  | Masato Kinugawa | [Link](https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html) |
+| 2021 | uBlock, I exfiltrate: exploiting ad blockers with CSS | Gareth Heyes | [Link](https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css) |
 | 2019 | Better Exfiltration via HTML Injection | d0nut | [Link](https://d0nut.medium.com/better-exfiltration-via-html-injection-31c72a2dae8b) |
 
 
