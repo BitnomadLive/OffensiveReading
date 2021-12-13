@@ -140,6 +140,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Attacks on Wireless Coexistence: Exploiting Cross-Technology Performance Features for Inter-Chip Privilege Escalation | Jiska Classen, Francesco Gringoli, Michael Hermann, Matthias Hollick | [Link](https://arxiv.org/pdf/2112.05719.pdf) | --- |
 | 2021 | Fuzzm: Finding Memory Bugs through Binary-Only Instrumentation and Fuzzing of WebAssembly | Daniel Lehmann, Martin Toldam Torp, Michael Pradel | [Link](https://arxiv.org/pdf/2110.15433.pdf) | --- |
 | 2021 | VIA: Analyzing Device Interfaces of Protected Virtual Machines | Felicitas Hetzelt, Martin Radev, Robert Buhren, Mathias Morbitzer, Jean-Pierre Seifert | [Link](https://arxiv.org/pdf/2109.10660.pdf) | --- |
 | 2021 | Spotting Silent Buffer Overflows in Execution Trace throughGraph Neural Network Assisted Data Flow Analysis | Zhilong Wang, Li Yu, Suhang Wang and Peng Liu | [Link](https://arxiv.org/pdf/2102.10452.pdf) | --- |
