@@ -47,6 +47,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Talking About My Generation: Targeted DOM-based XSS Exploit Generation using Dynamic Data Flow Analysis | Souphiane Bensalim, David Klein, Thomas Barber, Martin Johns | [Link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458718) | --- |
 | 2020 | PMForce: Systematically AnalyzingpostMessage Handlers at Scale | Marius Steffens, Ben Stock | [Link](https://people.cispa.io/ben.stock/papers/steffens2020pmforce.pdf) | [Github](https://github.com/mariussteffens/pmforce) |
 | 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
 | 2015 | Auto-Patching DOM-based XSS At Scale | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://www.comp.nus.edu.sg/~tsunami/papers/fse15-main.pdf) | --- |
