@@ -6,6 +6,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2021 | Timing-Based Browsing Privacy Vulnerabilities Via Site Isolation | Zihao Jin, Ziqiao Kong, Shuo Chen†, Haixin Duan | [Link](https://www.microsoft.com/en-us/research/uploads/prod/2021/10/SiteIsolationTimingChannel-cam-ready-2.pdf) | --- |
 | 2021 | Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking | Peter Snyder, Soroush Karami, Benjamin Livshits, Hamed Haddadi | [Link](https://arxiv.org/pdf/2112.06324.pdf) | --- |
 | 2021 | XSinator.com: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers | Lukas Knittel, Christian Mainka, Marcus Niemietz | [Link](https://xsinator.com/paper.pdf) | [Github](https://github.com/RUB-NDS/xsinator.com) [PoC](https://xsinator.com/) |
 | 2021 | Remote Memory-Deduplication Attacks | Martin Schwarzl, Erik Kraft, Moritz Lipp, Daniel Gruss | [Link](https://arxiv.org/pdf/2111.08553.pdf) | --- |
