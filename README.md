@@ -123,6 +123,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2021 | Deriving Semantics-Aware Fuzzers from Web API Schemas | Zac Hatfield-Dodds, Dmitry Dygalo | [Link](https://arxiv.org/pdf/2112.10328.pdf) | --- |
 | 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
 | 2021 | Over 100 Bugs in a Row: Security Analysis of the Top-Rated Joomla Extensions | Marcus Niemietz, Mario Korth, Christian Mainka, Juraj Somorovsky | [Link](https://arxiv.org/pdf/2102.03131.pdf) | --- |
 | 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
