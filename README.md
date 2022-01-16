@@ -136,6 +136,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | AI for Beyond 5G Networks: A Cyber-Security Defense or Offense Enable | Chafika Benzaıd, Tarik Tale | [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.02730.pdf) | --- |
 | 2021 | A Comparison of State-of-the-Art Techniques for Generating Adversarial Malware Binaries | Prithviraj Dasgupta, Zachariah Osman  | [Link](https://arxiv.org/pdf/2111.11487.pdf) | --- |
 | 2021 | Physical Side-Channel Attacks on Embedded Neural Networks: A Survey | Maria Méndez Real, Rubén Salvador | [Link](https://arxiv.org/pdf/2110.11290.pdf) | --- |
 | 2021 | A Deep Learning-based Penetration Testing Framework for Vulnerability Identification in Internet of Things Environments | Nickolaos Koroniotis, Nour Moustafa, Benjamin Turnbul, Francesco Schiliro, Praveen Gauravaram, Helge Janicke | [Link](https://arxiv.org/pdf/2109.09259.pdf) | --- |
