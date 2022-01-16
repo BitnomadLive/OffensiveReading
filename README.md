@@ -219,6 +219,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | Too Afraid to Drive: Systematic Discovery of Semantic DoS Vulnerability in Autonomous Driving Planning under Physical-World Attacks | Ziwen Wan Junjie Shen, Jalen Chuang, Xin Xia, Joshua Garcia, Jiaqi Ma, Qi Alfred Chen | [Link](https://arxiv.org/pdf/2201.04610.pdf) | --- |
 | 2021 | Characterizing Retweet Bots: The Case of Black Market Accounts | Tugrulcan Elmas, Rebekah Overdorf, Karl Abere | [Link](https://arxiv.org/pdf/2112.02366.pdf) | --- |
 | 2021 | Hardware Trojan Insertion in Finalized Layouts: a Silicon Demonstration | Tiago Perez, Samuel Pagliarini | [Link](https://arxiv.org/pdf/2112.02972.pdf) | --- |
 | 2021 | Trojan Source: Invisible Vulnerabilities | Nicholas Boucher, Ross Anderson | [Link](https://arxiv.org/pdf/2111.00169.pdf) | --- |
