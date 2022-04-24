@@ -73,6 +73,14 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | --- | --- | --- | --- | --- |
 | 2020 | EtherOops Exploring Practical Methods To Exploit Ethernet Packet In Packet Attacks | Ben Seri, Gregory Vishnepolsky, Yevgeny Yusepovsky | [Link](https://i.blackhat.com/USA-20/Thursday/us-20-Seri-EtherOops-Exploring-Practical-Methods-To-Exploit-Ethernet-Packet-In-Packet-Attacks-wp.pdf) | --- |
 
+
+## Windows
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2018 | Exploiting Regedit- Invisible Persistence & binary storage | eWhiteHats | [Link](https://github.com/ewhitehats/InvisiblePersistence/blob/master/InvisibleRegValues_Whitepaper.pdf) | [Github](https://github.com/ewhitehats/InvisiblePersistence) |
+
+
 ## CSS
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
