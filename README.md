@@ -8,6 +8,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | --- | --- | --- | --- | --- |
 | 2022 | WebSpec: Towards Machine-Checked Analysis of Browser Security Mechanisms | Lorenzo Veronese, Benjamin Farinier, Mauro Tempesta, Marco Squarcina, Matteo Maffei | [Link](https://arxiv.org/pdf/2201.01649.pdf) | --- |
 | 2022 | SOK: On the Analysis of Web Browser Security | Jungwon Lim, Yonghwi Jin, Mansour Alharthi, Xiaokuan Zhang, Jinho Jung, Rajat Gupta, Kuilin Li, Daehee Jang, Taesoo Kim | [Link](https://arxiv.org/pdf/2112.15561.pdf) | --- |
+| 2021 | Careful Who You Trust: Studying the Pitfalls of Cross-Origin Communication | Gordon Meiser, Pierre Laperdrix, Ben Stock | [Link](https://publications.cispa.saarland/3356/1/meiser2021cwyt.pdf) | --- |
 | 2021 | Tales of Favicons and Caches: Persistent Tracking in Modern Browsers | Konstantinos Solomos, John Kristoff, Chris Kanich, Jason Polakis | [Link](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf) | --- |
 | 2021 | Timing-Based Browsing Privacy Vulnerabilities Via Site Isolation | Zihao Jin, Ziqiao Kong, Shuo Chen†, Haixin Duan | [Link](https://www.microsoft.com/en-us/research/uploads/prod/2021/10/SiteIsolationTimingChannel-cam-ready-2.pdf) | --- |
 | 2021 | Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking | Peter Snyder, Soroush Karami, Benjamin Livshits, Hamed Haddadi | [Link](https://arxiv.org/pdf/2112.06324.pdf) | --- |
