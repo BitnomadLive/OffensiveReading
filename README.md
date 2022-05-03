@@ -71,6 +71,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2020 | Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections | Tom Van Goethem, Christina Pöpper, Wouter Joosen, Mathy Vanhoef | [Link](https://www.usenix.org/system/files/sec20-van_goethem.pdf) | [Github](https://github.com/DistriNet/timeless-timing-attacks) |
 | 2020 | EtherOops Exploring Practical Methods To Exploit Ethernet Packet In Packet Attacks | Ben Seri, Gregory Vishnepolsky, Yevgeny Yusepovsky | [Link](https://i.blackhat.com/USA-20/Thursday/us-20-Seri-EtherOops-Exploring-Practical-Methods-To-Exploit-Ethernet-Packet-In-Packet-Attacks-wp.pdf) | --- |
 
 
