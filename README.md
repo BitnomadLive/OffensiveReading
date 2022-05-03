@@ -67,6 +67,39 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | --- | --- | --- | --- |
 | 2021 | Exploiting Client-Side Prototype Pollution in the wild | [s1r1us](https://blog.s1r1us.ninja/) | [Link](https://blog.s1r1us.ninja/research/PP) |
 
+## Vulnerability Discovery - Web
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
+| 2021 | Understanding Emerging Client-Side Web Vulnerabilities using Dynamic Program Analysis | Marius Steffens | [Link](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31674/1/thesis_steffens_final_160721.pdf) | --- |
+| 2021 | Deriving Semantics-Aware Fuzzers from Web API Schemas | Zac Hatfield-Dodds, Dmitry Dygalo | [Link](https://arxiv.org/pdf/2112.10328.pdf) | --- |
+| 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
+| 2021 | Over 100 Bugs in a Row: Security Analysis of the Top-Rated Joomla Extensions | Marcus Niemietz, Mario Korth, Christian Mainka, Juraj Somorovsky | [Link](https://arxiv.org/pdf/2102.03131.pdf) | --- |
+| 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
+| 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
+| 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
+
+
+## CSS
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2021 | Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses | Anatoly Shusterman, Ayush Agarwal, Sioli O’Connell, Daniel Genkin, Yossi Oren, Yuval Yarom  | [Link](https://arxiv.org/pdf/2103.04952.pdf) | --- |
+| 2021| Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets | Pierre Laperdrix, Oleksii Starov, Quan Chen, Alexandros Kapravelos, Nick Nikiforakis | [Link](https://www.usenix.org/system/files/sec21fall-laperdrix.pdf) | [Github](https://github.com/plaperdr/fingerprinting-in-style) |
+| 2020 | Confused by Path: Analysis of Path Confusion Based Attacks | Seyed Ali Mirheidari | [Link](https://iris.unitn.it/retrieve/handle/11572/280512/382175/rpo/) | --- |
+| 2020 | Large-Scale Analysis of Style Injection by Relative Path Overwrite | Sajjad Arshad, Seyed Ali Mirheidari, Tobias Lauinger, Bruno Crispo, Engin Kirda, William Robertson  | [Link](https://arxiv.org/pdf/1811.00917.pdf) | --- |
+| 2012 | Scriptless Attacks – Stealing the Pie Without Touching the Sill | Mario Heiderich, Marcus Niemietz, Felix Schuster, Thorsten Holz, Jörg Schwenk | [Link](https://www.nds.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf) | --- |
+
+
+## Web Cache
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2019 | Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen, Luigi Lo Iacono, Hannes Federrath | [Link](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf) | --- |
+
+
+
 ## Network
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
@@ -82,15 +115,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2018 | Exploiting Regedit- Invisible Persistence & binary storage | eWhiteHats | [Link](https://github.com/ewhitehats/InvisiblePersistence/blob/master/InvisibleRegValues_Whitepaper.pdf) | [Github](https://github.com/ewhitehats/InvisiblePersistence) |
 
 
-## CSS
-### Papers/Thesis
-| Year | Title | Author | Link | Github/PoC  |
-| --- | --- | --- | --- | --- |
-| 2021 | Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses | Anatoly Shusterman, Ayush Agarwal, Sioli O’Connell, Daniel Genkin, Yossi Oren, Yuval Yarom  | [Link](https://arxiv.org/pdf/2103.04952.pdf) | --- |
-| 2021| Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets | Pierre Laperdrix, Oleksii Starov, Quan Chen, Alexandros Kapravelos, Nick Nikiforakis | [Link](https://www.usenix.org/system/files/sec21fall-laperdrix.pdf) | [Github](https://github.com/plaperdr/fingerprinting-in-style) |
-| 2020 | Confused by Path: Analysis of Path Confusion Based Attacks | Seyed Ali Mirheidari | [Link](https://iris.unitn.it/retrieve/handle/11572/280512/382175/rpo/) | --- |
-| 2020 | Large-Scale Analysis of Style Injection by Relative Path Overwrite | Sajjad Arshad, Seyed Ali Mirheidari, Tobias Lauinger, Bruno Crispo, Engin Kirda, William Robertson  | [Link](https://arxiv.org/pdf/1811.00917.pdf) | --- |
-| 2012 | Scriptless Attacks – Stealing the Pie Without Touching the Sill | Mario Heiderich, Marcus Niemietz, Felix Schuster, Thorsten Holz, Jörg Schwenk | [Link](https://www.nds.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf) | --- |
+
 
 
 ### Blogposts
@@ -130,18 +155,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Dangling DNS: Amazon EC2 IPs (Current State) | Mohamed Elbadry | [Link](https://blog.melbadry9.xyz/dangling-dns/aws/ddns-ec2-current-state) |
 
 
-## Vulnerability Discovery - Web
-### Papers/Thesis
-| Year | Title | Author | Link | Github/PoC  |
-| --- | --- | --- | --- | --- |
-| 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
-| 2021 | Understanding Emerging Client-Side Web Vulnerabilities using Dynamic Program Analysis | Marius Steffens | [Link](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31674/1/thesis_steffens_final_160721.pdf) | --- |
-| 2021 | Deriving Semantics-Aware Fuzzers from Web API Schemas | Zac Hatfield-Dodds, Dmitry Dygalo | [Link](https://arxiv.org/pdf/2112.10328.pdf) | --- |
-| 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
-| 2021 | Over 100 Bugs in a Row: Security Analysis of the Top-Rated Joomla Extensions | Marcus Niemietz, Mario Korth, Christian Mainka, Juraj Somorovsky | [Link](https://arxiv.org/pdf/2102.03131.pdf) | --- |
-| 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
-| 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
-| 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
+
 
 ## AI
 ### Papers/Thesis
