@@ -238,6 +238,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | Secure Decentralized Online Gaming with Lending Functionalities | Katharina Alefs, Florian Hartl, Luke Newman, Banu  ̈Ozdeveci, Wisnu Uriawan | [Link](https://arxiv.org/pdf/2205.02348.pdf) | [Github](https://github.com/Newman251/CasinoSmartContract) |
+| 2022| Blockchain in a nutshell | Duc A. Tran, Bhaskar Krishnamachari | [Link](https://arxiv.org/pdf/2205.01091.pdf) | --- |
+| 2022| A Secure File Sharing System Based on IPFS and Blockchain | Hsiao-Shan Huang, Tian-Sheuan Chang, Jhih-Yi Wu | [Link](https://arxiv.org/ftp/arxiv/papers/2205/2205.01728.pdf) | --- |
 | 2022 | Gas Gauge: A Security Analysis Tool for Smart Contract Out-of-Gas Vulnerabilities | Behkish Nassirzadeh , Vijay Ganesh, Huaiying Sun, Sebastian Banescu | [Link](https://arxiv.org/pdf/2112.14771.pdf) | [Github](https://github.com/gasgauge/gasgauge.github.io) |
 | 2021 | (Meme) Proof of Steak | Jon Crowcroft, Hamed Haddadi, Arthur Gervais, Tristan Henderson | [Link](https://arxiv.org/pdf/2112.06498.pdf) | --- |
 | 2021 | Machine Learning Guided Cross-Contract Fuzzing | Yinxing Xue, Jiaming Ye, Wei Zhang, Jun Sun, Lei Ma, Haijun Wang, Jianjun Zhao | [Link](https://arxiv.org/ftp/arxiv/papers/2111/2111.12423.pdf) | --- |
