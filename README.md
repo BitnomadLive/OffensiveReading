@@ -73,6 +73,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | Pre-hijacked accounts: An Empirical Study of Security Failures in User Account Creation on the Web | Avinash Sudhodanan, Andrew Paverd | [Link](https://arxiv.org/pdf/2205.10174.pdf) | --- |
 | 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
 | 2021 | Understanding Emerging Client-Side Web Vulnerabilities using Dynamic Program Analysis | Marius Steffens | [Link](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31674/1/thesis_steffens_final_160721.pdf) | --- |
 | 2021 | Deriving Semantics-Aware Fuzzers from Web API Schemas | Zac Hatfield-Dodds, Dmitry Dygalo | [Link](https://arxiv.org/pdf/2112.10328.pdf) | --- |
