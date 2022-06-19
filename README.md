@@ -137,6 +137,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | Frequency Throttling Side-Channel Attack | Chen Liu, Abhishek Chakraborty, Nikhil Chawla, Neer Roggel | [Link](https://arxiv.org/pdf/2206.07012.pdf) | --- |
 | 2022 | Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86 | Yingchen Wang, Riccardo Paccagnella, Elizabeth Tang He, Hovav Shacham, Christopher W. Fletcher, David Kohlbrenner | [Link](https://www.hertzbleed.com/hertzbleed.pdf) | [Github](https://github.com/FPSG-UIUC/hertzbleed) |
 | 2021 | Attacks of the Knights: Exploiting Non Uniform Cache Access Time | Farabi Mahmud, Sungkeun Kim, Harpreet Singh Chawla, Pritam Majumder, Jiayi Huang, Chia-Che Tsai, Eun Jung Kim, Abdullah Muzahid | [Link](https://arxiv.org/pdf/2112.10028.pdf) | --- |
 | 2021 | Automated Side Channel Analysis of Media Software with Manifold Learning | Yuanyuan Yuan, Qi Pang, Shuai Wang | [Link](https://arxiv.org/pdf/2112.04947.pdf) | [Github](https://github.com/Yuanyuan-Yuan/Manifold-SCA) |
