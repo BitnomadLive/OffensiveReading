@@ -131,7 +131,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
 | 2022 | DOing Harm (Delivery Optimization) | Remy Hax | [Link](https://remyhax.xyz/posts/do-harm/) |
-
+| 2022 | From KBs to CVEs: Understanding the Relationships Between Windows Security Updates and Vulnerabilities | Moran Zaks | [Link](https://claroty.com/2022/05/04/blog-research-from-kbs-to-cves-understanding-the-relationships-between-windows-security-updates-and-vulnerabilities/) |
 
 ## Side Channels
 ### Papers/Thesis
