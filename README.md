@@ -94,6 +94,15 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2020 | Large-Scale Analysis of Style Injection by Relative Path Overwrite | Sajjad Arshad, Seyed Ali Mirheidari, Tobias Lauinger, Bruno Crispo, Engin Kirda, William Robertson  | [Link](https://arxiv.org/pdf/1811.00917.pdf) | --- |
 | 2012 | Scriptless Attacks – Stealing the Pie Without Touching the Sill | Mario Heiderich, Marcus Niemietz, Felix Schuster, Thorsten Holz, Jörg Schwenk | [Link](https://www.nds.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf) | --- |
 
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2021 | Data Exfiltration via CSS + SVG Font  | Masato Kinugawa | [Link](https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html) |
+| 2021 | uBlock, I exfiltrate: exploiting ad blockers with CSS | Gareth Heyes | [Link](https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css) |
+| 2019 | Better Exfiltration via HTML Injection | d0nut | [Link](https://d0nut.medium.com/better-exfiltration-via-html-injection-31c72a2dae8b) |
+
+
+
 
 ## Web Cache
 ### Papers/Thesis
@@ -118,16 +127,10 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | --- | --- | --- | --- | --- |
 | 2018 | Exploiting Regedit- Invisible Persistence & binary storage | eWhiteHats | [Link](https://github.com/ewhitehats/InvisiblePersistence/blob/master/InvisibleRegValues_Whitepaper.pdf) | [Github](https://github.com/ewhitehats/InvisiblePersistence) |
 
-
-
-
-
 ### Blogposts
 | Year | Title | Author | Link |
 | --- | --- | --- | --- |
-| 2021 | Data Exfiltration via CSS + SVG Font  | Masato Kinugawa | [Link](https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html) |
-| 2021 | uBlock, I exfiltrate: exploiting ad blockers with CSS | Gareth Heyes | [Link](https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css) |
-| 2019 | Better Exfiltration via HTML Injection | d0nut | [Link](https://d0nut.medium.com/better-exfiltration-via-html-injection-31c72a2dae8b) |
+| 2022 | DOing Harm (Delivery Optimization) | Remy Hax | [Link](https://remyhax.xyz/posts/do-harm/) |
 
 
 ## Side Channels
