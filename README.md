@@ -109,6 +109,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.onarlioglu.com/publications/sec2022escalate.pdf) | --- |
 | 2019 | Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen, Luigi Lo Iacono, Hannes Federrath | [Link](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf) | --- |
 
@@ -152,6 +153,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | The Hijackers Guide To The Galaxy: Off-Path Taking Over Internet Resources | Tianxiang Dai, Philipp Jeitner, Haya Shulman, Michael Waidner | [Link](https://arxiv.org/pdf/2205.05473.pdf) | --- |
 | 2021 | DNS and the DNS Cache Poisoning Attack | Avi Kak  | [Link](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture17.pdf) | |
 | 2021 | The CNAME of the Game:Large-scale Analysis of DNS-based TrackingEvasion | Yana Dimova, Gunes Acar, Lukasz Olejnik, Wouter Joosen, Tom Van Goethem | [Link](https://arxiv.org/pdf/2102.09301.pdf) | --- |
 | 2020 | Cross Layer Attacks and How to Use Them (forDNS Cache Poisoning, Device Tracking and More) | Amit Klein | [Link](https://arxiv.org/pdf/2012.07432.pdf) | --- |
