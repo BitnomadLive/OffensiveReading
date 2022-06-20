@@ -247,6 +247,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | Security Analysis of DeFi: Vulnerabilities, Attacks and Advances | Wenkai Li, Jiuyang Bu, Xiaoqi Li, Xianyi Chen | [Link](https://arxiv.org/pdf/2205.09524.pdf) | --- |
 | 2022 | Secure Decentralized Online Gaming with Lending Functionalities | Katharina Alefs, Florian Hartl, Luke Newman, Banu  ̈Ozdeveci, Wisnu Uriawan | [Link](https://arxiv.org/pdf/2205.02348.pdf) | [Github](https://github.com/Newman251/CasinoSmartContract) |
 | 2022| Blockchain in a nutshell | Duc A. Tran, Bhaskar Krishnamachari | [Link](https://arxiv.org/pdf/2205.01091.pdf) | --- |
 | 2022| A Secure File Sharing System Based on IPFS and Blockchain | Hsiao-Shan Huang, Tian-Sheuan Chang, Jhih-Yi Wu | [Link](https://arxiv.org/ftp/arxiv/papers/2205/2205.01728.pdf) | --- |
