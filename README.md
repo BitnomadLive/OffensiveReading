@@ -15,7 +15,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking | Peter Snyder, Soroush Karami, Benjamin Livshits, Hamed Haddadi | [Link](https://arxiv.org/pdf/2112.06324.pdf) | --- |
 | 2021 | XSinator.com: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers | Lukas Knittel, Christian Mainka, Marcus Niemietz | [Link](https://xsinator.com/paper.pdf) | [Github](https://github.com/RUB-NDS/xsinator.com) [PoC](https://xsinator.com/) |
 | 2021 | Remote Memory-Deduplication Attacks | Martin Schwarzl, Erik Kraft, Moritz Lipp, Daniel Gruss | [Link](https://arxiv.org/pdf/2111.08553.pdf) | --- |
-| 2021 | T-Reqs: HTTP Request Smuggling with Differential Fuzzing | Bahruz Jabiyev, Steven Sprecher, Kaan Onarlioglu, Engin Kirda | [Link](https://bahruz.me/papers/ccs2021treqs.pdf) | --- |
+| 2021 | T-Reqs: HTTP Request Smuggling with Differential Fuzzing | Bahruz Jabiyev, Steven Sprecher, Kaan Onarlioglu, Engin Kirda | [Link](https://bahruz.me/papers/ccs2021treqs.pdf) | [Github](https://github.com/bahruzjabiyev/t-reqs) |
 | 2021 | An Empirical Analysis of HTTPS Configuration Security | Camelia Simoiu, Wilson Nguyen, Zakir Durumeric | [Link](https://arxiv.org/pdf/2111.00703.pdf) | --- |
 | 2021 | Gummy Browsers: Targeted Browser Spoofing against State-of-the-Art Fingerprinting Techniques | zengrui liu, prakash shrestha, nitesh saxena | [Link](https://arxiv.org/pdf/2110.10129.pdf) | --- |
 | 2021 | CorbFuzz: Checking Browser Security Policies with Fuzzing | Chaofan Shou,  ̇Ismet Burak Kadron, Qi Su, Tevfik Bultan | [Link](https://arxiv.org/pdf/2109.00398.pdf) | --- |
