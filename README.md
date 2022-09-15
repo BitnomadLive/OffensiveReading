@@ -15,7 +15,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking | Peter Snyder, Soroush Karami, Benjamin Livshits, Hamed Haddadi | [Link](https://arxiv.org/pdf/2112.06324.pdf) | --- |
 | 2021 | XSinator.com: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers | Lukas Knittel, Christian Mainka, Marcus Niemietz | [Link](https://xsinator.com/paper.pdf) | [Github](https://github.com/RUB-NDS/xsinator.com) [PoC](https://xsinator.com/) |
 | 2021 | Remote Memory-Deduplication Attacks | Martin Schwarzl, Erik Kraft, Moritz Lipp, Daniel Gruss | [Link](https://arxiv.org/pdf/2111.08553.pdf) | --- |
-| 2021 | T-Reqs: HTTP Request Smuggling with Differential Fuzzing | Bahruz Jabiyev, Steven Sprecher, Kaan Onarlioglu, Engin Kirda | [Link](https://bahruz.me/papers/ccs2021treqs.pdf) | --- |
+| 2021 | T-Reqs: HTTP Request Smuggling with Differential Fuzzing | Bahruz Jabiyev, Steven Sprecher, Kaan Onarlioglu, Engin Kirda | [Link](https://bahruz.me/papers/ccs2021treqs.pdf) | [Github](https://github.com/bahruzjabiyev/t-reqs) |
 | 2021 | An Empirical Analysis of HTTPS Configuration Security | Camelia Simoiu, Wilson Nguyen, Zakir Durumeric | [Link](https://arxiv.org/pdf/2111.00703.pdf) | --- |
 | 2021 | Gummy Browsers: Targeted Browser Spoofing against State-of-the-Art Fingerprinting Techniques | zengrui liu, prakash shrestha, nitesh saxena | [Link](https://arxiv.org/pdf/2110.10129.pdf) | --- |
 | 2021 | CorbFuzz: Checking Browser Security Policies with Fuzzing | Chaofan Shou,  ̇Ismet Burak Kadron, Qi Su, Tevfik Bultan | [Link](https://arxiv.org/pdf/2109.00398.pdf) | --- |
@@ -75,6 +75,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.usenix.org/system/files/sec22-mirheidari.pdf) | [Github](https://github.com/Golim/wcde) |
+| 2022 | Exploring Phone-Based Authentication Vulnerabilities in Single Sign-On Systems | Matthew M. Tolbert, Elie M. Hess, Mattheus C. Nascimento, Yunsen Lei, Craig A. Shue | [Link](https://web.cs.wpi.edu/~cshue/research/icics22.pdf) | --- |
 | 2022 | Pre-hijacked accounts: An Empirical Study of Security Failures in User Account Creation on the Web | Avinash Sudhodanan, Andrew Paverd | [Link](https://arxiv.org/pdf/2205.10174.pdf) | --- |
 | 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
 | 2021 | Understanding Emerging Client-Side Web Vulnerabilities using Dynamic Program Analysis | Marius Steffens | [Link](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31674/1/thesis_steffens_final_160721.pdf) | --- |
@@ -82,6 +83,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
 | 2021 | Over 100 Bugs in a Row: Security Analysis of the Top-Rated Joomla Extensions | Marcus Niemietz, Mario Korth, Christian Mainka, Juraj Somorovsky | [Link](https://arxiv.org/pdf/2102.03131.pdf) | --- |
 | 2021 | Security Vulnerability Detection Using Deep Learning Natural Language Processing | Noah Ziems, Shaoen Wu | [Link](https://arxiv.org/pdf/2105.02388.pdf) | --- |
+| 2020 | Mailto: Me Your Secrets. On Bugs and Features in Email End-to-End Encryption | Jens Müller, Marcus Brinkmann, Damian Poddebniak, Sebastian Schinzel, Jörg Schwenk | [Link](https://www.nds.ruhr-uni-bochum.de/media/nds/veroeffentlichungen/2020/08/15/mailto-paper.pdf) | --- |
 | 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
 | 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
 
@@ -188,6 +190,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | AMPFUZZ: Fuzzing for Amplification DDoS Vulnerabilities | Johannes Krupp, Ilya Grishchenko, Christian Rossow | [Link](https://publications.cispa.saarland/3643/2/AmpFuzz.pdf) | [Github](https://github.com/cispa/ampfuzz) |
 | 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
 | 2022 | FuzzingDriver: the Missing Dictionary to Increase Code Coverage in Fuzzers | Arash Ale Ebrahim, Mohammadreza Hazhirpasand, Oscar Nierstrasz, Mohammad Ghafari | [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.04853.pdf) | [Github](https://github.com/cryptomadco/fuzzingdriver) |
 | 2022 | Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States | Kunpeng Zhang, Xi Xiao, Xiaogang Zhu, Ruoxi Sun, Minhui Xue, Sheng Wen | [Link](https://arxiv.org/pdf/2201.04441.pdf) | [Github](https://github.com/truzz-fuzz/truzz-fuzz) |
