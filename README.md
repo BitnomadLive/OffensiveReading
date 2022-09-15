@@ -187,6 +187,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | AMPFUZZ: Fuzzing for Amplification DDoS Vulnerabilities | Johannes Krupp, Ilya Grishchenko, Christian Rossow | [Link](https://publications.cispa.saarland/3643/2/AmpFuzz.pdf) | [Github](https://github.com/cispa/ampfuzz) |
 | 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
 | 2022 | FuzzingDriver: the Missing Dictionary to Increase Code Coverage in Fuzzers | Arash Ale Ebrahim, Mohammadreza Hazhirpasand, Oscar Nierstrasz, Mohammad Ghafari | [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.04853.pdf) | [Github](https://github.com/cryptomadco/fuzzingdriver) |
 | 2022 | Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States | Kunpeng Zhang, Xi Xiao, Xiaogang Zhu, Ruoxi Sun, Minhui Xue, Sheng Wen | [Link](https://arxiv.org/pdf/2201.04441.pdf) | [Github](https://github.com/truzz-fuzz/truzz-fuzz) |
