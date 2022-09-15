@@ -74,6 +74,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.usenix.org/system/files/sec22-mirheidari.pdf) | [Github](https://github.com/Golim/wcde) |
 | 2022 | Exploring Phone-Based Authentication Vulnerabilities in Single Sign-On Systems | Matthew M. Tolbert, Elie M. Hess, Mattheus C. Nascimento, Yunsen Lei, Craig A. Shue | [Link](https://web.cs.wpi.edu/~cshue/research/icics22.pdf) | --- |
 | 2022 | Pre-hijacked accounts: An Empirical Study of Security Failures in User Account Creation on the Web | Avinash Sudhodanan, Andrew Paverd | [Link](https://arxiv.org/pdf/2205.10174.pdf) | --- |
 | 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
