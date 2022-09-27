@@ -6,6 +6,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2022 | Interactive History Sniffing with Dynamically-Generated QR Codes and CSS Difference Blending | Keith O’Neal, Scott Yilek | [Link](s%70%70ub%32%32:c%6Fnf%32%32%2f%2f@conferences.computer.org/sppub/pdfs/spw/2022/964300a335.pdf) | --- |
 | 2022 | WebSpec: Towards Machine-Checked Analysis of Browser Security Mechanisms | Lorenzo Veronese, Benjamin Farinier, Mauro Tempesta, Marco Squarcina, Matteo Maffei | [Link](https://arxiv.org/pdf/2201.01649.pdf) | --- |
 | 2022 | SOK: On the Analysis of Web Browser Security | Jungwon Lim, Yonghwi Jin, Mansour Alharthi, Xiaokuan Zhang, Jinho Jung, Rajat Gupta, Kuilin Li, Daehee Jang, Taesoo Kim | [Link](https://arxiv.org/pdf/2112.15561.pdf) | --- |
 | 2021 | Categorizing Service Worker Attacks and Mitigations | Karthika Subramani, Jordan Jueckstock, Alexandros Kapravelos, Roberto Perdisci | [Link](https://arxiv.org/pdf/2111.07153.pdf) | --- |
