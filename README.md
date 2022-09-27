@@ -273,6 +273,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | GhostTouch: Targeted Attacks on Touchscreens without Physical Touch | Kai Wang, Richard Mitev, Chen Yan, Xiaoyu Ji, Ahmad-Reza Sadeghi, Wenyuan Xu | [Link](https://www.usenix.org/system/files/sec22-wang-kai.pdf) | [Github](https://github.com/USSLab/GhostTouch) |
 | 2022 | Lamphone: Passive Sound Recovery from a Desk Lamp's Light Bulb Vibrations | Ben Nassi, Yaron Pirutin, Raz Swisa, Adi Shamir, Yuval Elovici, Boris Zadov| [Link](https://www.usenix.org/system/files/sec22-nassi.pdf) | --- |
 | 2022 | Too Afraid to Drive: Systematic Discovery of Semantic DoS Vulnerability in Autonomous Driving Planning under Physical-World Attacks | Ziwen Wan Junjie Shen, Jalen Chuang, Xin Xia, Joshua Garcia, Jiaqi Ma, Qi Alfred Chen | [Link](https://arxiv.org/pdf/2201.04610.pdf) | --- |
 | 2021 | Characterizing Retweet Bots: The Case of Black Market Accounts | Tugrulcan Elmas, Rebekah Overdorf, Karl Abere | [Link](https://arxiv.org/pdf/2112.02366.pdf) | --- |
