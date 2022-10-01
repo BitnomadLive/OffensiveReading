@@ -7,7 +7,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
 | 2022 | Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses | Mojtaba Zaheri, Yossi Oren, Reza Curtmola | [Link](https://www.usenix.org/system/files/sec22-zaheri.pdf) | --- |
-| 2022 | Interactive History Sniffing with Dynamically-Generated QR Codes and CSS Difference Blending | Keith O’Neal, Scott Yilek | [Link](s%70%70ub%32%32:c%6Fnf%32%32%2f%2f@conferences.computer.org/sppub/pdfs/spw/2022/964300a335.pdf) | --- |
+| 2022 | Interactive History Sniffing with Dynamically-Generated QR Codes and CSS Difference Blending | Keith O’Neal, Scott Yilek | [Link](https://s%70%70ub%32%32:c%6Fnf%32%32%2f%2f@conferences.computer.org/sppub/pdfs/spw/2022/964300a335.pdf) | --- |
 | 2022 | WebSpec: Towards Machine-Checked Analysis of Browser Security Mechanisms | Lorenzo Veronese, Benjamin Farinier, Mauro Tempesta, Marco Squarcina, Matteo Maffei | [Link](https://arxiv.org/pdf/2201.01649.pdf) | --- |
 | 2022 | SOK: On the Analysis of Web Browser Security | Jungwon Lim, Yonghwi Jin, Mansour Alharthi, Xiaokuan Zhang, Jinho Jung, Rajat Gupta, Kuilin Li, Daehee Jang, Taesoo Kim | [Link](https://arxiv.org/pdf/2112.15561.pdf) | --- |
 | 2021 | Categorizing Service Worker Attacks and Mitigations | Karthika Subramani, Jordan Jueckstock, Alexandros Kapravelos, Roberto Perdisci | [Link](https://arxiv.org/pdf/2111.07153.pdf) | --- |
@@ -59,7 +59,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2022 | TWENTY-TWO YEARS SINCE REVEALING CROSS-SITE SCRIPTING ATTACKS: A SYSTEMATIC MAPPING AND A COMPREHENSIVE SURVEY | Abdelhakim Hannousse, Salima Yahiouche, Mohamed Cherif Nait-Hamoud | [Link](https://arxiv.org/pdf/2205.08425.pdf) | --- |
+| 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
+| 2022 | Twenty-Two Years Since Revealing Cross-Site Scripting Attacks: A Systematic Mapping And A Comprehensive Survey | Abdelhakim Hannousse, Salima Yahiouche, Mohamed Cherif Nait-Hamoud | [Link](https://arxiv.org/pdf/2205.08425.pdf) | --- |
 | 2021 | Talking About My Generation: Targeted DOM-based XSS Exploit Generation using Dynamic Data Flow Analysis | Souphiane Bensalim, David Klein, Thomas Barber, Martin Johns | [Link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458718) | --- |
 | 2020 | PMForce: Systematically AnalyzingpostMessage Handlers at Scale | Marius Steffens, Ben Stock | [Link](https://people.cispa.io/ben.stock/papers/steffens2020pmforce.pdf) | [Github](https://github.com/mariussteffens/pmforce) |
 | 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
@@ -77,6 +78,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
 | 2022 | Mining Node.js Vulnerabilities via Object Dependence Graph and Query | Song Li, Mingqing Kang, Jianwei Hou, Yinzhi Cao | [Link](https://www.usenix.org/system/files/sec22-li-song.pdf) | [Github](https://github.com/Song-Li/ODGen) |
 | 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.usenix.org/system/files/sec22-mirheidari.pdf) | [Github](https://github.com/Golim/wcde) |
 | 2022 | Exploring Phone-Based Authentication Vulnerabilities in Single Sign-On Systems | Matthew M. Tolbert, Elie M. Hess, Mattheus C. Nascimento, Yunsen Lei, Craig A. Shue | [Link](https://web.cs.wpi.edu/~cshue/research/icics22.pdf) | --- |
