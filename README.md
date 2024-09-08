@@ -78,7 +78,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2023 | Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs | Davide Corradini, Michele Pasqua, Mariano Ceccato | [Link](https://arxiv.org/pdf/2301.01261) | --- |
+| 2023 | Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs | Davide Corradini, Michele Pasqua, Mariano Ceccato | [Link](https://arxiv.org/pdf/2301.01261) | [Github](https://github.com/SeUniVr/RestTestGen) |
 | 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
 | 2022 | Mining Node.js Vulnerabilities via Object Dependence Graph and Query | Song Li, Mingqing Kang, Jianwei Hou, Yinzhi Cao | [Link](https://www.usenix.org/system/files/sec22-li-song.pdf) | [Github](https://github.com/Song-Li/ODGen) |
 | 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.usenix.org/system/files/sec22-mirheidari.pdf) | [Github](https://github.com/Golim/wcde) |
@@ -263,6 +263,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Explainable Ponzi Schemes Detection on Ethereum | Letterio Galletta, Fabio Pinelli | [Link](https://arxiv.org/pdf/2301.04872) | [Github](https://github.com/fpinell/ponzi_ml/blob/main/notebooks/paper_experiments.ipynb) |
 | 2022 | Security Analysis of DeFi: Vulnerabilities, Attacks and Advances | Wenkai Li, Jiuyang Bu, Xiaoqi Li, Xianyi Chen | [Link](https://arxiv.org/pdf/2205.09524.pdf) | --- |
 | 2022 | Secure Decentralized Online Gaming with Lending Functionalities | Katharina Alefs, Florian Hartl, Luke Newman, Banu  ̈Ozdeveci, Wisnu Uriawan | [Link](https://arxiv.org/pdf/2205.02348.pdf) | [Github](https://github.com/Newman251/CasinoSmartContract) |
 | 2022| Blockchain in a nutshell | Duc A. Tran, Bhaskar Krishnamachari | [Link](https://arxiv.org/pdf/2205.01091.pdf) | --- |
