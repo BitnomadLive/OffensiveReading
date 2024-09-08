@@ -248,6 +248,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Ember-IO: Effective Firmware Fuzzing with Model-Free Memory Mapped IO | Guy Farrelly, Michael Chesser, Damith C. Ranasinghe | [Link](https://arxiv.org/pdf/2301.06689) | [Github](https://github.com/Ember-IO/Ember-IO-Fuzzing) |
 | 2021 | My(o) Armband Leaks Passwords: An EMG and IMU Based Keylogging Side-Channel Attack | Matthias Gazzari, Annemarie Mattmann, Max Maass, Matthias Hollick | [Link](https://arxiv.org/pdf/2112.02382.pdf) | [Github](https://github.com/seemoo-lab/myo-keylogging) |
 | 2021 | VoIP Can Still Be Exploited — Badly | Pietro Biondi, Stefano Bognanni, Giampaolo Bella | [Link](https://arxiv.org/pdf/2111.15468.pdf) | --- |
 | 2021 | A Measurement Study on the (In)security of End-of-Life (EoL) Embedded Devices | Dingding Wang, Muhui Jiang, Rui Chang, Yajin Zhou, Baolei Hou, Xiapu Luo, Lei Wu, Kui Ren | [LINK](https://arxiv.org/pdf/2105.14298.pdf) | --- |
