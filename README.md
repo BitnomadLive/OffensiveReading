@@ -78,6 +78,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Exploiting Input Sanitization for Regex Denial of Service | Efe Barlas, Xin Du, James C. Davis | [Link](https://arxiv.org/pdf/2303.01996) | --- |
 | 2023 | SSO-MONITOR: Fully-Automatic Large-Scale Landscape, Security, and Privacy Analyses of Single Sign-On in the Wild | Maximilian Westers, Tobias Wich, Louis Jannett, Vladislav Mladenov, Christian Mainka, Andreas Mayer | [Link](https://arxiv.org/pdf/2302.01024) | [Google Drive](https://drive.google.com/drive/folders/1NJbSjX5JZds-jxBJYiwrkoQ9GKVcMslS) |
 | 2023 | Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs | Davide Corradini, Michele Pasqua, Mariano Ceccato | [Link](https://arxiv.org/pdf/2301.01261) | [Github](https://github.com/SeUniVr/RestTestGen) |
 | 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
