@@ -186,6 +186,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models | Hossein Hajipour, Keno Hassler, Thorsten Holz, Lea Schonherr, Mario Fritz | [Link](https://arxiv.org/pdf/2302.04012) | --- |
 | 2023 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection | Benjamin Steenhoek, Hongyang Gao, Wei Le | [Link](https://arxiv.org/pdf/2212.08108.pdf) | [PoC](https://figshare.com/articles/dataset/Dataflow_Analysis-Inspired_Deep_Learning_for_Efficient_Vulnerability_Detection/21225413) |
 | 2022 | AI for Beyond 5G Networks: A Cyber-Security Defense or Offense Enable | Chafika Benzaıd, Tarik Tale | [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.02730.pdf) | --- |
 | 2021 | A Comparison of State-of-the-Art Techniques for Generating Adversarial Malware Binaries | Prithviraj Dasgupta, Zachariah Osman  | [Link](https://arxiv.org/pdf/2111.11487.pdf) | --- |
