@@ -205,6 +205,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | autofz: Automated Fuzzer Composition at Runtime | Yu-Fu Fu, Jaehyuk Lee, Taesoo Kim | [Link](https://arxiv.org/pdf/2302.12879) | [Github](https://github.com/sslab-gatech/autofz) |
 | 2023 | Detecting Exploit Primitives Automatically for Heap Vulnerabilities on Binary Programs | Jie Liu, Hang An, Jin Li, Hongliang Liang | [Link](https://arxiv.org/pdf/2212.13990) | --- |
 | 2022 | AMPFUZZ: Fuzzing for Amplification DDoS Vulnerabilities | Johannes Krupp, Ilya Grishchenko, Christian Rossow | [Link](https://publications.cispa.saarland/3643/2/AmpFuzz.pdf) | [Github](https://github.com/cispa/ampfuzz) |
 | 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
