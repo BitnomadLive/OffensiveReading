@@ -186,6 +186,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Prompt Stealing Attacks Against Text-to-Image Generation Models | Xinyue Shen, Yiting Qu, Michael Backes, Yang Zhang | [Link](https://arxiv.org/pdf/2302.09923) | [Github](https://github.com/verazuo/prompt-stealing-attack) |
 | 2023 | Poisoning Web-Scale Training Datasets is Practical | Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, Florian Tramer | [Link](https://arxiv.org/pdf/2302.10149) | --- |
 | 2023 | Hello Me, Meet the Real Me: Audio Deepfake Attacks on Voice Assistants | Domna Bilika, Nikoletta Michopoulou, Efthimios Alepis, Constantinos Patsakis | [Link](https://arxiv.org/pdf/2302.10328) | --- |
 | 2023 | CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models | Hossein Hajipour, Keno Hassler, Thorsten Holz, Lea Schonherr, Mario Fritz | [Link](https://arxiv.org/pdf/2302.04012) | --- |
