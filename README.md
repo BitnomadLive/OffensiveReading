@@ -6,6 +6,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2023 | Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API | Jose Miguel Moreno, Narseo Vallina-Rodriguez, Juan Tapiador | [Link](https://arxiv.org/pdf/2305.11506) | --- |
 | 2022 | Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses | Mojtaba Zaheri, Yossi Oren, Reza Curtmola | [Link](https://www.usenix.org/system/files/sec22-zaheri.pdf) | --- |
 | 2022 | Interactive History Sniffing with Dynamically-Generated QR Codes and CSS Difference Blending | Keith O’Neal, Scott Yilek | [Link](https://s%70%70ub%32%32:c%6Fnf%32%32%2f%2f@conferences.computer.org/sppub/pdfs/spw/2022/964300a335.pdf) | --- |
 | 2022 | WebSpec: Towards Machine-Checked Analysis of Browser Security Mechanisms | Lorenzo Veronese, Benjamin Farinier, Mauro Tempesta, Marco Squarcina, Matteo Maffei | [Link](https://arxiv.org/pdf/2201.01649.pdf) | --- |
@@ -78,6 +79,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | BertRLFuzzer: A BERT and Reinforcement Learning Based Fuzzer | Piyush Jha, Joseph Scott, Jaya Sriram Ganeshna, Mudit Singh, Vijay Ganesh | [Link](https://arxiv.org/pdf/2305.12534) | [Github](https://github.com/bert-rl-fuzzer/fuzzer) |
 | 2023 | Exploiting Input Sanitization for Regex Denial of Service | Efe Barlas, Xin Du, James C. Davis | [Link](https://arxiv.org/pdf/2303.01996) | --- |
 | 2023 | SSO-MONITOR: Fully-Automatic Large-Scale Landscape, Security, and Privacy Analyses of Single Sign-On in the Wild | Maximilian Westers, Tobias Wich, Louis Jannett, Vladislav Mladenov, Christian Mainka, Andreas Mayer | [Link](https://arxiv.org/pdf/2302.01024) | [Google Drive](https://drive.google.com/drive/folders/1NJbSjX5JZds-jxBJYiwrkoQ9GKVcMslS) |
 | 2023 | Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs | Davide Corradini, Michele Pasqua, Mariano Ceccato | [Link](https://arxiv.org/pdf/2301.01261) | [Github](https://github.com/SeUniVr/RestTestGen) |
@@ -87,6 +89,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2022 | Exploring Phone-Based Authentication Vulnerabilities in Single Sign-On Systems | Matthew M. Tolbert, Elie M. Hess, Mattheus C. Nascimento, Yunsen Lei, Craig A. Shue | [Link](https://web.cs.wpi.edu/~cshue/research/icics22.pdf) | --- |
 | 2022 | Pre-hijacked accounts: An Empirical Study of Security Failures in User Account Creation on the Web | Avinash Sudhodanan, Andrew Paverd | [Link](https://arxiv.org/pdf/2205.10174.pdf) | --- |
 | 2022 | COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation | Peng Xu, Yanhao Wang, Hong Hu, Purui Su | [Link](https://huhong789.github.io/papers/xu:cooper.pdf) | [Github](https://github.com/TCA-ISCAS/Cooper) |
+| 2021 | JAW: Studying Client-side CSRF with Hybrid Property Graphs and Declarative Traversals | Soheil Khodayari, Giancarlo Pellegrino | [Link](https://www.usenix.org/system/files/sec21fall-khodayari.pdf) | [Github](https://github.com/SoheilKhodayari/JAW) |
 | 2021 | Understanding Emerging Client-Side Web Vulnerabilities using Dynamic Program Analysis | Marius Steffens | [Link](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31674/1/thesis_steffens_final_160721.pdf) | --- |
 | 2021 | Deriving Semantics-Aware Fuzzers from Web API Schemas | Zac Hatfield-Dodds, Dmitry Dygalo | [Link](https://arxiv.org/pdf/2112.10328.pdf) | --- |
 | 2021 | Black Widow: Blackbox Data-driven Web Scanning | Benjamin Eriksson, Giancarlo Pellegrino, Andrei Sabelfeld | [Link](https://publications.cispa.saarland/3224/1/blackwidow_sp2021.pdf) | |
@@ -152,6 +155,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | AVX Timing Side-Channel Attacks against Address Space Layout Randomization | Hyunwoo Choi, Suryeon Kim, Seungwon Shin | [link](https://arxiv.org/pdf/2304.07940) | --- |
 | 2022 | Frequency Throttling Side-Channel Attack | Chen Liu, Abhishek Chakraborty, Nikhil Chawla, Neer Roggel | [Link](https://arxiv.org/pdf/2206.07012.pdf) | --- |
 | 2022 | Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86 | Yingchen Wang, Riccardo Paccagnella, Elizabeth Tang He, Hovav Shacham, Christopher W. Fletcher, David Kohlbrenner | [Link](https://www.hertzbleed.com/hertzbleed.pdf) | [Github](https://github.com/FPSG-UIUC/hertzbleed) |
 | 2021 | Attacks of the Knights: Exploiting Non Uniform Cache Access Time | Farabi Mahmud, Sungkeun Kim, Harpreet Singh Chawla, Pritam Majumder, Jiayi Huang, Chia-Che Tsai, Eun Jung Kim, Abdullah Muzahid | [Link](https://arxiv.org/pdf/2112.10028.pdf) | --- |
@@ -187,6 +191,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Evaluation of Parameter-based Attacks against Embedded Neural Networks with Laser Injection | Mathieu Dumont, Kevin Hector, Pierre-Alain Moellic, Jean-MaxDutertre, Simon Pontie | [Link](https://arxiv.org/pdf/2304.12876) | --- |
+| 2023 | How Secure is Code Generated by ChatGPT? | Raphael Khoury, Anderson R. Avila, Jacob Brunelle, Baba Mamadou Camara | [Link](https://arxiv.org/pdf/2304.09655) | --- |
 | 2023 | Prompt Stealing Attacks Against Text-to-Image Generation Models | Xinyue Shen, Yiting Qu, Michael Backes, Yang Zhang | [Link](https://arxiv.org/pdf/2302.09923) | [Github](https://github.com/verazuo/prompt-stealing-attack) |
 | 2023 | Poisoning Web-Scale Training Datasets is Practical | Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, Florian Tramer | [Link](https://arxiv.org/pdf/2302.10149) | --- |
 | 2023 | Hello Me, Meet the Real Me: Audio Deepfake Attacks on Voice Assistants | Domna Bilika, Nikoletta Michopoulou, Efthimios Alepis, Constantinos Patsakis | [Link](https://arxiv.org/pdf/2302.10328) | --- |
@@ -206,6 +212,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Fuzzing the Latest NTFS in Linux with Papora: An Empirical Study | Edward Lo, Ningyu He, Yuejie Shi, Jiajia Xu, Chiachih Wu, Ding Li, Yao Guo | [Link](https://arxiv.org/pdf/2304.07166) | --- |
+| 2023 | ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing | Sicong Cao, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su,Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, Tao Wei | [Link](https://arxiv.org/pdf/2304.04233) | [Github](https://github.com/ODDFuzz/ODDFuzz) |
 | 2023 | autofz: Automated Fuzzer Composition at Runtime | Yu-Fu Fu, Jaehyuk Lee, Taesoo Kim | [Link](https://arxiv.org/pdf/2302.12879) | [Github](https://github.com/sslab-gatech/autofz) |
 | 2023 | Detecting Exploit Primitives Automatically for Heap Vulnerabilities on Binary Programs | Jie Liu, Hang An, Jin Li, Hongliang Liang | [Link](https://arxiv.org/pdf/2212.13990) | --- |
 | 2022 | AMPFUZZ: Fuzzing for Amplification DDoS Vulnerabilities | Johannes Krupp, Ilya Grishchenko, Christian Rossow | [Link](https://publications.cispa.saarland/3643/2/AmpFuzz.pdf) | [Github](https://github.com/cispa/ampfuzz) |
@@ -255,6 +263,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | AdvRain: Adversarial Raindrops to Attack Camera-Based Smart Vision Systems | Amira Guesmi , Muhammad Abdullah Hanif, Muhammad Shafique | [Link](https://arxiv.org/pdf/2303.01338) | --- |
 | 2023 | Ember-IO: Effective Firmware Fuzzing with Model-Free Memory Mapped IO | Guy Farrelly, Michael Chesser, Damith C. Ranasinghe | [Link](https://arxiv.org/pdf/2301.06689) | [Github](https://github.com/Ember-IO/Ember-IO-Fuzzing) |
 | 2021 | My(o) Armband Leaks Passwords: An EMG and IMU Based Keylogging Side-Channel Attack | Matthias Gazzari, Annemarie Mattmann, Max Maass, Matthias Hollick | [Link](https://arxiv.org/pdf/2112.02382.pdf) | [Github](https://github.com/seemoo-lab/myo-keylogging) |
 | 2021 | VoIP Can Still Be Exploited — Badly | Pietro Biondi, Stefano Bognanni, Giampaolo Bella | [Link](https://arxiv.org/pdf/2111.15468.pdf) | --- |
@@ -271,6 +280,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | The offline digital currency puzzle solved by a local blockchain | Henrique de Carvaloh Videira | [Link](https://arxiv.org/ftp/arxiv/papers/2305/2305.02290.pdf) | --- |
 | 2023 | Explainable Ponzi Schemes Detection on Ethereum | Letterio Galletta, Fabio Pinelli | [Link](https://arxiv.org/pdf/2301.04872) | [Github](https://github.com/fpinell/ponzi_ml/blob/main/notebooks/paper_experiments.ipynb) |
 | 2022 | Security Analysis of DeFi: Vulnerabilities, Attacks and Advances | Wenkai Li, Jiuyang Bu, Xiaoqi Li, Xianyi Chen | [Link](https://arxiv.org/pdf/2205.09524.pdf) | --- |
 | 2022 | Secure Decentralized Online Gaming with Lending Functionalities | Katharina Alefs, Florian Hartl, Luke Newman, Banu  ̈Ozdeveci, Wisnu Uriawan | [Link](https://arxiv.org/pdf/2205.02348.pdf) | [Github](https://github.com/Newman251/CasinoSmartContract) |
@@ -289,6 +299,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | A Survey on Learning to Hash | Jingdong Wang, Heng Tao Shen, Ting Zhang | [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LTHSurvey.pdf) | --- |
+| 2023 | MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion | Zilong Lin , Zhengyi Li , Xiaojing Liao , XiaoFeng Wang , Xiaozhong Liu | [Link](https://arxiv.org/pdf/2304.11300) | --- |
 | 2023 | Quantifying User Password Exposure to Third-Party CDNs | Rui Xin, Shihan Lin, Xiaowei Yang | [Link](https://arxiv.org/pdf/2301.03690) | [Github](https://github.com/SHiftLin/PAM2023-CDNPassword) |
 | 2022 | GhostTouch: Targeted Attacks on Touchscreens without Physical Touch | Kai Wang, Richard Mitev, Chen Yan, Xiaoyu Ji, Ahmad-Reza Sadeghi, Wenyuan Xu | [Link](https://www.usenix.org/system/files/sec22-wang-kai.pdf) | [Github](https://github.com/USSLab/GhostTouch) |
 | 2022 | Lamphone: Passive Sound Recovery from a Desk Lamp's Light Bulb Vibrations | Ben Nassi, Yaron Pirutin, Raz Swisa, Adi Shamir, Yuval Elovici, Boris Zadov| [Link](https://www.usenix.org/system/files/sec22-nassi.pdf) | --- |
