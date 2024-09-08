@@ -186,6 +186,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Poisoning Web-Scale Training Datasets is Practical | Nicholas Carlini, Matthew Jagielski, Christopher A. Choquette-Choo, Daniel Paleka, Will Pearce, Hyrum Anderson, Andreas Terzis, Kurt Thomas, Florian Tramer | [Link](https://arxiv.org/pdf/2302.10149) | --- |
 | 2023 | Hello Me, Meet the Real Me: Audio Deepfake Attacks on Voice Assistants | Domna Bilika, Nikoletta Michopoulou, Efthimios Alepis, Constantinos Patsakis | [Link](https://arxiv.org/pdf/2302.10328) | --- |
 | 2023 | CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models | Hossein Hajipour, Keno Hassler, Thorsten Holz, Lea Schonherr, Mario Fritz | [Link](https://arxiv.org/pdf/2302.04012) | --- |
 | 2023 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection | Benjamin Steenhoek, Hongyang Gao, Wei Le | [Link](https://arxiv.org/pdf/2212.08108.pdf) | [PoC](https://figshare.com/articles/dataset/Dataflow_Analysis-Inspired_Deep_Learning_for_Efficient_Vulnerability_Detection/21225413) |
