@@ -78,6 +78,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs | Davide Corradini, Michele Pasqua, Mariano Ceccato | [Link](https://arxiv.org/pdf/2301.01261) | --- |
 | 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
 | 2022 | Mining Node.js Vulnerabilities via Object Dependence Graph and Query | Song Li, Mingqing Kang, Jianwei Hou, Yinzhi Cao | [Link](https://www.usenix.org/system/files/sec22-li-song.pdf) | [Github](https://github.com/Song-Li/ODGen) |
 | 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.usenix.org/system/files/sec22-mirheidari.pdf) | [Github](https://github.com/Golim/wcde) |
@@ -184,7 +185,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2023 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection | Benjamin Steenhoek, Hongyang Gao,  | Wei Le | [Link](https://figshare.com/articles/dataset/Dataflow_Analysis-Inspired_Deep_Learning_for_Efficient_Vulnerability_Detection/21225413) |
+| 2023 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection | Benjamin Steenhoek, Hongyang Gao, Wei Le | [Link](https://arxiv.org/pdf/2212.08108.pdf) | [PoC](https://figshare.com/articles/dataset/Dataflow_Analysis-Inspired_Deep_Learning_for_Efficient_Vulnerability_Detection/21225413) |
 | 2022 | AI for Beyond 5G Networks: A Cyber-Security Defense or Offense Enable | Chafika Benzaıd, Tarik Tale | [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.02730.pdf) | --- |
 | 2021 | A Comparison of State-of-the-Art Techniques for Generating Adversarial Malware Binaries | Prithviraj Dasgupta, Zachariah Osman  | [Link](https://arxiv.org/pdf/2111.11487.pdf) | --- |
 | 2021 | Physical Side-Channel Attacks on Embedded Neural Networks: A Survey | Maria Méndez Real, Rubén Salvador | [Link](https://arxiv.org/pdf/2110.11290.pdf) | --- |
