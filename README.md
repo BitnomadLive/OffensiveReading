@@ -6,6 +6,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2023 | iLeakage: Browser-based Timerless Speculative Execution Attacks on Apple Devices | Jason Kim, Stephan van Schaik, Daniel Genkin, Yuval Yarom | [Link](https://ileakage.com/files/ileakage.pdf) | --- |
 | 2023 | Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API | Jose Miguel Moreno, Narseo Vallina-Rodriguez, Juan Tapiador | [Link](https://arxiv.org/pdf/2305.11506) | --- |
 | 2022 | Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses | Mojtaba Zaheri, Yossi Oren, Reza Curtmola | [Link](https://www.usenix.org/system/files/sec22-zaheri.pdf) | --- |
 | 2022 | Interactive History Sniffing with Dynamically-Generated QR Codes and CSS Difference Blending | Keith O’Neal, Scott Yilek | [Link](https://s%70%70ub%32%32:c%6Fnf%32%32%2f%2f@conferences.computer.org/sppub/pdfs/spw/2022/964300a335.pdf) | --- |
@@ -62,6 +63,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2024 | EDEFuzz: A Web API Fuzzer for Excessive Data Exposures | Lianglu Pan, Shaanan Cohney, Toby Murray, Van-Thuan Pham | [Link](https://arxiv.org/ftp/arxiv/papers/2301/2301.09258.pdf) | [Github](https://github.com/Broken-Assumptions/EDEFuzz) |
+| 2023 | Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis | Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu | [Link](https://arxiv.org/pdf/2311.03919) | [Github](https://github.com/KTH-LangSec/Dasty) |
+| 2023 | Measuring CDNs susceptible to Domain Fronting | Karthika Subramani, Roberto Perdisci, Pierros Skafidas | [Link](https://arxiv.org/pdf/2310.17851) | --- |
 | 2023 | Stratosphere: Finding Vulnerable Cloud Storage Buckets | Jack Cable, Drew Gregory, Liz Izhikevich, Zakir Durumeric | [Link](https://arxiv.org/pdf/2309.13496) | --- |
 | 2023 | From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? | Rodrigo Pedro, Daniel Castro, Paulo Carreira, Nuno Santos | [Link](https://arxiv.org/pdf/2308.01990) | --- |
 | 2023 | BertRLFuzzer: A BERT and Reinforcement Learning Based Fuzzer | Piyush Jha, Joseph Scott, Jaya Sriram Ganeshna, Mudit Singh, Vijay Ganesh | [Link](https://arxiv.org/pdf/2305.12534) | [Github](https://github.com/bert-rl-fuzzer/fuzzer) |
@@ -134,6 +137,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Passive SSH Key Compromise via Lattices | Keegan Ryan, Kaiwen He, George Arnold Sullivan, Nadia Heninger | [Link](https://eprint.iacr.org/2023/1711.pdf) | --- |
 | 2020 | Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections | Tom Van Goethem, Christina Pöpper, Wouter Joosen, Mathy Vanhoef | [Link](https://www.usenix.org/system/files/sec20-van_goethem.pdf) | [Github](https://github.com/DistriNet/timeless-timing-attacks) |
 | 2020 | EtherOops Exploring Practical Methods To Exploit Ethernet Packet In Packet Attacks | Ben Seri, Gregory Vishnepolsky, Yevgeny Yusepovsky | [Link](https://i.blackhat.com/USA-20/Thursday/us-20-Seri-EtherOops-Exploring-Practical-Methods-To-Exploit-Ethernet-Packet-In-Packet-Attacks-wp.pdf) | --- |
 
@@ -142,6 +146,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | POPKORN: Popping Windows Kernel Drivers At Scale | Rajat Gupta, Lukas Dresel, Noah Spahn, Giovanni Vigna, Christopher Kruegel, Taesoo Kim | [Link](https://dl.acm.org/doi/pdf/10.1145/3564625.3564631) | [Github](https://github.com/ucsb-seclab/popkorn-artifact) |
 | 2018 | Exploiting Regedit- Invisible Persistence & binary storage | eWhiteHats | [Link](https://github.com/ewhitehats/InvisiblePersistence/blob/master/InvisibleRegValues_Whitepaper.pdf) | [Github](https://github.com/ewhitehats/InvisiblePersistence) |
 
 ### Blogposts
@@ -155,6 +160,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | OverHear: Headphone based Multi-sensor Keystroke Inference | Raveen Wijewickrama, Maryam Abbasihafshejani, Anindya Maiti, Murtuza Jadliwala | [Link](https://arxiv.org/pdf/2311.02288) | --- |
 | 2023 | A Systematic Evaluation of Automated Tools for Side-Channel Vulnerabilities Detection in Cryptographic Libraries | Antoine Geimer, Mathéo Vergnolle, Frédéric Recoules, Lesly-Ann Daniel, Sébastien Bardin, Clémentine Maurice | [Link](https://arxiv.org/pdf/2310.08153) | --- |
 | 2023 | LeakyOhm: Secret Bits Extraction using Impedance Analysis | Saleh Khalaj Monfared, Tahoura Mosavirik, Shahin Tajik | [Link](https://arxiv.org/pdf/2310.07014) | --- |
 | 2023 | From Dragondoom to Dragonstar: Side-channel Attacks and Formally Verified Implementation of WPA3 Dragonfly Handshake | Daniel De Almeida Braga, Natalia Kulatova, Mohamed Sabt, Pierre-Alain Fouque | [Link](https://arxiv.org/pdf/2307.09243) | --- |
@@ -223,6 +229,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | UBfuzz: Finding Bugs in Sanitizer Implementations | Shaohua Li, Zhendong Su | Link(https://arxiv.org/pdf/2401.04538) | [Atrifact](https://zenodo.org/records/8406414) |
 | 2024 | VulMatch: Binary-level Vulnerability Detection Through Signature | Zian Liu, Lei Pan, Chao Chen, Ejaz Ahmed, Shigang Liu, Jun Zhang, Dongxi Liu | [Link](https://arxiv.org/pdf/2308.00288) | [Github](https://github.com/Vulmatch/Vulmatch.git) |
 | 2023 | Hyperfuzzing: black-box security hypertesting with a grey-box fuzzer | Daniel Blackwell, Ingolf Becker, David Clark | [Link](https://arxiv.org/pdf/2308.09081) | [PoC](https://figshare.com/s/fa143b65420ab7ab1e3c) |
 | 2023 | Fuzzing the Latest NTFS in Linux with Papora: An Empirical Study | Edward Lo, Ningyu He, Yuejie Shi, Jiajia Xu, Chiachih Wu, Ding Li, Yao Guo | [Link](https://arxiv.org/pdf/2304.07166) | --- |
@@ -259,6 +266,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | FINDING VULNERABILITIES IN MOBILE APPLICATION APIS: A MODULAR PROGRAMMATIC APPROACH | Nate Haris, Kendree Chen, Ann Song, Benjamin Pou | [Link](https://arxiv.org/pdf/2310.14137) | --- |
 | 2023 | Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings | Evangelos Bitsikas, Theodor Schnitzler, Christina Pöpper, Aanjhan Ranganathan | [Link](https://arxiv.org/pdf/2306.07695) | --- |
 | 2023 | Side-Channel VoIP Profiling Attack against Customer Service Automated Phone System | Roy Laurens, Edo Christianto, Bruce Caulkins, Cliff C. Zou | [Link](https://arxiv.org/ftp/arxiv/papers/2306/2306.00095.pdf) | --- |
 | 2023 | Watching your call: Breaking VoLTE Privacy in LTE/5G Networks | Zishuai Cheng, Mihai Ordean, Flavio D. Garcia, Baojiang Cui, Dominik Rys | [Link](https://arxiv.org/pdf/2301.02487) | --- |
