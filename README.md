@@ -155,15 +155,20 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | From Dragondoom to Dragonstar: Side-channel Attacks and Formally Verified Implementation of WPA3 Dragonfly Handshake | Daniel De Almeida Braga, Natalia Kulatova, Mohamed Sabt, Pierre-Alain Fouque | [Link](https://arxiv.org/pdf/2307.09243) | --- |
 | 2023 | AVX Timing Side-Channel Attacks against Address Space Layout Randomization | Hyunwoo Choi, Suryeon Kim, Seungwon Shin | [link](https://arxiv.org/pdf/2304.07940) | --- |
+| 2022 | Physical Fault Injection and Side-Channel Attacks on Mobile Devices: A Comprehensive Analysis | Carlton Shepherda, Konstantinos Markantonakisa, Nico van Heijningenb, Driss Aboulkassimic,Clément Gainec, Thibaut Heckmann, David Naccache | [Link](https://arxiv.org/pdf/2105.04454) | --- |
 | 2022 | Frequency Throttling Side-Channel Attack | Chen Liu, Abhishek Chakraborty, Nikhil Chawla, Neer Roggel | [Link](https://arxiv.org/pdf/2206.07012.pdf) | --- |
 | 2022 | Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86 | Yingchen Wang, Riccardo Paccagnella, Elizabeth Tang He, Hovav Shacham, Christopher W. Fletcher, David Kohlbrenner | [Link](https://www.hertzbleed.com/hertzbleed.pdf) | [Github](https://github.com/FPSG-UIUC/hertzbleed) |
+| 2021 | Charger-Surfing: Exploiting a Power Line Side-Channel for Smartphone Information Leakage | Patrick Cronin, Xing Gao,  Chengmo Yang, Haining Wang | [Link](https://www.usenix.org/system/files/sec21-cronin.pdf) | --- |
 | 2021 | Attacks of the Knights: Exploiting Non Uniform Cache Access Time | Farabi Mahmud, Sungkeun Kim, Harpreet Singh Chawla, Pritam Majumder, Jiayi Huang, Chia-Che Tsai, Eun Jung Kim, Abdullah Muzahid | [Link](https://arxiv.org/pdf/2112.10028.pdf) | --- |
 | 2021 | Automated Side Channel Analysis of Media Software with Manifold Learning | Yuanyuan Yuan, Qi Pang, Shuai Wang | [Link](https://arxiv.org/pdf/2112.04947.pdf) | [Github](https://github.com/Yuanyuan-Yuan/Manifold-SCA) |
 | 2021 | Practical Timing Side Channel Attacks on Memory Compression | Martin Schwarzl, Pietro Borrello, Daniel Gruss, Gururaj Saileshwar, Hanna Müller, Michael Schwarz | [Link](https://arxiv.org/pdf/2111.08404.pdf) | --- |
 | 2021 | Touchtone leakage attacks via smartphone sensors: mitigation without hardware modification | Connor Bolton, Yan Long, Jun Han, Josiah Hester, Kevin Fu | [Link](https://arxiv.org/pdf/2109.13834.pdf) | --- |
 | 2021 | Leaking Control Flow Information via the Hardware Prefetcher | Yun Chen, Lingfeng Pei, Trevor E. Carlson | [Link](https://arxiv.org/pdf/2109.00474.pdf) | --- |
 | 2019 | SMoTherSpectre: Exploiting Speculative Executionthrough Port Contention | Atri Bhattacharyya, Alexandra Sandulescu, Matthias Neugschwandtner, Alessandro Sorniotti, Babak Falsafi, Mathias Payer, Anil Kurmus | [Link](https://hexhive.epfl.ch/publications/files/19CCS.pdf) | [Github](https://github.com/HexHive/SMoTherSpectre) |
+| 2017 | Systematic Classification of Side-Channel Attacks: A Case Study for Mobile Devices | Raphael Spreitzer, Veelasha Moonsamy, Thomas Korak, Stefan Mangard | [Link](https://arxiv.org/pdf/1611.03748) | --- |
+| 2016 | Timecop | [Link](https://post-apocalyptic-crypto.org/timecop/) | --- |
 
 
 ## DNS
@@ -246,6 +251,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings | Evangelos Bitsikas, Theodor Schnitzler, Christina Pöpper, Aanjhan Ranganathan | [Link](https://arxiv.org/pdf/2306.07695) | --- |
+| 2023 | Side-Channel VoIP Profiling Attack against Customer Service Automated Phone System | Roy Laurens, Edo Christianto, Bruce Caulkins, Cliff C. Zou | [Link](https://arxiv.org/ftp/arxiv/papers/2306/2306.00095.pdf) | --- |
 | 2023 | Watching your call: Breaking VoLTE Privacy in LTE/5G Networks | Zishuai Cheng, Mihai Ordean, Flavio D. Garcia, Baojiang Cui, Dominik Rys | [Link](https://arxiv.org/pdf/2301.02487) | --- |
 | 2021 | An Empirical Analysis of HTTPS Configuration Security | Camelia Simoiu, Wilson Nguyen, Zakir Durumeric | [Link](https://arxiv.org/pdf/2111.00703.pdf) | --- |
 | 2021 | Security Header Fields in HTTP Clients | Pascal Gadient, Oscar Nierstrasz, Mohammad Ghafari  | [Link](https://arxiv.org/ftp/arxiv/papers/2111/2111.03601.pdf) | --- |
@@ -280,6 +287,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Abusing the Ethereum Smart Contract Verification Services for Fun and Profit | Pengxiang Ma, Ningyu He, Yuhua Huang, Haoyu Wang | [Link](https://arxiv.org/pdf/2307.00549) | --- |
 | 2023 | The offline digital currency puzzle solved by a local blockchain | Henrique de Carvaloh Videira | [Link](https://arxiv.org/ftp/arxiv/papers/2305/2305.02290.pdf) | --- |
 | 2023 | Explainable Ponzi Schemes Detection on Ethereum | Letterio Galletta, Fabio Pinelli | [Link](https://arxiv.org/pdf/2301.04872) | [Github](https://github.com/fpinell/ponzi_ml/blob/main/notebooks/paper_experiments.ipynb) |
 | 2022 | Security Analysis of DeFi: Vulnerabilities, Attacks and Advances | Wenkai Li, Jiuyang Bu, Xiaoqi Li, Xianyi Chen | [Link](https://arxiv.org/pdf/2205.09524.pdf) | --- |
@@ -299,6 +307,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | Twitter Bots Influence on the Russo-Ukrainian War During the 2022 Italian General Elections | Francesco Luigi De Faveri, Luca Cosuti, Pier Paolo Tricomi, Mauro Conti | [Link](https://arxiv.org/pdf/2306.07183) | --- |
 | 2023 | A Survey on Learning to Hash | Jingdong Wang, Heng Tao Shen, Ting Zhang | [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LTHSurvey.pdf) | --- |
 | 2023 | MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion | Zilong Lin , Zhengyi Li , Xiaojing Liao , XiaoFeng Wang , Xiaozhong Liu | [Link](https://arxiv.org/pdf/2304.11300) | --- |
 | 2023 | Quantifying User Password Exposure to Third-Party CDNs | Rui Xin, Shihan Lin, Xiaowei Yang | [Link](https://arxiv.org/pdf/2301.03690) | [Github](https://github.com/SHiftLin/PAM2023-CDNPassword) |
@@ -336,4 +345,5 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2020 | Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine | Bert Hubert  | [Link](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) |
 | 2020 | Practical Exploitation of Math.random on V8 | d0nut | [YT](https://www.youtube.com/watch?v=_Iv6fBrcbAM) [Github](https://github.com/d0nutptr/v8_rand_buster) |
 | 2018 | Introduction to Locality-Sensitive Hashing | Tyler Neylon | [Link](https://unboxresearch.com/articles/lsh_post1.html) |
+
 
