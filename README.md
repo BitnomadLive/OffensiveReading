@@ -56,29 +56,14 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | NULL | History theft with CSS Boolean algebra | lcamtuf | [Link](https://lcamtuf.coredump.cx/css_calc/) |
 
 
-## XSS
-### Papers/Thesis
-| Year | Title | Author | Link | Github/PoC  |
-| --- | --- | --- | --- | --- |
-| 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
-| 2022 | Twenty-Two Years Since Revealing Cross-Site Scripting Attacks: A Systematic Mapping And A Comprehensive Survey | Abdelhakim Hannousse, Salima Yahiouche, Mohamed Cherif Nait-Hamoud | [Link](https://arxiv.org/pdf/2205.08425.pdf) | --- |
-| 2021 | Talking About My Generation: Targeted DOM-based XSS Exploit Generation using Dynamic Data Flow Analysis | Souphiane Bensalim, David Klein, Thomas Barber, Martin Johns | [Link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458718) | --- |
-| 2020 | PMForce: Systematically AnalyzingpostMessage Handlers at Scale | Marius Steffens, Ben Stock | [Link](https://people.cispa.io/ben.stock/papers/steffens2020pmforce.pdf) | [Github](https://github.com/mariussteffens/pmforce) |
-| 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
-| 2015 | Auto-Patching DOM-based XSS At Scale | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://www.comp.nus.edu.sg/~tsunami/papers/fse15-main.pdf) | --- |
-| 2015 | DEXTERJS: Robust Testing Platform for DOM-Based XSSVulnerabilities | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://n.ethz.ch/~sshivaji/publications/dexterjs_fse15.pdf) | --- |
-| 2013 | 25 Million Flows Later - Large-scale Detection of DOM-based XSS | Sebastian Lekies, Ben Stock, Martin Johns | [Link](https://people.cispa.io/ben.stock/papers/lekies2013flows.pdf) | --- |
-| 2013 | mXSS Attacks:  Attacking well-secured Web-Applicationsby using innerHTML Mutations | Mario Heiderich, Jörg Schwenk, Tilman Frosch, Jonas Magazinius, Edward Z. Yang  | [Link](https://cure53.de/fp170.pdf) | --- |
-
-### Blogposts
-| Year | Title | Author | Link |
-| --- | --- | --- | --- |
-| 2021 | Exploiting Client-Side Prototype Pollution in the wild | [s1r1us](https://blog.s1r1us.ninja/) | [Link](https://blog.s1r1us.ninja/research/PP) |
 
 ## Vulnerability Discovery - Web
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | EDEFuzz: A Web API Fuzzer for Excessive Data Exposures | Lianglu Pan, Shaanan Cohney, Toby Murray, Van-Thuan Pham | [Link](https://arxiv.org/ftp/arxiv/papers/2301/2301.09258.pdf) | [Github](https://github.com/Broken-Assumptions/EDEFuzz) |
+| 2023 | Stratosphere: Finding Vulnerable Cloud Storage Buckets | Jack Cable, Drew Gregory, Liz Izhikevich, Zakir Durumeric | [Link](https://arxiv.org/pdf/2309.13496) | --- |
+| 2023 | From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? | Rodrigo Pedro, Daniel Castro, Paulo Carreira, Nuno Santos | [Link](https://arxiv.org/pdf/2308.01990) | --- |
 | 2023 | BertRLFuzzer: A BERT and Reinforcement Learning Based Fuzzer | Piyush Jha, Joseph Scott, Jaya Sriram Ganeshna, Mudit Singh, Vijay Ganesh | [Link](https://arxiv.org/pdf/2305.12534) | [Github](https://github.com/bert-rl-fuzzer/fuzzer) |
 | 2023 | Exploiting Input Sanitization for Regex Denial of Service | Efe Barlas, Xin Du, James C. Davis | [Link](https://arxiv.org/pdf/2303.01996) | --- |
 | 2023 | SSO-MONITOR: Fully-Automatic Large-Scale Landscape, Security, and Privacy Analyses of Single Sign-On in the Wild | Maximilian Westers, Tobias Wich, Louis Jannett, Vladislav Mladenov, Christian Mainka, Andreas Mayer | [Link](https://arxiv.org/pdf/2302.01024) | [Google Drive](https://drive.google.com/drive/folders/1NJbSjX5JZds-jxBJYiwrkoQ9GKVcMslS) |
@@ -99,6 +84,24 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
 | 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
 
+## XSS
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
+| 2022 | Twenty-Two Years Since Revealing Cross-Site Scripting Attacks: A Systematic Mapping And A Comprehensive Survey | Abdelhakim Hannousse, Salima Yahiouche, Mohamed Cherif Nait-Hamoud | [Link](https://arxiv.org/pdf/2205.08425.pdf) | --- |
+| 2021 | Talking About My Generation: Targeted DOM-based XSS Exploit Generation using Dynamic Data Flow Analysis | Souphiane Bensalim, David Klein, Thomas Barber, Martin Johns | [Link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458718) | --- |
+| 2020 | PMForce: Systematically AnalyzingpostMessage Handlers at Scale | Marius Steffens, Ben Stock | [Link](https://people.cispa.io/ben.stock/papers/steffens2020pmforce.pdf) | [Github](https://github.com/mariussteffens/pmforce) |
+| 2017 | Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets | Sebastian Lekies, Krzysztof Kotowicz, Samuel Groß, Eduardo A. Vela Nava, Martin Johns  | [Link](https://acmccs.github.io/papers/p1709-lekiesA.pdf) | --- |
+| 2015 | Auto-Patching DOM-based XSS At Scale | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://www.comp.nus.edu.sg/~tsunami/papers/fse15-main.pdf) | --- |
+| 2015 | DEXTERJS: Robust Testing Platform for DOM-Based XSSVulnerabilities | Inian Parameshwaran, Enrico Budianto, Shweta Shinde, Hung Dang, Atul Sadhu, Prateek Saxena | [Link](https://n.ethz.ch/~sshivaji/publications/dexterjs_fse15.pdf) | --- |
+| 2013 | 25 Million Flows Later - Large-scale Detection of DOM-based XSS | Sebastian Lekies, Ben Stock, Martin Johns | [Link](https://people.cispa.io/ben.stock/papers/lekies2013flows.pdf) | --- |
+| 2013 | mXSS Attacks:  Attacking well-secured Web-Applicationsby using innerHTML Mutations | Mario Heiderich, Jörg Schwenk, Tilman Frosch, Jonas Magazinius, Edward Z. Yang  | [Link](https://cure53.de/fp170.pdf) | --- |
+
+### Blogposts
+| Year | Title | Author | Link |
+| --- | --- | --- | --- |
+| 2021 | Exploiting Client-Side Prototype Pollution in the wild | [s1r1us](https://blog.s1r1us.ninja/) | [Link](https://blog.s1r1us.ninja/research/PP) |
 
 ## CSS
 ### Papers/Thesis
@@ -116,9 +119,6 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | Data Exfiltration via CSS + SVG Font  | Masato Kinugawa | [Link](https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html) |
 | 2021 | uBlock, I exfiltrate: exploiting ad blockers with CSS | Gareth Heyes | [Link](https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css) |
 | 2019 | Better Exfiltration via HTML Injection | d0nut | [Link](https://d0nut.medium.com/better-exfiltration-via-html-injection-31c72a2dae8b) |
-
-
-
 
 ## Web Cache
 ### Papers/Thesis
@@ -155,6 +155,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | A Systematic Evaluation of Automated Tools for Side-Channel Vulnerabilities Detection in Cryptographic Libraries | Antoine Geimer, Mathéo Vergnolle, Frédéric Recoules, Lesly-Ann Daniel, Sébastien Bardin, Clémentine Maurice | [Link](https://arxiv.org/pdf/2310.08153) | --- |
+| 2023 | LeakyOhm: Secret Bits Extraction using Impedance Analysis | Saleh Khalaj Monfared, Tahoura Mosavirik, Shahin Tajik | [Link](https://arxiv.org/pdf/2310.07014) | --- |
 | 2023 | From Dragondoom to Dragonstar: Side-channel Attacks and Formally Verified Implementation of WPA3 Dragonfly Handshake | Daniel De Almeida Braga, Natalia Kulatova, Mohamed Sabt, Pierre-Alain Fouque | [Link](https://arxiv.org/pdf/2307.09243) | --- |
 | 2023 | AVX Timing Side-Channel Attacks against Address Space Layout Randomization | Hyunwoo Choi, Suryeon Kim, Seungwon Shin | [link](https://arxiv.org/pdf/2304.07940) | --- |
 | 2022 | Physical Fault Injection and Side-Channel Attacks on Mobile Devices: A Comprehensive Analysis | Carlton Shepherda, Konstantinos Markantonakisa, Nico van Heijningenb, Driss Aboulkassimic,Clément Gainec, Thibaut Heckmann, David Naccache | [Link](https://arxiv.org/pdf/2105.04454) | --- |
@@ -175,6 +177,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2023 | RESOLVERFUZZ: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing | Qifan Zhang, Xuesong Bai, Xiang Li, Haixin Duan, Qi Li, Zhou Li | -[Link](https://arxiv.org/pdf/2310.03202) | -[Github](https://github.com/ResolverFuzz/ResolverFuzz) |
 | 2022 | Under the Hood of DANE Mismanagement in SMTP | Hyeonmin Lee, Md. Ishtiaq Ashiq, Moritz Müller, Roland van Rijswijk-Deij, Taekyoung “Ted” Kwon, Taejoong Chung | [Link](https://www.usenix.org/system/files/sec22summer_lee.pdf) | [Artifacts](https://dane-study.github.io/) |
 | 2022 | The Hijackers Guide To The Galaxy: Off-Path Taking Over Internet Resources | Tianxiang Dai, Philipp Jeitner, Haya Shulman, Michael Waidner | [Link](https://arxiv.org/pdf/2205.05473.pdf) | --- |
 | 2021 | DNS and the DNS Cache Poisoning Attack | Avi Kak  | [Link](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture17.pdf) | |
@@ -196,6 +199,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | LLMs as Hackers: Autonomous Linux Privilege Escalation Attacks | Andreas Happe, Aaron Kaplan, Jürgen Cito | [Link](https://arxiv.org/pdf/2310.11409) | --- |
+| 2023 | CATASTROPHIC JAILBREAK OF OPEN-SOURCE LLMS VIA EXPLOITING GENERATION | Yangsibo Huang, Samyak Gupta, Mengzhou Xia, Kai Li, Danqi Chen | [Link](https://arxiv.org/pdf/2310.06987) | [Github](https://princeton-sysml.github.io/jailbreak-llm/) |
+| 2023 | Cyber Sentinel: Exploring Conversational Agents’ Role in Streamlining Security Tasks with GPT-4 | Mehrdad Kaheh,  Danial Khosh Kholgh,  Panos Kostakos | [Link](https://arxiv.org/pdf/2309.16422) | [Github](https://github.com/stanford-esrg/stratosphere) |
 | 2023 | Evaluation of Parameter-based Attacks against Embedded Neural Networks with Laser Injection | Mathieu Dumont, Kevin Hector, Pierre-Alain Moellic, Jean-MaxDutertre, Simon Pontie | [Link](https://arxiv.org/pdf/2304.12876) | --- |
 | 2023 | How Secure is Code Generated by ChatGPT? | Raphael Khoury, Anderson R. Avila, Jacob Brunelle, Baba Mamadou Camara | [Link](https://arxiv.org/pdf/2304.09655) | --- |
 | 2023 | Prompt Stealing Attacks Against Text-to-Image Generation Models | Xinyue Shen, Yiting Qu, Michael Backes, Yang Zhang | [Link](https://arxiv.org/pdf/2302.09923) | [Github](https://github.com/verazuo/prompt-stealing-attack) |
@@ -217,6 +223,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | VulMatch: Binary-level Vulnerability Detection Through Signature | Zian Liu, Lei Pan, Chao Chen, Ejaz Ahmed, Shigang Liu, Jun Zhang, Dongxi Liu | [Link](https://arxiv.org/pdf/2308.00288) | [Github](https://github.com/Vulmatch/Vulmatch.git) |
+| 2023 | Hyperfuzzing: black-box security hypertesting with a grey-box fuzzer | Daniel Blackwell, Ingolf Becker, David Clark | [Link](https://arxiv.org/pdf/2308.09081) | [PoC](https://figshare.com/s/fa143b65420ab7ab1e3c) |
 | 2023 | Fuzzing the Latest NTFS in Linux with Papora: An Empirical Study | Edward Lo, Ningyu He, Yuejie Shi, Jiajia Xu, Chiachih Wu, Ding Li, Yao Guo | [Link](https://arxiv.org/pdf/2304.07166) | --- |
 | 2023 | ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing | Sicong Cao, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su,Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, Tao Wei | [Link](https://arxiv.org/pdf/2304.04233) | [Github](https://github.com/ODDFuzz/ODDFuzz) |
 | 2023 | autofz: Automated Fuzzer Composition at Runtime | Yu-Fu Fu, Jaehyuk Lee, Taesoo Kim | [Link](https://arxiv.org/pdf/2302.12879) | [Github](https://github.com/sslab-gatech/autofz) |
@@ -303,10 +311,21 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2021 | An Empirical Study of Protocols in Smart Contracts | Timothy Mou, Michael Coblenz, Jonathan Aldrich | [Link](https://arxiv.org/pdf/2110.08983.pdf) | --- |
 | 2021 | Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit | Kaihua Qin, Liyi Zhou, Benjamin Livshits, Arthur Gervais | [Link](https://arxiv.org/pdf/2003.03810.pdf) | --- |
 
+## BlueTeam 
+### Papers/Thesis
+| Year | Title | Author | Link | Github/PoC  |
+| --- | --- | --- | --- | --- |
+| 2023 | Nebula: Self-Attention for Dynamic Malware Analysis | Dmitrijs Trizna, Luca Demetrio, Battista Biggio, Fabio Roli | [Link](https://arxiv.org/pdf/2310.10664) | --- |
+| 2023 | Application-layer Characterization and Traffic Analysis for Encrypted QUIC Transport Protocol | Qianqian Zhang ,Chi-Jiun Su | [Link](https://arxiv.org/pdf/2310.10676) | --- |
+| 2023 | Detection of Malicious DNS-over-HTTPS Traffic: An Anomaly Detection Approach using Autoencoders | Sergio A. Salinas Monroy, Aman Kumar Gupta, Garrett Wahlstedt | --- | --- |
+
 ## Misc/Other 
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | UVL2: A Unified Framework for Video Tampering
+Localization | Pengfei Pei, Yun Cao, Jinchuan Li, Zeyu Zhang, Yuqi Pang | [Link](https://arxiv.org/pdf/2309.16126) | --- |
+| 2023 | JFinder: A Novel Architecture for Java Vulnerability Identification Based Quad Self-Attention and Pre-training Mechanism | Jin Wanga, Zishan Huanga, Hui Xiaoa, Yinhao Xiao | [Link](https://arxiv.org/pdf/2307.15915) | [Github](https://github.com/WJ-8/JFinder) |
 | 2023 | Twitter Bots Influence on the Russo-Ukrainian War During the 2022 Italian General Elections | Francesco Luigi De Faveri, Luca Cosuti, Pier Paolo Tricomi, Mauro Conti | [Link](https://arxiv.org/pdf/2306.07183) | --- |
 | 2023 | A Survey on Learning to Hash | Jingdong Wang, Heng Tao Shen, Ting Zhang | [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LTHSurvey.pdf) | --- |
 | 2023 | MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion | Zilong Lin , Zhengyi Li , Xiaojing Liao , XiaoFeng Wang , Xiaozhong Liu | [Link](https://arxiv.org/pdf/2304.11300) | --- |
