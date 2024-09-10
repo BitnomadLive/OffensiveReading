@@ -62,7 +62,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2024 | Hidden Web Caches Discovery | Matteo Golinelli, Bruno Crispo | [Link](https://arxiv.org/pdf/2407.16303) | [Github](https://github.com/golim/hidden-web-caches-discovery) |
+| 2024 | Towards Fine-Grained Webpage Fingerprinting at Scale | Xiyuan Zhao, Xinhao Deng, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu | [Link](https://arxiv.org/pdf/2409.04341) | --- |
 | 2024 | GHunter: Universal Prototype Pollution Gadgets in JavaScript Runtimes | Eric Cornelissen, Mikhail Shcherbakov, Musard Balliu | [Link](https://arxiv.org/pdf/2407.10812) | [Github](https://github.com/KTH-LangSec/ghunter) |
 | 2024 | Fuzzing at Scale: The Untold Story of the Scheduler | Ivica Nikolic, Racchit Jain | [Link](https://arxiv.org/pdf/2406.18058) | --- |
 | 2024 | What All the PHUZZ Is About: A Coverage-guided Fuzzer for Finding Vulnerabilities in PHP Web Applications | Sebastian Neef, Lorenz Kleissner, Jean-Pierre Seifert | [Link](https://arxiv.org/pdf/2406.06261) | [Link](https://github.com/gehaxelt/phuzz) |
@@ -136,6 +136,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Hidden Web Caches Discovery | Matteo Golinelli, Bruno Crispo | [Link](https://arxiv.org/pdf/2407.16303) | [Github](https://github.com/golim/hidden-web-caches-discovery) |
 | 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.onarlioglu.com/publications/sec2022escalate.pdf) | [Github](https://github.com/Golim/wcde) |
 | 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
 | 2019 | Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen, Luigi Lo Iacono, Hannes Federrath | [Link](https://cpdos.org/paper/Your_Cache_Has_Fallen__Cache_Poisoned_Denial_of_Service_Attack__Preprint_.pdf) | --- |
@@ -171,6 +172,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | PIXHELL Attack: Leaking Sensitive Information from Air-Gap Computers via `Singing Pixels' | Mordechai Guri | [Link](https://arxiv.org/pdf/2409.04930) | --- |
 | 2024 | Cache Timing Leakages in Zero-Knowledge Protocols | Shibam Mukherjee, Christian Rechberger, Markus Schofnegger | [Link](https://eprint.iacr.org/2024/1390) | --- |
 | 2024 | Deep-TEMPEST: Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations | Santiago Fernández, Emilio Martínez, Gabriel Varela, Pablo Musé, Federico Larroca | [Link](https://arxiv.org/pdf/2407.09717) | --- |
 | 2024 | GbHammer: Malicious Inter-process Page Sharing by Hammering Global Bits in Page Table Entries | Keigo Yoshioka, Soramichi Akiyama | [Link](https://arxiv.org/pdf/2406.13119) | --- |
@@ -228,6 +230,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | BreachSeek: A Multi-Agent Automated Penetration Tester | Ibrahim Alshehri, Adnan Alshehri, Abdulrahman Almalki, Majed Bamardouf, Alaqsa Akbar | [Link](https://arxiv.org/pdf/2409.03789) | [Github](https://github.com/snow10100/pena/) |
 | 2024 | Synthetic Cancer -- Augmenting Worms with LLMs | Benjamin Zimmerman, David Zollikofer | [Link](https://arxiv.org/pdf/2406.19570) | --- |
 | 2024 | The Power of Words: Generating PowerShell Attacks from Natural Language | Pietro Liguori, Christian Marescalco, Roberto Natella, Vittorio Orbinato, Luciano Pianese | [Link](https://arxiv.org/pdf/2404.12893) | --- |
 | 2024 | Offensive AI: Enhancing Directory Brute-forcing Attack with the Use of Language Models | Alberto Castagnaro, Mauro Conti, Luca Pajola | [Link](https://arxiv.org/pdf/2404.14138) | --- |
@@ -310,6 +313,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Jäger: Automated Telephone Call Traceback | David Adei, Varun Madathil, Sathvik Prasad, Bradley Reaves, Alessandra Scafuro | [Link](https://arxiv.org/pdf/2409.02839) | --- |
 | 2024 | Eavesdropping Mobile Apps and Actions through Wireless Traffic in the Open World | Xiaoguang Yang, Yong Huang, Junli Guo, Dalong Zhang, Qingxian Wang | [Link](https://arxiv.org/pdf/2408.07263) | --- |
 | 2024 | AndroCon: Conning Location Services in Android | Soham Nag, Smruti R. Sarangi | [Link](https://arxiv.org/pdf/2407.19392) | --- |
 | 2024 | Never Gonna Give You Up: Exploring Deprecated NULL Ciphers in Commercial VoWiFi Deployments | Gabriel Karl Gegenhuber, Philipp Frenzel, Edgar Weippl | [Link](https://arxiv.org/pdf/2406.12348) | --- |
@@ -353,6 +357,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue | Lioba Heimbach, Yann Vonlanthen, Juan Villacis, Lucianna Kiffer, Roger Wattenhofer | [Link](https://arxiv.org/pdf/2409.04366) | --- |
 | 2024 | DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts | Ismael Medeiros, Fausto Carvalho, Alexandre Ferreira, Rodrigo Bonifácio, Fabiano Cavalcanti Fernandes | [Link](https://arxiv.org/pdf/2409.01788) | [Github](https://github.com/PAMunb/dogefuzz) |
 | 2024 | ML2SC: Deploying Machine Learning Models as Smart Contracts on the Blockchain | Zhikai Li, Steve Vott, Bhaskar Krishnamachar | [Link](https://arxiv.org/pdf/2404.16967) | --- |
 | 2024 | Larger-scale Nakamoto-style Blockchains Don't Necessarily Offer Better Security | Jannik Albrecht, Sebastien Andreina, Frederik Armknecht, Ghassan Karame, Giorgia Marson, Julian Willingmann | [Link](https://arxiv.org/pdf/2404.09895) | --- |
@@ -377,6 +382,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer | Jiangyi Deng, Xinfeng Li, Yanjiao Chen, Yijie Bai, Haiqin Weng, Yan Liu, Tao Wei, Wenyuan Xu  |[Link](https://arxiv.org/pdf/2409.02074) | [Github](https://raconteur-ndss.github.io/#) |
 | 2024 | Red Team Redemption: A Structured Comparison of Open-Source Tools for Adversary Emulation | Max Landauer, Klaus Mayer, Florian Skopik, Markus Wurzenberger, Manuel Kern | [Link](https://arxiv.org/pdf/2408.15645) | --- |
 | 2024 | Forecasting Attacker Actions using Alert-driven Attack Graphs | Ion Băbălău, Azqa Nadeem | [Link](https://arxiv.org/pdf/2408.09888) | --- |
 | 2024 | HoneyGAN Pots: A Deep Learning Approach for Generating Honeypots | Ryan Gabrys, Daniel Silva, Mark Bilinski | [Link](https://arxiv.org/pdf/2407.07292) | --- |
