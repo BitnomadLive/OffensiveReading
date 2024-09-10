@@ -62,6 +62,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Super Mario in the Pernicious Kingdoms: Classifying glitches in old games | Llewellyn Forward, Io Limmer, Joseph Hallett, Dan Page | [Link](https://arxiv.org/pdf/2404.14870) | --- |
+| 2024 | AssetHarvester: A Static Analysis Tool for Detecting Assets Protected by Secrets in Software Artifacts | Setu Kumar Basak, K. Virgil English, Ken Ogura, Vitesh Kambara, Bradley Reaves, Laurie Williams | [Link](https://arxiv.org/pdf/2403.19072) | --- |
+| 2024 | Fingerprinting web servers through Transformer-encoded HTTP response headers | Patrick Darwinkel | [Link](https://arxiv.org/pdf/2404.00056) | [Github](https://github.com/Darwinkel/bachelor-thesis-information-science) |
 | 2024 | AdvSQLi: Generating Adversarial SQL Injections against Real-world WAF-as-a-service | Zhenqing Qu, Xiang Ling, Ting Wang, Xiang Chen, Shouling Ji, Chunming Wu | [Link](https://arxiv.org/pdf/2401.02615) | --- |
 | 2024 | EDEFuzz: A Web API Fuzzer for Excessive Data Exposures | Lianglu Pan, Shaanan Cohney, Toby Murray, Van-Thuan Pham | [Link](https://arxiv.org/ftp/arxiv/papers/2301/2301.09258.pdf) | [Github](https://github.com/Broken-Assumptions/EDEFuzz) |
 | 2023 | Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis | Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu | [Link](https://arxiv.org/pdf/2311.03919) | [Github](https://github.com/KTH-LangSec/Dasty) |
@@ -138,6 +141,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks | Yuxiang Yang, Xuewei Feng, Qi Li, Kun Sun, Ziqiang Wang, Ke Xu | [Link](https://arxiv.org/pdf/2404.04601) | --- |
 | 2024 | Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack | Ziqiang Wang, Xuewei Feng, Qi Li, Kun Sun, Yuxiang Yang, Mengyuan Li, Ganqiu Du, Ke Xu, Jianping Wu | [Link](https://arxiv.org/pdf/2402.12716) | --- |
 | 2023 | Passive SSH Key Compromise via Lattices | Keegan Ryan, Kaiwen He, George Arnold Sullivan, Nadia Heninger | [Link](https://eprint.iacr.org/2023/1711.pdf) | --- |
 | 2020 | Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections | Tom Van Goethem, Christina Pöpper, Wouter Joosen, Mathy Vanhoef | [Link](https://www.usenix.org/system/files/sec20-van_goethem.pdf) | [Github](https://github.com/DistriNet/timeless-timing-attacks) |
@@ -162,6 +166,10 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Dynamic Frequency-Based Fingerprinting Attacks against Modern Sandbox Environments | Debopriya Roy Dipta, Thore Tiemann, Berk Gulmezoglu, Eduard Marin, Thomas Eisenbarth | [Link](https://arxiv.org/pdf/2404.10715) | --- |
+| 2024 | PrintListener: Uncovering the Vulnerability of Fingerprint Authentication via the Finger Friction Sound | Man Zhou, Shuao Su, Qian Wang, Qi Li, Yuting Zhou, Xiaojing Ma, Zhengxiong Li | [Link](https://arxiv.org/pdf/2404.09214) | --- |
+| 2024 | SNOW-SCA: ML-assisted Side-Channel Attack on SNOW-V | Harshit Saurabh, Anupam Golder, Samarth Shivakumar Titti, Suparna Kundu, Chaoyun Li, Angshuman Karmakar, Debayan Das | [Link](https://arxiv.org/pdf/2403.08267) | --- |
+| 2024 | Acoustic Side Channel Attack on Keyboards Based on Typing Patterns | Alireza Taheritajar, Reza Rahaeimehr | [Link](https://arxiv.org/pdf/2403.08740) | --- |
 | 2024 | Prime+Retouch: When Cache is Locked and Leaked | Jaehyuk Lee, Fan Sang, Taesoo Kim | [Link](https://arxiv.org/pdf/2402.15425) | --- |
 | 2024 | Whispering Pixels: Exploiting Uninitialized Register Accesses in Modern GPUs | Frederik Dermot Pustelnik, Xhani Marvin Sass, Jean-Pierre Seifert | [Link](https://arxiv.org/pdf/2401.08881) | --- |
 | 2023 | OverHear: Headphone based Multi-sensor Keystroke Inference | Raveen Wijewickrama, Maryam Abbasihafshejani, Anindya Maiti, Murtuza Jadliwala | [Link](https://arxiv.org/pdf/2311.02288) | --- |
@@ -209,6 +217,11 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | The Power of Words: Generating PowerShell Attacks from Natural Language | Pietro Liguori, Christian Marescalco, Roberto Natella, Vittorio Orbinato, Luciano Pianese | [Link](https://arxiv.org/pdf/2404.12893) | --- |
+| 2024 | Offensive AI: Enhancing Directory Brute-forcing Attack with the Use of Language Models | Alberto Castagnaro, Mauro Conti, Luca Pajola | [Link](https://arxiv.org/pdf/2404.14138) | --- |
+| 2024 | LLM Agents can Autonomously Exploit One-day Vulnerabilities | Richard Fang, Rohan Bindu, Akul Gupta, Daniel Kang | [Link](https://arxiv.org/pdf/2404.08144) | --- |
+| 2024 | Depending on yourself when you should: Mentoring LLM with RL agents to become the master in cybersecurity games | Yikuan Yan, Yaolun Zhang, Keman Huang | [Link](https://arxiv.org/pdf/2403.17674) | --- |
+| 2024 | Using Hallucinations to Bypass GPT4's Filter | Benjamin Lemkin | [Link](https://arxiv.org/pdf/2403.04769) | --- |
 | 2024 | A First Look at GPT Apps: Landscape and Vulnerability | Zejun Zhang, Li Zhang, Xin Yuan, Anlan Zhang, Mengwei Xu, Feng Qian | [Link](https://arxiv.org/pdf/2402.15105) | --- |
 | 2024 | LLM Agents can Autonomously Hack Websites | Richard Fang, Rohan Bindu, Akul Gupta, Qiusi Zhan, Daniel Kang | [Link](https://arxiv.org/pdf/2402.06664) | --- |
 | 2024 | LLMs as Hackers: Autonomous Linux Privilege Escalation Attacks | Andreas Happe, Aaron Kaplan, Jürgen Cito | [Link](https://arxiv.org/pdf/2310.11409) | --- |
@@ -231,10 +244,13 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2017 | Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN | Weiwei Hu, Ying Tan | [Link](https://arxiv.org/pdf/1702.05983.pdf) | --- |
 
 
-## Fuzzing / Exploitation / Vulnerability Discovery in Binaries
+## Fuzzing / Exploitation / Vulnerability Discovery in Applications
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | BinSym: Binary-Level Symbolic Execution using Formal Descriptions of Instruction Semantics | Sören Tempel, Tobias Brandt, Christoph Lüth, Rolf Drechsler | [Link](https://arxiv.org/pdf/2404.04132) | [Github](https://github.com/agra-uni-bremen/binsym) |
+| 2024 | Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation | Shangqing Liu, Wei Ma, Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu | [Link](https://arxiv.org/pdf/2404.09599) | --- |
+| 2024 | OSS Malicious Package Analysis in the Wild | Xiaoyan Zhou, Ying Zhang, Wenjia Niu, Jiqiang Liu, Haining Wang, Qiang Li | [Link](https://arxiv.org/pdf/2404.04991) | --- |
 | 2024 | Game Rewards Vulnerabilities: Software Vulnerability Detection with Zero-Sum Game and Prototype Learning | Xin-Cheng Wen, Cuiyun Gao, Xinchen Wang, Ruiqi Wang, Tao Zhang, Qing Liao | [Link](https://arxiv.org/pdf/2401.08131) | --- |
 | 2024 | UBfuzz: Finding Bugs in Sanitizer Implementations | Shaohua Li, Zhendong Su | Link(https://arxiv.org/pdf/2401.04538) | [Atrifact](https://zenodo.org/records/8406414) |
 | 2024 | VulMatch: Binary-level Vulnerability Detection Through Signature | Zian Liu, Lei Pan, Chao Chen, Ejaz Ahmed, Shigang Liu, Jun Zhang, Dongxi Liu | [Link](https://arxiv.org/pdf/2308.00288) | [Github](https://github.com/Vulmatch/Vulmatch.git) |
@@ -311,6 +327,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | ML2SC: Deploying Machine Learning Models as Smart Contracts on the Blockchain | Zhikai Li, Steve Vott, Bhaskar Krishnamachar | [Link](https://arxiv.org/pdf/2404.16967) | --- |
+| 2024 | Larger-scale Nakamoto-style Blockchains Don't Necessarily Offer Better Security | Jannik Albrecht, Sebastien Andreina, Frederik Armknecht, Ghassan Karame, Giorgia Marson, Julian Willingmann | [Link](https://arxiv.org/pdf/2404.09895) | --- |
+| 2024 | 51% Attack via Difficulty Increase with a Small Quantum Miner | Bolton Bailey, Or Sattath | [Link](https://arxiv.org/pdf/2403.08023) | --- |
 | 2023 | Abusing the Ethereum Smart Contract Verification Services for Fun and Profit | Pengxiang Ma, Ningyu He, Yuhua Huang, Haoyu Wang | [Link](https://arxiv.org/pdf/2307.00549) | --- |
 | 2023 | The offline digital currency puzzle solved by a local blockchain | Henrique de Carvaloh Videira | [Link](https://arxiv.org/ftp/arxiv/papers/2305/2305.02290.pdf) | --- |
 | 2023 | Explainable Ponzi Schemes Detection on Ethereum | Letterio Galletta, Fabio Pinelli | [Link](https://arxiv.org/pdf/2301.04872) | [Github](https://github.com/fpinell/ponzi_ml/blob/main/notebooks/paper_experiments.ipynb) |
@@ -331,6 +350,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | HookChain: A new perspective for Bypassing EDR Solutions | Helvio Carvalho Junior | [Link](https://arxiv.org/pdf/2404.16856) | --- |
+| 2024 | Leveraging Adversarial Detection to Enable Scalable and Low Overhead RowHammer Mitigations | Oğuzhan Canpolat, A. Giray Yağlıkçı, Ataberk Olgun, İsmail Emir Yüksel, Yahya Can Tuğrul, Konstantinos Kanellopoulos, Oğuz Ergin, Onur Mutlu | [Link](https://arxiv.org/pdf/2404.13477) | --- |
 | 2023 | Nebula: Self-Attention for Dynamic Malware Analysis | Dmitrijs Trizna, Luca Demetrio, Battista Biggio, Fabio Roli | [Link](https://arxiv.org/pdf/2310.10664) | --- |
 | 2023 | Application-layer Characterization and Traffic Analysis for Encrypted QUIC Transport Protocol | Qianqian Zhang ,Chi-Jiun Su | [Link](https://arxiv.org/pdf/2310.10676) | --- |
 | 2023 | Detection of Malicious DNS-over-HTTPS Traffic: An Anomaly Detection Approach using Autoencoders | Sergio A. Salinas Monroy, Aman Kumar Gupta, Garrett Wahlstedt | --- | --- |
@@ -339,8 +360,11 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Statistical testing of random number generators and their improvement using randomness extraction | Cameron Foreman, Richie Yeung, Florian J. Curchod | [Link](https://arxiv.org/pdf/2403.18716) | --- |
+| 2024 | Inception Attacks: Immersive Hijacking in Virtual Reality Systems | Zhuolin Yang, Cathy Yuanchen Li, Arman Bhalla, Ben Y. Zhao, Haitao Zheng | [Link](https://arxiv.org/pdf/2403.05721) | --- |
 | 2024 | Username Squatting on Online Social Networks: A Study on X | Anastasios Lepipas, Anastasia Borovykh, Soteris Demetriou | [Link](https://arxiv.org/pdf/2401.09209) | --- |
 | 2024 | UVL2: A Unified Framework for Video Tampering Localization | Pengfei Pei, Yun Cao, Jinchuan Li, Zeyu Zhang, Yuqi Pang | [Link](https://arxiv.org/pdf/2309.16126) | --- |
+| 2023 | The Software Genome Project: Venture to the Genomic Pathways of Open Source Software and Its Applications | Yueming Wu, Chengwei Liu, Yang Liu | [Link](https://arxiv.org/pdf/2311.09881) | --- |
 | 2023 | JFinder: A Novel Architecture for Java Vulnerability Identification Based Quad Self-Attention and Pre-training Mechanism | Jin Wanga, Zishan Huanga, Hui Xiaoa, Yinhao Xiao | [Link](https://arxiv.org/pdf/2307.15915) | [Github](https://github.com/WJ-8/JFinder) |
 | 2023 | Twitter Bots Influence on the Russo-Ukrainian War During the 2022 Italian General Elections | Francesco Luigi De Faveri, Luca Cosuti, Pier Paolo Tricomi, Mauro Conti | [Link](https://arxiv.org/pdf/2306.07183) | --- |
 | 2023 | A Survey on Learning to Hash | Jingdong Wang, Heng Tao Shen, Ting Zhang | [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/LTHSurvey.pdf) | --- |
