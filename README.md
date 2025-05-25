@@ -2,6 +2,26 @@
 
 A collection of papers about offensive IT security with some blogposts sprinkled in. This is basically a list of papers I found interesting. If you want to contribute a paper just open a issue or issue a pull request. 
 
+# Table of Contents
+
+1. [Browsers / Browser Side Channel](#browsers--browser-side-channel)
+2. [Vulnerability Discovery - Web](#vulnerability-discovery---web)
+3. [XSS](#xss)
+4. [CSS](#css)
+5. [Web Cache](#web-cache)
+6. [Network](#network)
+7. [Windows](#windows)
+8. [Side Channel Attacks](#side-channel-attacks)
+9. [DNS](#dns)
+10. [AI](#ai)
+11. [Fuzzing / Exploitation / Vulnerability Discovery in Applications/Hardware](#fuzzing--exploitation--vulnerability-discovery-in-applicationshardware)
+12. [Mobile/Radio](#mobileradio)
+13. [IoT](#iot)
+14. [Crypto/DeFi](#cryptodefi)
+15. [BlueTeam](#blueteam)
+16. [Misc/Other](#miscother)
+
+
 ## Browsers / Browser Side Channel
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
