@@ -276,7 +276,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2024 | Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation | Shangqing Liu, Wei Ma, Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu | [Link](https://arxiv.org/pdf/2404.09599) | --- |
 | 2024 | OSS Malicious Package Analysis in the Wild | Xiaoyan Zhou, Ying Zhang, Wenjia Niu, Jiqiang Liu, Haining Wang, Qiang Li | [Link](https://arxiv.org/pdf/2404.04991) | --- |
 | 2024 | Game Rewards Vulnerabilities: Software Vulnerability Detection with Zero-Sum Game and Prototype Learning | Xin-Cheng Wen, Cuiyun Gao, Xinchen Wang, Ruiqi Wang, Tao Zhang, Qing Liao | [Link](https://arxiv.org/pdf/2401.08131) | --- |
-| 2024 | UBfuzz: Finding Bugs in Sanitizer Implementations | Shaohua Li, Zhendong Su | Link(https://arxiv.org/pdf/2401.04538) | [Atrifact](https://zenodo.org/records/8406414) |
+| 2024 | UBfuzz: Finding Bugs in Sanitizer Implementations | Shaohua Li, Zhendong Su | [Link](https://arxiv.org/pdf/2401.04538) | [Atrifact](https://zenodo.org/records/8406414) |
 | 2024 | VulMatch: Binary-level Vulnerability Detection Through Signature | Zian Liu, Lei Pan, Chao Chen, Ejaz Ahmed, Shigang Liu, Jun Zhang, Dongxi Liu | [Link](https://arxiv.org/pdf/2308.00288) | [Github](https://github.com/Vulmatch/Vulmatch.git) |
 | 2023 | Hyperfuzzing: black-box security hypertesting with a grey-box fuzzer | Daniel Blackwell, Ingolf Becker, David Clark | [Link](https://arxiv.org/pdf/2308.09081) | [PoC](https://figshare.com/s/fa143b65420ab7ab1e3c) |
 | 2023 | Fuzzing the Latest NTFS in Linux with Papora: An Empirical Study | Edward Lo, Ningyu He, Yuejie Shi, Jiajia Xu, Chiachih Wu, Ding Li, Yao Guo | [Link](https://arxiv.org/pdf/2304.07166) | --- |
