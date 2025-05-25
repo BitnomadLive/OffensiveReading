@@ -1,6 +1,6 @@
 # OffensiveReading
 
-A collection of papers about offensive IT security with some blogposts sprinkled in. If you want to contribute a paper just open a issue or issue a pull request. 
+A collection of papers about offensive IT security with some blogposts sprinkled in. This is basically a list of papers I found interesting. If you want to contribute a paper just open a issue or issue a pull request. 
 
 ## Browsers / Browser Side Channel
 ### Papers/Thesis
@@ -62,6 +62,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Characterizing JavaScript Security Code Smells | Vikas Kambhampati, Nehaz Hussain Mohammed, Amin Milani Fard | [Link](https://arxiv.org/pdf/2411.19358) | --- |
 | 2024 | Towards Fine-Grained Webpage Fingerprinting at Scale | Xiyuan Zhao, Xinhao Deng, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu | [Link](https://arxiv.org/pdf/2409.04341) | --- |
 | 2024 | GHunter: Universal Prototype Pollution Gadgets in JavaScript Runtimes | Eric Cornelissen, Mikhail Shcherbakov, Musard Balliu | [Link](https://arxiv.org/pdf/2407.10812) | [Github](https://github.com/KTH-LangSec/ghunter) |
 | 2024 | Fuzzing at Scale: The Untold Story of the Scheduler | Ivica Nikolic, Racchit Jain | [Link](https://arxiv.org/pdf/2406.18058) | --- |
@@ -160,6 +161,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | TIMEROASTING, TRUSTROASTING AND COMPUTER SPRAYING | Tom Tervoort | [Link](https://www.secura.com/uploads/whitepapers/Secura-WP-Timeroasting-v3.pdf) | [Github](https://github.com/SecuraBV/Timeroast) |
 | 2022 | POPKORN: Popping Windows Kernel Drivers At Scale | Rajat Gupta, Lukas Dresel, Noah Spahn, Giovanni Vigna, Christopher Kruegel, Taesoo Kim | [Link](https://dl.acm.org/doi/pdf/10.1145/3564625.3564631) | [Github](https://github.com/ucsb-seclab/popkorn-artifact) |
 | 2018 | Exploiting Regedit- Invisible Persistence & binary storage | eWhiteHats | [Link](https://github.com/ewhitehats/InvisiblePersistence/blob/master/InvisibleRegValues_Whitepaper.pdf) | [Github](https://github.com/ewhitehats/InvisiblePersistence) |
 
@@ -170,10 +172,11 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2022 | DOing Harm (Delivery Optimization) | Remy Hax | [Link](https://remyhax.xyz/posts/do-harm/) |
 | 2022 | From KBs to CVEs: Understanding the Relationships Between Windows Security Updates and Vulnerabilities | Moran Zaks | [Link](https://claroty.com/2022/05/04/blog-research-from-kbs-to-cves-understanding-the-relationships-between-windows-security-updates-and-vulnerabilities/) |
 
-## Side Channels
+## Side Channel Attacks
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Power side-channel leakage localization through adversarial training of deep neural networks | Jimmy Gammell, Anand Raghunathan, Kaushik Roy | [Link](https://arxiv.org/pdf/2410.22425) | [Github](https://github.com/jimgammell/gan_side_channel_leakage_detector/tree/main) |
 | 2024 | PIXHELL Attack: Leaking Sensitive Information from Air-Gap Computers via `Singing Pixels' | Mordechai Guri | [Link](https://arxiv.org/pdf/2409.04930) | --- |
 | 2024 | Cache Timing Leakages in Zero-Knowledge Protocols | Shibam Mukherjee, Christian Rechberger, Markus Schofnegger | [Link](https://eprint.iacr.org/2024/1390) | --- |
 | 2024 | Deep-TEMPEST: Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations | Santiago Fernández, Emilio Martínez, Gabriel Varela, Pablo Musé, Federico Larroca | [Link](https://arxiv.org/pdf/2407.09717) | --- |
@@ -232,6 +235,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing | Lajos Muzsai, David Imolai, András Lukács | [Link](https://arxiv.org/pdf/2412.01778) | [Github](https://github.com/aielte-research/HackSynth) |
+| 2024 | Metamorphic Malware Evolution: The Potential and Peril of Large Language Models | Pooria Madani | [Link](https://arxiv.org/pdf/2410.23894) | --- |
 | 2024 | Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese | [Link](https://arxiv.org/pdf/2410.20911) | --- |
 | 2024 | Advancing Malicious Website Identification: A Machine Learning Approach Using Granular Feature Analysis | Kinh Tran, Dusan Sovilj | [Link](https://arxiv.org/pdf/2409.07608) | [Github](https://github.com/CyberScienceLab/Malicious_Website_Identification) |
 | 2024 | BreachSeek: A Multi-Agent Automated Penetration Tester | Ibrahim Alshehri, Adnan Alshehri, Abdulrahman Almalki, Majed Bamardouf, Alaqsa Akbar | [Link](https://arxiv.org/pdf/2409.03789) | [Github](https://github.com/snow10100/pena/) |
@@ -263,10 +268,11 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2017 | Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN | Weiwei Hu, Ying Tan | [Link](https://arxiv.org/pdf/1702.05983.pdf) | --- |
 
 
-## Fuzzing / Exploitation / Vulnerability Discovery in Applications
+## Fuzzing / Exploitation / Vulnerability Discovery in Applications/Hardware
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Fuzzerfly Effect: Hardware Fuzzing for Memory Safety | Mohamadreza Rostami, Chen Chen, Rahul Kande, Huimin Li, Jeyavijayan Rajendran, Ahmad-Reza Sadeghi | [Link](https://arxiv.org/pdf/2410.22561) | --- |
 | 2024 | Fuzzing the PHP Interpreter via Dataflow Fusion | Yuancheng Jiang, Chuqi Zhang, Bonan Ruan, Jiahao Liu, Manuel Rigger, Roland Yap, Zhenkai Liang | [Link](https://arxiv.org/pdf/2410.21713) | [Github](https://github.com/php/flowfusion) |
 | 2024 | G-Fuzz: A Directed Fuzzing Framework for gVisor | Yuwei Li, Yuan Chen, Shouling Ji, Xuhong Zhang, Guanglu Yan, Alex X.Liu, Chunming Wu, Zulie Pan, Peng Lin | [Link](https://arxiv.org/pdf/2409.13139) | [Github](https://github.com/zjuchenyuan/gfuzz) |
 | 2024 | RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing | Fabian Thomas, Lorenz Hetterich, Ruiyi Zhang, Daniel Weber, Lukas Gerlach, Michael Schwarz | [Link](https://ghostwriteattack.com/riscvuzz.pdf) | [Link](https://anonymous.4open.science/r/riscvuzz-artifacts-116D) |
@@ -391,6 +397,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Living off the Analyst: Harvesting Features from Yara Rules for Malware Detection | Siddhant Gupta, Fred Lu, Andrew Barlow, Edward Raff, Francis Ferraro, Cynthia Matuszek, Charles Nicholas, James Holt | [Link](https://arxiv.org/pdf/2411.18516) | --- |
+| 2024 | "Oh, sh*t! I actually opened the document!": An Empirical Study of the Experiences with Suspicious Emails in Virtual Reality Headsets | Filipo Sharevski, Jennifer Vander Loop, Sarah Ferguson | [Link](https://arxiv.org/pdf/2412.01474) | --- |
 | 2024 | RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer | Jiangyi Deng, Xinfeng Li, Yanjiao Chen, Yijie Bai, Haiqin Weng, Yan Liu, Tao Wei, Wenyuan Xu  |[Link](https://arxiv.org/pdf/2409.02074) | [Github](https://raconteur-ndss.github.io/#) |
 | 2024 | Red Team Redemption: A Structured Comparison of Open-Source Tools for Adversary Emulation | Max Landauer, Klaus Mayer, Florian Skopik, Markus Wurzenberger, Manuel Kern | [Link](https://arxiv.org/pdf/2408.15645) | --- |
 | 2024 | Forecasting Attacker Actions using Alert-driven Attack Graphs | Ion Băbălău, Azqa Nadeem | [Link](https://arxiv.org/pdf/2408.09888) | --- |
