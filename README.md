@@ -95,11 +95,13 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2020 | Mailto: Me Your Secrets. On Bugs and Features in Email End-to-End Encryption | Jens Müller, Marcus Brinkmann, Damian Poddebniak, Sebastian Schinzel, Jörg Schwenk | [Link](https://www.nds.ruhr-uni-bochum.de/media/nds/veroeffentlichungen/2020/08/15/mailto-paper.pdf) | --- |
 | 2020 | Can I Take Your Subdomain?Exploring Related-Domain Attacks in the Modern Web | Marco Squarcina, Mauro Tempesta, Lorenzo Veronese, Stefano Calzavara, Matteo Maffe | [Link](https://arxiv.org/pdf/2012.01946.pdf) | --- |
 | 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
+| 2016 | A Comprehensive Formal Security Analysis of OAuth 2.0 | Daniel Fett, Ralf Kuesters, Guido Schmitz | [Link](https://arxiv.org/pdf/1601.01229) | --- |
 
 ## XSS
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2022 | Link: Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning | Soyoung Lee, Seongil Wi, Sooel Son | [Link](https://wsp-lab.github.io/papers/lee-link-www22.pdf) | [Github](https://github.com/WSP-LAB/Link) |
 | 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
 | 2022 | Twenty-Two Years Since Revealing Cross-Site Scripting Attacks: A Systematic Mapping And A Comprehensive Survey | Abdelhakim Hannousse, Salima Yahiouche, Mohamed Cherif Nait-Hamoud | [Link](https://arxiv.org/pdf/2205.08425.pdf) | --- |
 | 2021 | Talking About My Generation: Targeted DOM-based XSS Exploit Generation using Dynamic Data Flow Analysis | Souphiane Bensalim, David Klein, Thomas Barber, Martin Johns | [Link](https://dl.acm.org/doi/pdf/10.1145/3447852.3458718) | --- |
@@ -230,6 +232,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese | [Link](https://arxiv.org/pdf/2410.20911) | --- |
+| 2024 | Advancing Malicious Website Identification: A Machine Learning Approach Using Granular Feature Analysis | Kinh Tran, Dusan Sovilj | [Link](https://arxiv.org/pdf/2409.07608) | [Github](https://github.com/CyberScienceLab/Malicious_Website_Identification) |
 | 2024 | BreachSeek: A Multi-Agent Automated Penetration Tester | Ibrahim Alshehri, Adnan Alshehri, Abdulrahman Almalki, Majed Bamardouf, Alaqsa Akbar | [Link](https://arxiv.org/pdf/2409.03789) | [Github](https://github.com/snow10100/pena/) |
 | 2024 | Synthetic Cancer -- Augmenting Worms with LLMs | Benjamin Zimmerman, David Zollikofer | [Link](https://arxiv.org/pdf/2406.19570) | --- |
 | 2024 | The Power of Words: Generating PowerShell Attacks from Natural Language | Pietro Liguori, Christian Marescalco, Roberto Natella, Vittorio Orbinato, Luciano Pianese | [Link](https://arxiv.org/pdf/2404.12893) | --- |
@@ -263,6 +267,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | Fuzzing the PHP Interpreter via Dataflow Fusion | Yuancheng Jiang, Chuqi Zhang, Bonan Ruan, Jiahao Liu, Manuel Rigger, Roland Yap, Zhenkai Liang | [Link](https://arxiv.org/pdf/2410.21713) | [Github](https://github.com/php/flowfusion) |
+| 2024 | G-Fuzz: A Directed Fuzzing Framework for gVisor | Yuwei Li, Yuan Chen, Shouling Ji, Xuhong Zhang, Guanglu Yan, Alex X.Liu, Chunming Wu, Zulie Pan, Peng Lin | [Link](https://arxiv.org/pdf/2409.13139) | [Github](https://github.com/zjuchenyuan/gfuzz) |
 | 2024 | RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing | Fabian Thomas, Lorenz Hetterich, Ruiyi Zhang, Daniel Weber, Lukas Gerlach, Michael Schwarz | [Link](https://ghostwriteattack.com/riscvuzz.pdf) | [Link](https://anonymous.4open.science/r/riscvuzz-artifacts-116D) |
 | 2024 | No Peer, no Cry: Network Application Fuzzing via Fault Injection | Nils Bars, Moritz Schloegel, Nico Schiller, Lukas Bernhard, Thorsten Holz | [Link](https://arxiv.org/pdf/2409.01059) | [Github](https://github.com/fuzztruction/fuzztruction-net) |
 | 2024 | DarthShader: Fuzzing WebGPU Shader Translators & Compilers | Lukas Bernhard, Nico Schiller, Moritz Schloegel, Nils Bars, Thorsten Holz | [Link](https://arxiv.org/pdf/2409.01824) | --- |
@@ -313,6 +319,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | CovFUZZ: Coverage-based fuzzer for 4G&5G protocols | Ilja Siroš, Dave Singelée, Bart Preneel | [Link](https://arxiv.org/pdf/2410.20958) | --- |
 | 2024 | Jäger: Automated Telephone Call Traceback | David Adei, Varun Madathil, Sathvik Prasad, Bradley Reaves, Alessandra Scafuro | [Link](https://arxiv.org/pdf/2409.02839) | --- |
 | 2024 | Eavesdropping Mobile Apps and Actions through Wireless Traffic in the Open World | Xiaoguang Yang, Yong Huang, Junli Guo, Dalong Zhang, Qingxian Wang | [Link](https://arxiv.org/pdf/2408.07263) | --- |
 | 2024 | AndroCon: Conning Location Services in Android | Soham Nag, Smruti R. Sarangi | [Link](https://arxiv.org/pdf/2407.19392) | --- |
@@ -357,6 +364,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2024 | COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts | Wenkai Li, Xiaoqi Li, Zongwei Li, Yuqing Zhang | [Link](https://arxiv.org/pdf/2410.20712) | --- |
+| 2024 | Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum | Cheng-Kang Chen, Wen-Yi Chu, Muoi Tran, Laurent Vanbever, Hsu-Chun Hsiao | [Link](https://arxiv.org/pdf/2409.13563) | [Github](https://github.com/Proxion-anonymous/Proxion) |
 | 2024 | Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue | Lioba Heimbach, Yann Vonlanthen, Juan Villacis, Lucianna Kiffer, Roger Wattenhofer | [Link](https://arxiv.org/pdf/2409.04366) | --- |
 | 2024 | DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts | Ismael Medeiros, Fausto Carvalho, Alexandre Ferreira, Rodrigo Bonifácio, Fabiano Cavalcanti Fernandes | [Link](https://arxiv.org/pdf/2409.01788) | [Github](https://github.com/PAMunb/dogefuzz) |
 | 2024 | ML2SC: Deploying Machine Learning Models as Smart Contracts on the Blockchain | Zhikai Li, Steve Vott, Bhaskar Krishnamachar | [Link](https://arxiv.org/pdf/2404.16967) | --- |
