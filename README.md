@@ -2,7 +2,7 @@
 
 A collection of papers about offensive IT security with some blogposts sprinkled in. This is basically a list of papers I found interesting. If you want to contribute a paper just open a issue or issue a pull request. 
 
-# Table of Contents
+## Table of Contents
 
 1. [Browsers / Browser Side Channel](#browsers--browser-side-channel)
 2. [Vulnerability Discovery - Web](#vulnerability-discovery---web)
