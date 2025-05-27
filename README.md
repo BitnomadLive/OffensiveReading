@@ -82,6 +82,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Dancer in the Dark: Synthesizing and Evaluating Polyglots for Blind Cross-Site Scripting | Robin Kirchner, Jonas Möller, Marius Musch, David Klein, Konrad Rieck, Martin Johns | [Link](https://www.usenix.org/system/files/usenixsecurity24-kirchner.pdf) | [Github](https://github.com/polyxss/bxss) |
+| 2025 | PanoptiChrome: A Modern In-browser Taint Analysis Framework | Rahul Kanyal, Smruti Sarangi | [Link](https://openreview.net/pdf?id=bxwn1m8Y0S) | --- |
+| 2025 | Taint Analysis for Graph APIs Focusing on Broken Access Control | Leen Lambers, Lucas Sakizloglou, Taisiya Khakharova, Fernando Orejas | [Link](https://arxiv.org/pdf/2501.08947) | --- |
 | 2025 | WAFFLED: Exploiting Parsing Discrepancies to Bypass Web Application Firewalls | Seyed Ali Akhavani, Bahruz Jabiyev, Ben Kallus, Cem Topcuoglu, Sergey Bratus, Engin Kirda | [Link](https://arxiv.org/pdf/2503.10846) | [github](https://github.com/sa-akhavani/waffled/) |
 | 2024 | Characterizing JavaScript Security Code Smells | Vikas Kambhampati, Nehaz Hussain Mohammed, Amin Milani Fard | [Link](https://arxiv.org/pdf/2411.19358) | --- |
 | 2024 | Towards Fine-Grained Webpage Fingerprinting at Scale | Xiyuan Zhao, Xinhao Deng, Qi Li, Yunpeng Liu, Zhuotao Liu, Kun Sun, Ke Xu | [Link](https://arxiv.org/pdf/2409.04341) | --- |
@@ -93,6 +96,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2024 | Fingerprinting web servers through Transformer-encoded HTTP response headers | Patrick Darwinkel | [Link](https://arxiv.org/pdf/2404.00056) | [Github](https://github.com/Darwinkel/bachelor-thesis-information-science) |
 | 2024 | AdvSQLi: Generating Adversarial SQL Injections against Real-world WAF-as-a-service | Zhenqing Qu, Xiang Ling, Ting Wang, Xiang Chen, Shouling Ji, Chunming Wu | [Link](https://arxiv.org/pdf/2401.02615) | --- |
 | 2024 | EDEFuzz: A Web API Fuzzer for Excessive Data Exposures | Lianglu Pan, Shaanan Cohney, Toby Murray, Van-Thuan Pham | [Link](https://arxiv.org/ftp/arxiv/papers/2301/2301.09258.pdf) | [Github](https://github.com/Broken-Assumptions/EDEFuzz) |
+| 2023 | Exploiting Client-Side Path Traversal CSRF is dead, long live CSRF | Maxence Schmitt | [Link](https://www.doyensec.com/resources/Doyensec_CSPT2CSRF_Whitepaper.pdf) | --- |
 | 2023 | Parse Me, Baby, One More Time: Bypassing HTML Sanitizer via Parsing Differentials | David Klein, Martin Johns | [Link](https://www.ias.cs.tu-bs.de/publications/parsing_differentials.pdf) | [Github](https://github.com/ias-tubs/HTML_parsing_differentials) |
 | 2023 | Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis | Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu | [Link](https://arxiv.org/pdf/2311.03919) | [Github](https://github.com/KTH-LangSec/Dasty) |
 | 2023 | Measuring CDNs susceptible to Domain Fronting | Karthika Subramani, Roberto Perdisci, Pierros Skafidas | [Link](https://arxiv.org/pdf/2310.17851) | --- |
@@ -197,6 +201,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | KernelSnitch: Side-Channel Attacks on Kernel Data Structures | Lukas Maar, Jonas Juffinger, Thomas Steinbauer, Daniel Gruss, Stefan Mangard | [Link](https://lukasmaar.github.io/papers/ndss25-kernelsnitch.pdf) | [Github](https://github.com/isec-tugraz/KernelSnitch) |
 | 2025 | THOR: A Non-Speculative Value Dependent Timing Side Channel Attack Exploiting Intel AMX | Farshad Dizani, Azam Ghanbari, Joshua Kalyanapu, Darsh Asher, Samira Mirbagher Ajorpaz | [Link](https://arxiv.org/pdf/2502.17658) | --- |
 | 2025 | U Can Touch This! Microarchitectural Timing Attacks via Machine Clears | Billy Bob Brumley | [Link](https://arxiv.org/pdf/2502.09864) | --- |
 | 2024 | Power side-channel leakage localization through adversarial training of deep neural networks | Jimmy Gammell, Anand Raghunathan, Kaushik Roy | [Link](https://arxiv.org/pdf/2410.22425) | [Github](https://github.com/jimgammell/gan_side_channel_leakage_detector/tree/main) |
@@ -258,7 +263,10 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| -2025 | Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing | Johan Wahréus, Ahmed Hussain, Panos Papadimitratos | [Link](https://arxiv.org/pdf/2503.21598) | --- |
+| 2025 | ACE: A Security Architecture for LLM-Integrated App Systems | Evan Li, Tushin Mallick, Evan Rose, William Robertson, Alina Oprea, Cristina Nita-Rotaru | [Link](https://arxiv.org/pdf/2504.20984) | --- |
+| 2025 | CAI: An Open, Bug Bounty-Ready Cybersecurity AI | Víctor Mayoral-Vilches, Luis Javier Navarrete-Lozano, María Sanz-Gómez, Lidia Salas Espejo, Martiño Crespo-Álvarez, Francisco Oca-Gonzalez, Francesco Balassone, Alfonso Glera-Picón, Unai Ayucar-Carbajo, Jon Ander Ruiz-Alcalde, Stefan Rass, Martin Pinzger, Endika Gil-Uriarte | [Link](https://arxiv.org/pdf/2504.06017) | [Github](https://github.com/aliasrobotics/cai) |
+| 2025 | BreachSeek: A Multi-Agent Automated Penetration Tester | Ibrahim Alshehri, Adnan Alshehri, Abdulrahman Almalki, Majed Bamardouf, Alaqsa Akbar | [Link](https://arxiv.org/pdf/2409.03789) | [Github](https://github.com/snow10100/pena/) |
+| 2025 | Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing | Johan Wahréus, Ahmed Hussain, Panos Papadimitratos | [Link](https://arxiv.org/pdf/2503.21598) | --- |
 | 2025 | AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration | Andy Zhou, Kevin Wu, Francesco Pinto, Zhaorun Chen, Yi Zeng, Yu Yang, Shuang Yang, Sanmi Koyejo, James Zou, Bo Li | [Link](https://arxiv.org/pdf/2503.15754) | [Link](https://autoredteamer.com/) |
 | 2025 | JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing | Vasudev Gohil | [Link](https://arxiv.org/pdf/2503.08990) | --- |
 | 2025 | VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework | He Kong, Die Hu, Jingguo Ge, Liangxiong Li, Tong Li, Bingzhen Wu | [Link](https://arxiv.org/pdf/2501.13411) | [Github](https://github.com/KHenryAegis/VulnBot) |
@@ -308,6 +316,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | SyzParam: Introducing Runtime Parameters into Kernel Driver Fuzzing | Yue Sun, Yan Kang, Chenggang Wu, Kangjie Lu, Jiming Wang, Xingwei Li, Yuhao Hu, Jikai Ren, Yuanming Lai, Mengyao Xie, Zhe Wang | [Link](https://arxiv.org/pdf/2501.10002) | --- |
+| 2025 | RAG-Based Fuzzing of Cross-Architecture Compilers | Rana Elnaggar, Brian Delgado, Jason M. Fung | [Link](https://arxiv.org/pdf/2504.08967) | --- |
+| 2025 | LeakGuard: Detecting Memory Leaks Accurately and Scalably | Hongliang Liang, Luming Yin, Guohao Wu, Yuxiang Li, Qiuping Yi, Lei Wang | [Link](https://arxiv.org/pdf/2504.04422) | [Gitee](https://gitee.com/yin-luming/leak_guard_tool) |
 | 2025 | μRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning | M. Caner Tol, Kemal Derya, Berk Sunar | [Link](https://arxiv.org/pdf/2502.14307) | --- |
 | 2025 | A Survey of Fuzzing Open-Source Operating Systems | Kun Hu, Qicai Chen, Zilong Lu, Wenzhuo Zhang, Bihuan Chen, You Lu, Haowen Jiang, Bingkun Sun, Xin Peng, Wenyun Zhao | [Link](https://arxiv.org/pdf/2502.13163) | --- |
 | 2024 | Pandora's Box in Your SSD: The Untold Dangers of NVMe | Rick Wertenbroek, Alberto Dassatti | [Link](https://arxiv.org/pdf/2411.00439) | --- |
@@ -391,6 +402,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | CveBinarySheet: A Comprehensive Pre-built Binaries Database for IoT Vulnerability Analysis | Lingfeng Chen | [Link](https://arxiv.org/pdf/2501.08840) | --- |
 | 2024 | Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study | Dario Stabili, Tobia Bocchi, Filip Valgimigli, Mirco Marchetti | [Link](https://arxiv.org/pdf/2406.15103) | [Github](https://github.com/SECloudUNIMORE/ACES/tree/master/Tenda) |
 | 2024 | AutoFirm: Automatically Identifying Reused Libraries inside IoT Firmware at Large-Scale | YongLe Chen, Feng Ma, Ying Zhang, YongZhong He, Haining Wang, Qiang Li | [Link](https://arxiv.org/pdf/2406.12947) | [Github](https://github.com/sure17/AutoFirm) |
 | 2024 | LuaTaint: A Static Taint Analysis System for Web Interface Framework Vulnerability of IoT Devices | Jiahui Xiang, Wenhai Wang, Tong Ye, Peiyu Liu | [Link](https://arxiv.org/pdf/2402.16043) | --- |
@@ -411,6 +423,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Blockchain Oracles for Real Estate Rental | Nuno Braz, João Santos, Tiago Dias, Miguel Correia | [Link](https://arxiv.org/pdf/2504.06180) | --- |
+| 2025 | Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis | Jixuan Wu, Lei Xie, Xiaoqi Li | [Link](https://arxiv.org/pdf/2504.05968) | --- |
 | 2025 | SoK: A Review of Cross-Chain Bridge Hacks in 2023 | Nikita Belenkov, Valerian Callens, Alexandr Murashkin, Kacper Bak, Martin Derka, Jan Gorzny, Sung-Shine Lee | [Link](https://arxiv.org/pdf/2501.03423) | --- |
 | 2024 | COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts | Wenkai Li, Xiaoqi Li, Zongwei Li, Yuqing Zhang | [Link](https://arxiv.org/pdf/2410.20712) | --- |
 | 2024 | Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum | Cheng-Kang Chen, Wen-Yi Chu, Muoi Tran, Laurent Vanbever, Hsu-Chun Hsiao | [Link](https://arxiv.org/pdf/2409.13563) | [Github](https://github.com/Proxion-anonymous/Proxion) |
@@ -439,6 +453,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Arcanum: Detecting and Evaluating the Privacy Risks of Browser Extensions on Web Pages and Web Content | Qinge Xie, Manoj Vignesh Kasi Murali, Paul Pearce, and Frank Li | [Link](https://www.usenix.org/system/files/usenixsecurity24-xie-qinge.pdf) | [Github](https://github.com/BEESLab/Arcanum/) |
+| 2025 | A Study on Malicious Browser Extensions in 2025 | Shreya Singh, Gaurav Varshney, Tarun Kumar Singh, Vidhi Mishra | [Link](Shreya Singh, Gaurav Varshney, Tarun Kumar Singh, Vidhi Mishra) | --- |
 | 2025 | MITRE ATT&CK Applications in Cybersecurity and The Way Forward | Yuning Jiang, Qiaoran Meng, Feiyang Shang, Nay Oo, Le Thi Hong Minh, Hoon Wei Lim, Biplab Sikdar | [Link](https://arxiv.org/pdf/2502.10825) | --- |
 | 2024 | Living off the Analyst: Harvesting Features from Yara Rules for Malware Detection | Siddhant Gupta, Fred Lu, Andrew Barlow, Edward Raff, Francis Ferraro, Cynthia Matuszek, Charles Nicholas, James Holt | [Link](https://arxiv.org/pdf/2411.18516) | --- |
 | 2024 | "Oh, sh*t! I actually opened the document!": An Empirical Study of the Experiences with Suspicious Emails in Virtual Reality Headsets | Filipo Sharevski, Jennifer Vander Loop, Sarah Ferguson | [Link](https://arxiv.org/pdf/2412.01474) | --- |
@@ -457,6 +473,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | The Secret Life of CVEs | Piotr Przymus, Mikołaj Fejzer, Jakub Narębski, Krzysztof Stencel | [Link](https://arxiv.org/pdf/2504.03863) | --- |
 | 2024 | Private and Secure Fuzzy Name Matching | Harsh Kasyap, Ugur Ilker Atmaca, Carsten Maple, Graham Cormode, Jiancong He | [Link](https://arxiv.org/pdf/2407.19979) | --- |
 | 2024 | SHA-256 Collision Attack with Programmatic SAT | Nahiyan Alamgir, Saeed Nejati, Curtis Bright | [Link](https://arxiv.org/pdf/2406.20072) | --- |
 | 2024 | Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums | Felipe Moreno-Vera | [Link](https://arxiv.org/pdf/2405.04561) | --- |
