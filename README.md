@@ -265,6 +265,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | A Large-Scale Empirical Analysis of Custom GPTs' Vulnerabilities in the OpenAI Ecosystem | Sunday Oyinlola Ogundoyin, Muhammad Ikram, Hassan Jameel Asghar, Benjamin Zi Hao Zhao, Dali Kaafar | [Link](https://arxiv.org/pdf/2505.08148) | --- |
+| 2025 | Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs | Chetan Pathade | [Link](https://arxiv.org/pdf/2505.04806) | --- |
 | 2025 | AGENTFUZZER: Generic Black-Box Fuzzing for Indirect Prompt Injection against LLM Agents | Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chenguang Wang, Wenbo Guo, Dawn Song | [Link](https://arxiv.org/pdf/2505.05849) | --- |
 | 2025 | Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper | Abdulrahman S Almuhaidib, Azlan Mohd Zain, Zalmiyah Zakaria, Izyan Izzati Kamsani, Abdulaziz S Almuhaidib | [Link](https://arxiv.org/pdf/2505.04265) | --- |
 | 2025 | Building A Secure Agentic AI Application Leveraging A2A Protocol | Idan Habler, Ken Huang, Vineeth Sai Narajala, Prashant Kulkarni | [Link](https://arxiv.org/pdf/2504.16902) | --- |
@@ -326,6 +328,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | ROSA: Finding Backdoors with Fuzzing | Dimitri Kokkonis, Michaël Marcozzi, Emilien Decoux, Stefano Zacchiroli  | [Link](https://arxiv.org/pdf/2505.08544) | [Github](https://github.com/binsec/rosa/tree/main) |
 | 2025 | An Empirical Study of Fuzz Harness Degradation | Philipp Görz, Joschua Schilling, Thorsten Holz, Marcel Böhme | [Link](https://arxiv.org/pdf/2505.06177) | --- |
 | 2025 | Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach | Penghui Li, Songchen Yao, Josef Sarfati Korich, Changhua Luo, Jianjia Yu, Yinzhi Cao, Junfeng Yang | [Link](https://arxiv.org/pdf/2504.16057) | --- |
 | 2025 | Junjie Wang, Yuhan Ma, Xiaofei Xie, Xiaoning Du, Xiangwei Zhang | PatchFuzz: Patch Fuzzing for JavaScript Engines | [Link](https://arxiv.org/pdf/2505.00289) | [Github](https://github.com/PatchFuzz/patchfuzz) |
@@ -436,6 +439,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Timestamp Manipulation: Timestamp-based Nakamoto-style Blockchains are Vulnerable | Junjie Hu, Na Ruan, Sisi Duan | [Link](https://arxiv.org/pdf/2505.05328) | --- |
 | 2025 | AI-Based Vulnerability Analysis of NFT Smart Contracts | Xin Wang, Xiaoqi Li | [Link](https://arxiv.org/pdf/2504.16113) | --- |
 | 2025 | Blockchain Oracles for Real Estate Rental | Nuno Braz, João Santos, Tiago Dias, Miguel Correia | [Link](https://arxiv.org/pdf/2504.06180) | --- |
 | 2025 | Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis | Jixuan Wu, Lei Xie, Xiaoqi Li | [Link](https://arxiv.org/pdf/2504.05968) | --- |
