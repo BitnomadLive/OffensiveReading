@@ -82,6 +82,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub | Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya | [Link](Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya) | --- |
 | 2025 | Dancer in the Dark: Synthesizing and Evaluating Polyglots for Blind Cross-Site Scripting | Robin Kirchner, Jonas Möller, Marius Musch, David Klein, Konrad Rieck, Martin Johns | [Link](https://www.usenix.org/system/files/usenixsecurity24-kirchner.pdf) | [Github](https://github.com/polyxss/bxss) |
 | 2025 | PanoptiChrome: A Modern In-browser Taint Analysis Framework | Rahul Kanyal, Smruti Sarangi | [Link](https://openreview.net/pdf?id=bxwn1m8Y0S) | --- |
 | 2025 | Taint Analysis for Graph APIs Focusing on Broken Access Control | Leen Lambers, Lucas Sakizloglou, Taisiya Khakharova, Fernando Orejas | [Link](https://arxiv.org/pdf/2501.08947) | --- |
@@ -265,6 +266,12 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries | Yuhao Wang, Wenjie Qu, Yanze Jiang, Zichen Liu, Yue Liu, Shengfang Zhai, Yinpeng Dong, Jiaheng Zhang | [Link](https://arxiv.org/pdf/2505.15420) | --- |
+| 2025 | ReCopilot: Reverse Engineering Copilot in Binary Analysis | Guoqiang Chen, Huiqi Sun, Daguang Liu, Zhiqi Wang, Qiang Wang, Bin Yin, Lu Liu, Lingyun Ying | [Link](https://arxiv.org/pdf/2505.16366) | --- |
+| 2025 | Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models | Junjie Xiong, Changjia Zhu, Shuhang Lin, Chong Zhang, Yongfeng Zhang, Yao Liu, Lingyao Li | [Link](https://arxiv.org/pdf/2505.16957) | --- |
+| 2025 | Lessons from Defending Gemini Against Indirect Prompt Injections | Chongyang Shi, Sharon Lin, Shuang Song, Jamie Hayes, Ilia Shumailov, Itay Yona, Juliette Pluto, Aneesh Pappu, Christopher A. Choquette-Choo, Milad Nasr, Chawin Sitawarin, Gena Gibson, Andreas Terzis, John "Four" Flynn | [Link](https://arxiv.org/pdf/2505.14534) | --- |
+| 2025 | IP Leakage Attacks Targeting LLM-Based Multi-Agent Systems | Liwen Wang, Wenxuan Wang, Shuai Wang, Zongjie Li, Zhenlan Ji, Zongyi Lyu, Daoyuan Wu, Shing-Chi Cheung | [Link](https://arxiv.org/pdf/2505.12442) | --- |
+| 2025 | The Hidden Dangers of Browsing AI Agents | Mykyta Mudryi, Markiyan Chaklosh, Grzegorz Wójcik | [Link](https://arxiv.org/pdf/2505.13076) | --- |
 | 2025 | A Large-Scale Empirical Analysis of Custom GPTs' Vulnerabilities in the OpenAI Ecosystem | Sunday Oyinlola Ogundoyin, Muhammad Ikram, Hassan Jameel Asghar, Benjamin Zi Hao Zhao, Dali Kaafar | [Link](https://arxiv.org/pdf/2505.08148) | --- |
 | 2025 | Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs | Chetan Pathade | [Link](https://arxiv.org/pdf/2505.04806) | --- |
 | 2025 | AGENTFUZZER: Generic Black-Box Fuzzing for Indirect Prompt Injection against LLM Agents | Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chenguang Wang, Wenbo Guo, Dawn Song | [Link](https://arxiv.org/pdf/2505.05849) | --- |
@@ -471,6 +478,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Benchmarking LLMs in an Embodied Environment for Blue Team Threat Hunting | Xiaoqun Liu, Feiyang Yu, Xi Li, Guanhua Yan, Ping Yang, Zhaohan Xi | [Link](https://arxiv.org/pdf/2505.11901) | --- |
 | 2025 | From Cyber Security Incident Management to Cyber Security Crisis Management in the European Union | Jukka Ruohonen, Kalle Rindell, Simone Busetti | [Link](https://arxiv.org/pdf/2504.14220) | --- |
 | 2025 | Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence | Philipp Kuehn, Dilara Nadermahmoodi, Markus Bayer, Christian Reuter | [Link](https://arxiv.org/pdf/2504.18375) | --- |
 | 2025 | Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis | Fouad Trad, Ali Chehab | [Link](https://arxiv.org/pdf/2505.03451) | [Github](https://github.com/fouadtrad/Detecting-Quishing-Attacks-with-Machine-Learning-Techniques-Through-QR-Code-Analysis) |
