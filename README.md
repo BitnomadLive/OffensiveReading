@@ -82,6 +82,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange | Pinji Chen, Jianjun Chen, Mingming Zhang, Qi Wang, Yiming Zhang, Mingwei Xu, Haixin Duan | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1086-paper.pdf) | --- |
 | 2025 | Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub | Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya | [Link](Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya) | --- |
 | 2025 | Dancer in the Dark: Synthesizing and Evaluating Polyglots for Blind Cross-Site Scripting | Robin Kirchner, Jonas Möller, Marius Musch, David Klein, Konrad Rieck, Martin Johns | [Link](https://www.usenix.org/system/files/usenixsecurity24-kirchner.pdf) | [Github](https://github.com/polyxss/bxss) |
 | 2025 | PanoptiChrome: A Modern In-browser Taint Analysis Framework | Rahul Kanyal, Smruti Sarangi | [Link](https://openreview.net/pdf?id=bxwn1m8Y0S) | --- |
@@ -202,6 +203,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Power-Related Side-Channel Attacks using the Android Sensor Framework | Mathias Oberhuber, Martin Unterguggenberger, Lukas Maar, Andreas Kogler, Stefan Mangard | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-92-paper.pdf) | --- |
+| 2025 | Secret Spilling Drive: Leaking User Behavior through SSD Contention | Jonas Juffinger, Fabian Rauscher, Giuseppe La Manna, Daniel Gruss | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-208-paper.pdf) | --- |
 | 2025 | SILENT: A New Lens on Statistics in Software Timing Side Channels | Martin Dunsche, Patrick Bastian, Marcel Maehren, Nurullah Erinola, Robert Merget, Nicolai Bissantz, Holger Dette, Jörg Schwenk | [Link](https://arxiv.org/pdf/2504.19821) | --- |
 | 2025 | Acoustic Side-Channel Attacks on a Computer Mouse | Mauro Conti, Marin Duroyon, Gabriele Orazi, Gene Tsudik | [Link](https://arxiv.org/pdf/2505.02725) | --- |
 | 2025 | KernelSnitch: Side-Channel Attacks on Kernel Data Structures | Lukas Maar, Jonas Juffinger, Thomas Steinbauer, Daniel Gruss, Stefan Mangard | [Link](https://lukasmaar.github.io/papers/ndss25-kernelsnitch.pdf) | [Github](https://github.com/isec-tugraz/KernelSnitch) |
@@ -266,6 +269,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | YuraScanner: Leveraging LLMs for Task-driven Web App Scanning | Aleksei Stafeev, Tim Recktenwald, Gianluca De Stefano, Soheil Khodayari, Giancarlo Pellegrino | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-388-paper.pdf) | [Github](https://github.com/pixelindigo/yurascanner/tree/ndss25) |
+| 2025 | I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving | Guanlong Wu, Zheng Zhang, Yao Zhang, Weili Wang, Jianyu Niu, Ye Wu, Yinqian Zhang | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1772-paper.pdf) | --- |
 | 2025 | Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries | Yuhao Wang, Wenjie Qu, Yanze Jiang, Zichen Liu, Yue Liu, Shengfang Zhai, Yinpeng Dong, Jiaheng Zhang | [Link](https://arxiv.org/pdf/2505.15420) | --- |
 | 2025 | ReCopilot: Reverse Engineering Copilot in Binary Analysis | Guoqiang Chen, Huiqi Sun, Daguang Liu, Zhiqi Wang, Qiang Wang, Bin Yin, Lu Liu, Lingyun Ying | [Link](https://arxiv.org/pdf/2505.16366) | --- |
 | 2025 | Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models | Junjie Xiong, Changjia Zhu, Shuhang Lin, Chong Zhang, Yongfeng Zhang, Yao Liu, Lingyao Li | [Link](https://arxiv.org/pdf/2505.16957) | --- |
@@ -335,6 +340,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC | Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1303-paper.pdf) | --- |
+| 2025 | Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States | Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, Dokyung Song | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf) | --- |
+| 2025 | DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing | Liam Wachter, Julian Gremminger, Christian Wressnegger, Mathias Payer, Flavio Toffalini | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1411-paper.pdf) | --- |
 | 2025 | ROSA: Finding Backdoors with Fuzzing | Dimitri Kokkonis, Michaël Marcozzi, Emilien Decoux, Stefano Zacchiroli  | [Link](https://arxiv.org/pdf/2505.08544) | [Github](https://github.com/binsec/rosa/tree/main) |
 | 2025 | An Empirical Study of Fuzz Harness Degradation | Philipp Görz, Joschua Schilling, Thorsten Holz, Marcel Böhme | [Link](https://arxiv.org/pdf/2505.06177) | --- |
 | 2025 | Automated Static Vulnerability Detection via a Holistic Neuro-symbolic Approach | Penghui Li, Songchen Yao, Josef Sarfati Korich, Changhua Luo, Jianjia Yu, Yinzhi Cao, Junfeng Yang | [Link](https://arxiv.org/pdf/2504.16057) | --- |
@@ -502,6 +510,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China | Shencha Fan, Jackson Sippe, Sakamoto San, Jade Sheffey, David Fifield, Amir Houmansadr, Elson Wedwards, Eric Wustrow | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-237-paper.pdf) | --- |
 | 2025 | SoK: Stealing Cars Since Remote Keyless Entry Introduction and How to Defend From It | Tommaso Bianchi, Alessandro Brighente, Mauro Conti, Edoardo Pavan | [Link](https://arxiv.org/pdf/2505.02713) | --- |
 | 2025 | The Secret Life of CVEs | Piotr Przymus, Mikołaj Fejzer, Jakub Narębski, Krzysztof Stencel | [Link](https://arxiv.org/pdf/2504.03863) | --- |
 | 2024 | Private and Secure Fuzzy Name Matching | Harsh Kasyap, Ugur Ilker Atmaca, Carsten Maple, Graham Cormode, Jiancong He | [Link](https://arxiv.org/pdf/2407.19979) | --- |
