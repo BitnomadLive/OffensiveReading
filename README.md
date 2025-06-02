@@ -340,7 +340,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
-| 2025 | Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC | Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1303-paper.pdf) | --- |
+| 2025 | Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC | Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1303-paper.pdf) | [Github](https://github.com/Anonymous130301/GLEIPNIR) |
 | 2025 | Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States | Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, Dokyung Song | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf) | --- |
 | 2025 | DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing | Liam Wachter, Julian Gremminger, Christian Wressnegger, Mathias Payer, Flavio Toffalini | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1411-paper.pdf) | --- |
 | 2025 | ROSA: Finding Backdoors with Fuzzing | Dimitri Kokkonis, Michaël Marcozzi, Emilien Decoux, Stefano Zacchiroli  | [Link](https://arxiv.org/pdf/2505.08544) | [Github](https://github.com/binsec/rosa/tree/main) |
