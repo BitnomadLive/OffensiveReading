@@ -82,6 +82,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages | Deniz Simsek, Aryaz Eghbali, Michael Pradel | [Link](https://arxiv.org/pdf/2506.04962) | --- |
 | 2025 | Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange | Pinji Chen, Jianjun Chen, Mingming Zhang, Qi Wang, Yiming Zhang, Mingwei Xu, Haixin Duan | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1086-paper.pdf) | --- |
 | 2025 | Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub | Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya | [Link](Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya) | --- |
 | 2025 | Dancer in the Dark: Synthesizing and Evaluating Polyglots for Blind Cross-Site Scripting | Robin Kirchner, Jonas Möller, Marius Musch, David Klein, Konrad Rieck, Martin Johns | [Link](https://www.usenix.org/system/files/usenixsecurity24-kirchner.pdf) | [Github](https://github.com/polyxss/bxss) |
@@ -269,6 +270,12 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages | Deniz Simsek, Aryaz Eghbali, Michael Pradel | [Link](https://arxiv.org/pdf/2506.04962) | --- |
+| 2025 | BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage | Kalyan Nakka, Nitesh Saxena | [Link](https://arxiv.org/pdf/2506.02479) | [Github](https://github.com/kalyan-nakka/BitBypass) |
+| 2025 | Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem | Hao Song, Yiming Shen, Wenxuan Luo, Leixin Guo, Ting Chen, Jiashui Wang, Beibei Li, Xiaosong Zhang, Jiachi Chen | [Link](https://arxiv.org/pdf/2506.02040) | --- |
+| 2025 | CyberGym: Evaluating AI Agents' Cybersecurity Capabilities with Real-World Vulnerabilities at Scale | Zhun Wang, Tianneng Shi, Jingxuan He, Matthew Cai, Jialin Zhang, Dawn Song | [Link](https://arxiv.org/pdf/2506.02548) | [Link](https://github.com/sunblaze-ucb/cybergym) |
+| 2025 | Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems | Ronny Ko, Jiseong Jeong, Shuyuan Zheng, Chuan Xiao, Tae-Wan Kim, Makoto Onizuka, Won-Yong Shin | [Link](https://arxiv.org/pdf/2505.23847) | --- |
+| 2025 | A Reward-driven Automated Webshell Malicious-code Generator for Red-teaming | Yizhong Ding | [Link](https://arxiv.org/pdf/2505.24252) | --- |
 | 2025 | YuraScanner: Leveraging LLMs for Task-driven Web App Scanning | Aleksei Stafeev, Tim Recktenwald, Gianluca De Stefano, Soheil Khodayari, Giancarlo Pellegrino | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-388-paper.pdf) | [Github](https://github.com/pixelindigo/yurascanner/tree/ndss25) |
 | 2025 | I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving | Guanlong Wu, Zheng Zhang, Yao Zhang, Weili Wang, Jianyu Niu, Ye Wu, Yinqian Zhang | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1772-paper.pdf) | --- |
 | 2025 | Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries | Yuhao Wang, Wenjie Qu, Yanze Jiang, Zichen Liu, Yue Liu, Shengfang Zhai, Yinpeng Dong, Jiaheng Zhang | [Link](https://arxiv.org/pdf/2505.15420) | --- |
@@ -454,6 +461,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | When Blockchain Meets Crawlers: Real-time Market Analytics in Solana NFT Markets | Chengxin Shen, Zhongwen Li, Xiaoqi Li, Zongwei Li | [Link](https://arxiv.org/pdf/2506.02892) | --- |
 | 2025 | Timestamp Manipulation: Timestamp-based Nakamoto-style Blockchains are Vulnerable | Junjie Hu, Na Ruan, Sisi Duan | [Link](https://arxiv.org/pdf/2505.05328) | --- |
 | 2025 | AI-Based Vulnerability Analysis of NFT Smart Contracts | Xin Wang, Xiaoqi Li | [Link](https://arxiv.org/pdf/2504.16113) | --- |
 | 2025 | Blockchain Oracles for Real Estate Rental | Nuno Braz, João Santos, Tiago Dias, Miguel Correia | [Link](https://arxiv.org/pdf/2504.06180) | --- |
@@ -486,6 +494,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Digital Forensic Investigation of the ChatGPT Windows Application | Malithi Wanniarachchi Kankanamge, Nick McKenna, Santiago Carmona, Syed Mhamudul Hasan, Abdur R.Shahid, Ahmed Imteaj | [Link](https://arxiv.org/pdf/2505.23938) | --- |
 | 2025 | Benchmarking LLMs in an Embodied Environment for Blue Team Threat Hunting | Xiaoqun Liu, Feiyang Yu, Xi Li, Guanhua Yan, Ping Yang, Zhaohan Xi | [Link](https://arxiv.org/pdf/2505.11901) | --- |
 | 2025 | From Cyber Security Incident Management to Cyber Security Crisis Management in the European Union | Jukka Ruohonen, Kalle Rindell, Simone Busetti | [Link](https://arxiv.org/pdf/2504.14220) | --- |
 | 2025 | Bandit on the Hunt: Dynamic Crawling for Cyber Threat Intelligence | Philipp Kuehn, Dilara Nadermahmoodi, Markus Bayer, Christian Reuter | [Link](https://arxiv.org/pdf/2504.18375) | --- |
