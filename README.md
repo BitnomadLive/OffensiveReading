@@ -204,6 +204,9 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | SmartAttack: Air-Gap Attack via Smartwatches | Mordechai Guri | [Link](https://arxiv.org/pdf/2506.08866) | --- |
+| 2025 | Efficient RL-based Cache Vulnerability Exploration by Penalizing Useless Agent Actions | Kanato Nakanishi, Soramichi Akiyama | [Link](https://arxiv.org/pdf/2506.07200) | --- |
+| 2025 | Exploiting Inaccurate Branch History in Side-Channel Attacks | Yuhui Zhu, Alessandro Biondi | [Link](https://arxiv.org/pdf/2506.07263) | --- |
 | 2025 | Power-Related Side-Channel Attacks using the Android Sensor Framework | Mathias Oberhuber, Martin Unterguggenberger, Lukas Maar, Andreas Kogler, Stefan Mangard | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-92-paper.pdf) | --- |
 | 2025 | Secret Spilling Drive: Leaking User Behavior through SSD Contention | Jonas Juffinger, Fabian Rauscher, Giuseppe La Manna, Daniel Gruss | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-208-paper.pdf) | --- |
 | 2025 | SILENT: A New Lens on Statistics in Software Timing Side Channels | Martin Dunsche, Patrick Bastian, Marcel Maehren, Nurullah Erinola, Robert Merget, Nicolai Bissantz, Holger Dette, Jörg Schwenk | [Link](https://arxiv.org/pdf/2504.19821) | --- |
@@ -270,6 +273,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery | Haowei Wang, Junjie Wang, Xiaojun Jia, Rupeng Zhang, Mingyang Li, Zhe Liu, Yang Liu, Qing Wang | [Link](https://arxiv.org/pdf/2505.21499) | [Github](https://github.com/NicerWang/AdInject) |
+| 2025 | Mind the Web: The Security of Web Use Agents | Avishag Shapira, Parth Atulbhai Gandhi, Edan Habler, Oleg Brodt, Asaf Shabtai | [Link](https://arxiv.org/pdf/2506.07153) | --- |
 | 2025 | PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages | Deniz Simsek, Aryaz Eghbali, Michael Pradel | [Link](https://arxiv.org/pdf/2506.04962) | --- |
 | 2025 | BitBypass: A New Direction in Jailbreaking Aligned Large Language Models with Bitstream Camouflage | Kalyan Nakka, Nitesh Saxena | [Link](https://arxiv.org/pdf/2506.02479) | [Github](https://github.com/kalyan-nakka/BitBypass) |
 | 2025 | Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem | Hao Song, Yiming Shen, Wenxuan Luo, Leixin Guo, Ting Chen, Jiashui Wang, Beibei Li, Xiaosong Zhang, Jiachi Chen | [Link](https://arxiv.org/pdf/2506.02040) | --- |
@@ -347,6 +352,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images | Alan Mills, Jonathan White, Phil Legg | [Link](https://arxiv.org/pdf/2506.08218) | --- |
+| 2025 | ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference | Yuchong Xie, Wenhui Zhang, Dongdong She | [Link](https://arxiv.org/pdf/2506.08838) | --- |
 | 2025 | Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC | Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1303-paper.pdf) | [Github](https://github.com/Anonymous130301/GLEIPNIR) |
 | 2025 | Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States | Joonkyo Jung, Jisoo Jang, Yongwan Jo, Jonas Vinck, Alexios Voulimeneas, Stijn Volckaert, Dokyung Song | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-218-paper.pdf) | --- |
 | 2025 | DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing | Liam Wachter, Julian Gremminger, Christian Wressnegger, Mathias Payer, Flavio Toffalini | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1411-paper.pdf) | --- |
@@ -461,6 +468,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns | Chetan Pathade, Shweta Hooli | [Link](https://arxiv.org/pdf/2506.07974) | --- |
 | 2025 | When Blockchain Meets Crawlers: Real-time Market Analytics in Solana NFT Markets | Chengxin Shen, Zhongwen Li, Xiaoqi Li, Zongwei Li | [Link](https://arxiv.org/pdf/2506.02892) | --- |
 | 2025 | Timestamp Manipulation: Timestamp-based Nakamoto-style Blockchains are Vulnerable | Junjie Hu, Na Ruan, Sisi Duan | [Link](https://arxiv.org/pdf/2505.05328) | --- |
 | 2025 | AI-Based Vulnerability Analysis of NFT Smart Contracts | Xin Wang, Xiaoqi Li | [Link](https://arxiv.org/pdf/2504.16113) | --- |
