@@ -301,7 +301,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 | 2025 | AGENTFUZZER: Generic Black-Box Fuzzing for Indirect Prompt Injection against LLM Agents | Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chenguang Wang, Wenbo Guo, Dawn Song | [Link](https://arxiv.org/pdf/2505.05849) | --- |
 | 2025 | Weaponizing Language Models for Cybersecurity Offensive Operations: Automating Vulnerability Assessment Report Validation; A Review Paper | Abdulrahman S Almuhaidib, Azlan Mohd Zain, Zalmiyah Zakaria, Izyan Izzati Kamsani, Abdulaziz S Almuhaidib | [Link](https://arxiv.org/pdf/2505.04265) | --- |
 | 2025 | Building A Secure Agentic AI Application Leveraging A2A Protocol | Idan Habler, Ken Huang, Vineeth Sai Narajala, Prashant Kulkarni | [Link](https://arxiv.org/pdf/2504.16902) | --- |
-| 2025 | LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection | Rajesh Yarra | --- | --- |
+| 2025 | LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection | Rajesh Yarra | [Link](https://arxiv.org/pdf/2504.18423) | --- |
 | 2025 | WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks | Ivan Evtimov, Arman Zharmagambetov, Aaron Grattafiori, Chuan Guo, Kamalika Chaudhuri | [Link](https://arxiv.org/pdf/2504.18575) | [Github](https://github.com/facebookresearch/wasp) |
 | 2025 | Prompt Injection Attack to Tool Selection in LLM Agents | Jiawen Shi, Zenghui Yuan, Guiyao Tie, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun | [Link](https://arxiv.org/pdf/2504.19793) | --- |
 | 2025 | The Automation Advantage in AI Red Teaming | Rob Mulla, Ads Dawson, Vincent Abruzzon, Brian Greunke, Nick Landers, Brad Palm, Will Pearce | [Link](https://arxiv.org/pdf/2504.19855) | --- |
