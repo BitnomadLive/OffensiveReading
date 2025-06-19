@@ -82,6 +82,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Quantifying Azure RBAC Wildcard Overreach | Christophe Parisel | [Link](https://arxiv.org/pdf/2506.10755) | --- |
 | 2025 | PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages | Deniz Simsek, Aryaz Eghbali, Michael Pradel | [Link](https://arxiv.org/pdf/2506.04962) | --- |
 | 2025 | Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange | Pinji Chen, Jianjun Chen, Mingming Zhang, Qi Wang, Yiming Zhang, Mingwei Xu, Haixin Duan | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1086-paper.pdf) | --- |
 | 2025 | Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub | Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya | [Link](Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya) | --- |
@@ -273,6 +274,12 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches | Ranindya Paramitha, Yuan Feng, Fabio Massacci | [Link](https://arxiv.org/pdf/2506.11939) | --- |
+| 2025 | Disclosure Audits for LLM Agents | Saswat Das, Jameson Sandler, Ferdinando Fioretto | [Link](https://arxiv.org/pdf/2506.10171) | [Github](https://github.com/CMPLAudit/CMPL) |
+| 2025 | ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space | Chuyang Chen, Brendan Dolan-Gavitt, Zhiqiang Lin | [Link](https://arxiv.org/pdf/2506.10323) | --- |
+| 2025 | Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs | Linlin Wang, Tianqing Zhu, Laiqiao Qin, Longxiang Gao, Wanlei Zhou | [Link](https://arxiv.org/pdf/2506.11415) | --- |
+| 2025 | LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge | Sahar Abdelnabi, Aideen Fay, Ahmed Salem, Egor Zverev, Kai-Chieh Liao, Chi-Huang Liu, Chun-Chih Kuo, Jannis Weigend, Danyael Manlangit, Alex Apostolov, Haris Umair, João Donato, Masayuki Kawakita, Athar Mahboob, Tran Huu Bach, Tsun-Han Chiang, Myeongjin Cho, Hajin Choi, Byeonghyeon Kim, Hyeonjin Lee, Benjamin Pannell, Conor McCauley, Mark Russinovich, Andrew Paverd, Giovanni Cherubin | --- | --- |
+| 2025 | AI-Based Software Vulnerability Detection: A Systematic Literature Review | Samiha Shimmi, Hamed Okhravi, Mona Rahimi | [Link](https://arxiv.org/pdf/2506.09956) | [Github](https://github.com/microsoft/llmail-inject-challenge-analysis) |
 | 2025 | AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery | Haowei Wang, Junjie Wang, Xiaojun Jia, Rupeng Zhang, Mingyang Li, Zhe Liu, Yang Liu, Qing Wang | [Link](https://arxiv.org/pdf/2505.21499) | [Github](https://github.com/NicerWang/AdInject) |
 | 2025 | Mind the Web: The Security of Web Use Agents | Avishag Shapira, Parth Atulbhai Gandhi, Edan Habler, Oleg Brodt, Asaf Shabtai | [Link](https://arxiv.org/pdf/2506.07153) | --- |
 | 2025 | PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages | Deniz Simsek, Aryaz Eghbali, Michael Pradel | [Link](https://arxiv.org/pdf/2506.04962) | --- |
@@ -502,6 +509,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | IRCopilot: Automated Incident Response with Large Language Models | Xihuan Lin, Jie Zhang, Gelei Deng, Tianzhe Liu, Xiaolong Liu, Changcai Yang, Tianwei Zhang, Qing Guo, Riqing Chen | [Link](https://arxiv.org/pdf/2505.20945) | --- |
 | 2025 | Digital Forensic Investigation of the ChatGPT Windows Application | Malithi Wanniarachchi Kankanamge, Nick McKenna, Santiago Carmona, Syed Mhamudul Hasan, Abdur R.Shahid, Ahmed Imteaj | [Link](https://arxiv.org/pdf/2505.23938) | --- |
 | 2025 | Benchmarking LLMs in an Embodied Environment for Blue Team Threat Hunting | Xiaoqun Liu, Feiyang Yu, Xi Li, Guanhua Yan, Ping Yang, Zhaohan Xi | [Link](https://arxiv.org/pdf/2505.11901) | --- |
 | 2025 | From Cyber Security Incident Management to Cyber Security Crisis Management in the European Union | Jukka Ruohonen, Kalle Rindell, Simone Busetti | [Link](https://arxiv.org/pdf/2504.14220) | --- |
@@ -527,6 +535,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | On the Impossibility of a Perfect Hypervisor | Mordechai Guri | [Link](https://arxiv.org/pdf/2506.09825) | --- |
 | 2025 | Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China | Shencha Fan, Jackson Sippe, Sakamoto San, Jade Sheffey, David Fifield, Amir Houmansadr, Elson Wedwards, Eric Wustrow | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-237-paper.pdf) | --- |
 | 2025 | SoK: Stealing Cars Since Remote Keyless Entry Introduction and How to Defend From It | Tommaso Bianchi, Alessandro Brighente, Mauro Conti, Edoardo Pavan | [Link](https://arxiv.org/pdf/2505.02713) | --- |
 | 2025 | The Secret Life of CVEs | Piotr Przymus, Mikołaj Fejzer, Jakub Narębski, Krzysztof Stencel | [Link](https://arxiv.org/pdf/2504.03863) | --- |
