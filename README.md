@@ -274,6 +274,10 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack | Daewon Kang, YeongHwan Shin, Doyeon Kim, Kyu-Hwan Jung, Meong Hi Son | [Link](https://arxiv.org/pdf/2506.14539) | --- |
+| 2025 | Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models | Arjun Krishna, Aaditya Rastogi, Erick Galinkin | [Link](https://arxiv.org/pdf/2506.13726) | --- |
+| 2025 | InfoFlood: Jailbreaking Large Language Models with Information Overload | Advait Yadav, Haibo Jin, Man Luo, Jun Zhuang, Haohan Wang | [Link](https://arxiv.org/pdf/2506.12274) | --- |
+| 2025 | Exploiting AI for Attacks: On the Interplay between Adversarial AI and Offensive AI | Saskia Laura Schröer, Luca Pajola, Alberto Castagnaro, Giovanni Apruzzese, Mauro Conti | [Link](https://arxiv.org/pdf/2506.12519) | --- |
 | 2025 | Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches | Ranindya Paramitha, Yuan Feng, Fabio Massacci | [Link](https://arxiv.org/pdf/2506.11939) | --- |
 | 2025 | Disclosure Audits for LLM Agents | Saswat Das, Jameson Sandler, Ferdinando Fioretto | [Link](https://arxiv.org/pdf/2506.10171) | [Github](https://github.com/CMPLAudit/CMPL) |
 | 2025 | ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space | Chuyang Chen, Brendan Dolan-Gavitt, Zhiqiang Lin | [Link](https://arxiv.org/pdf/2506.10323) | --- |
@@ -509,6 +513,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability | Shova Kuikel, Aritran Piplai, Palvi Aggarwal | [Link](https://arxiv.org/pdf/2506.13746) | --- |
+| 2025 | KEENHash: Hashing Programs into Function-Aware Embeddings for Large-Scale Binary Code Similarity Analysis | Zhijie Liu, Qiyi Tang, Sen Nie, Shi Wu, Liang Feng Zhang, Yutian Tang | [Link](https://arxiv.org/pdf/2506.11612) | [Online SDK](https://www.binaryai.cn/) |
 | 2025 | IRCopilot: Automated Incident Response with Large Language Models | Xihuan Lin, Jie Zhang, Gelei Deng, Tianzhe Liu, Xiaolong Liu, Changcai Yang, Tianwei Zhang, Qing Guo, Riqing Chen | [Link](https://arxiv.org/pdf/2505.20945) | --- |
 | 2025 | Digital Forensic Investigation of the ChatGPT Windows Application | Malithi Wanniarachchi Kankanamge, Nick McKenna, Santiago Carmona, Syed Mhamudul Hasan, Abdur R.Shahid, Ahmed Imteaj | [Link](https://arxiv.org/pdf/2505.23938) | --- |
 | 2025 | Benchmarking LLMs in an Embodied Environment for Blue Team Threat Hunting | Xiaoqun Liu, Feiyang Yu, Xi Li, Guanhua Yan, Ping Yang, Zhaohan Xi | [Link](https://arxiv.org/pdf/2505.11901) | --- |
