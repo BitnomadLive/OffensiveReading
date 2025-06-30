@@ -274,6 +274,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem | Yanxu Mao, Tiehan Cui, Peipei Liu, Datao You, Hongsong Zhu | [Link](https://arxiv.org/pdf/2506.15170) | --- |
 | 2025 | Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack | Daewon Kang, YeongHwan Shin, Doyeon Kim, Kyu-Hwan Jung, Meong Hi Son | [Link](https://arxiv.org/pdf/2506.14539) | --- |
 | 2025 | Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models | Arjun Krishna, Aaditya Rastogi, Erick Galinkin | [Link](https://arxiv.org/pdf/2506.13726) | --- |
 | 2025 | InfoFlood: Jailbreaking Large Language Models with Information Overload | Advait Yadav, Haibo Jin, Man Luo, Jun Zhuang, Haohan Wang | [Link](https://arxiv.org/pdf/2506.12274) | --- |
@@ -363,6 +364,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses | Georgios Androutsopoulos, Antonio Bianchi | [Link](https://arxiv.org/pdf/2506.15648) | --- |
 | 2025 | gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images | Alan Mills, Jonathan White, Phil Legg | [Link](https://arxiv.org/pdf/2506.08218) | --- |
 | 2025 | ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference | Yuchong Xie, Wenhui Zhang, Dongdong She | [Link](https://arxiv.org/pdf/2506.08838) | --- |
 | 2025 | Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC | Fangming Gu, Qingli Guo, Jie Lu, Qinghe Xie, Beibei Zhao, Kangjie Lu, Hong Li, Xiaorui Gong | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1303-paper.pdf) | [Github](https://github.com/Anonymous130301/GLEIPNIR) |
@@ -479,6 +481,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | A theory of Lending Protocols in DeFi | Massimo Bartoletti, Enrico Lipparini | [Link](https://arxiv.org/pdf/2506.15295) | --- |
 | 2025 | Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns | Chetan Pathade, Shweta Hooli | [Link](https://arxiv.org/pdf/2506.07974) | --- |
 | 2025 | When Blockchain Meets Crawlers: Real-time Market Analytics in Solana NFT Markets | Chengxin Shen, Zhongwen Li, Xiaoqi Li, Zongwei Li | [Link](https://arxiv.org/pdf/2506.02892) | --- |
 | 2025 | Timestamp Manipulation: Timestamp-based Nakamoto-style Blockchains are Vulnerable | Junjie Hu, Na Ruan, Sisi Duan | [Link](https://arxiv.org/pdf/2505.05328) | --- |
@@ -513,6 +516,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model | Side Liu, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng | [Link](https://arxiv.org/pdf/2506.17162) | [Zenodo](https://zenodo.org/records/15532394) |
+| 2025 | PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection | Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah | [Link](https://arxiv.org/pdf/2506.15656) | --- |
 | 2025 | Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability | Shova Kuikel, Aritran Piplai, Palvi Aggarwal | [Link](https://arxiv.org/pdf/2506.13746) | --- |
 | 2025 | KEENHash: Hashing Programs into Function-Aware Embeddings for Large-Scale Binary Code Similarity Analysis | Zhijie Liu, Qiyi Tang, Sen Nie, Shi Wu, Liang Feng Zhang, Yutian Tang | [Link](https://arxiv.org/pdf/2506.11612) | [Online SDK](https://www.binaryai.cn/) |
 | 2025 | IRCopilot: Automated Incident Response with Large Language Models | Xihuan Lin, Jie Zhang, Gelei Deng, Tianzhe Liu, Xiaolong Liu, Changcai Yang, Tianwei Zhang, Qing Guo, Riqing Chen | [Link](https://arxiv.org/pdf/2505.20945) | --- |
