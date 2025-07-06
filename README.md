@@ -364,6 +364,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk | Sajal Halder, Muhammad Ejaz Ahmed, Seyit Camtepe | [Link](https://arxiv.org/pdf/2506.19453) | [Github](https://github.com/sajalhalder/FuncVul) |
 | 2025 | deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses | Georgios Androutsopoulos, Antonio Bianchi | [Link](https://arxiv.org/pdf/2506.15648) | --- |
 | 2025 | gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images | Alan Mills, Jonathan White, Phil Legg | [Link](https://arxiv.org/pdf/2506.08218) | --- |
 | 2025 | ZTaint-Havoc: From Havoc Mode to Zero-Execution Fuzzing-Driven Taint Inference | Yuchong Xie, Wenhui Zhang, Dongdong She | [Link](https://arxiv.org/pdf/2506.08838) | --- |
@@ -434,6 +435,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions | Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, Zheyu Chen, Edith C.H. Ngai | [Link](https://arxiv.org/pdf/2506.20488) | --- |
 | 2024 | LoRaWAN attack in military use case | Georges Derache, Mounira Msahli, Aurelien Botbol, Fabien Romain, Jerome Champlon, Gauthier Canet | [Link](https://arxiv.org/pdf/2412.18447) | --- |
 | 2024 | CovFUZZ: Coverage-based fuzzer for 4G&5G protocols | Ilja Siroš, Dave Singelée, Bart Preneel | [Link](https://arxiv.org/pdf/2410.20958) | --- |
 | 2024 | Jäger: Automated Telephone Call Traceback | David Adei, Varun Madathil, Sathvik Prasad, Bradley Reaves, Alessandra Scafuro | [Link](https://arxiv.org/pdf/2409.02839) | --- |
@@ -460,6 +462,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | SIMulator: SIM Tracing on a (Pico-)Budget | Gabriel K. Gegenhuber, Philipp É. Frenzel, Adrian Dabrowski | [Link](https://arxiv.org/pdf/2506.20800) | [Github](https://github.com/sbaresearch/mobile-atlas#simulator) |
 | 2025 | CveBinarySheet: A Comprehensive Pre-built Binaries Database for IoT Vulnerability Analysis | Lingfeng Chen | [Link](https://arxiv.org/pdf/2501.08840) | --- |
 | 2024 | Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study | Dario Stabili, Tobia Bocchi, Filip Valgimigli, Mirco Marchetti | [Link](https://arxiv.org/pdf/2406.15103) | [Github](https://github.com/SECloudUNIMORE/ACES/tree/master/Tenda) |
 | 2024 | AutoFirm: Automatically Identifying Reused Libraries inside IoT Firmware at Large-Scale | YongLe Chen, Feng Ma, Ying Zhang, YongZhong He, Haining Wang, Qiang Li | [Link](https://arxiv.org/pdf/2406.12947) | [Github](https://github.com/sure17/AutoFirm) |
@@ -481,6 +484,8 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes | Pasquale De Rosa, Simon Queyrut, Yérom-David Bromberg, Pascal Felber, Valerio Schiavoni | [Link](https://arxiv.org/pdf/2506.19480) | --- |
+| 2025 | ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis | Chenyang Peng, Haijun Wang, Yin Wu, Hao Wu, Ming Fan, Yitao Zhao, Ting Liu | [Link](https://arxiv.org/pdf/2506.15790) | --- |
 | 2025 | A theory of Lending Protocols in DeFi | Massimo Bartoletti, Enrico Lipparini | [Link](https://arxiv.org/pdf/2506.15295) | --- |
 | 2025 | Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns | Chetan Pathade, Shweta Hooli | [Link](https://arxiv.org/pdf/2506.07974) | --- |
 | 2025 | When Blockchain Meets Crawlers: Real-time Market Analytics in Solana NFT Markets | Chengxin Shen, Zhongwen Li, Xiaoqi Li, Zongwei Li | [Link](https://arxiv.org/pdf/2506.02892) | --- |
@@ -516,6 +521,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | WebGuard++:Interpretable Malicious URL Detection via Bidirectional Fusion of HTML Subgraphs and Multi-Scale Convolutional BERT | Ye Tian, Zhang Yumin, Yifan Jia, Jianguo Sun, Yanbin Wang | [Link](https://arxiv.org/pdf/2506.19356) | --- |
 | 2025 | Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model | Side Liu, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng | [Link](https://arxiv.org/pdf/2506.17162) | [Zenodo](https://zenodo.org/records/15532394) |
 | 2025 | PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection | Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah | [Link](https://arxiv.org/pdf/2506.15656) | --- |
 | 2025 | Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability | Shova Kuikel, Aritran Piplai, Palvi Aggarwal | [Link](https://arxiv.org/pdf/2506.13746) | --- |
