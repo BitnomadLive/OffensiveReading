@@ -274,6 +274,10 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy | Víctor Mayoral-Vilches | [Link](https://arxiv.org/pdf/2506.23592) | --- |
+| 2025 | On the Surprising Efficacy of LLMs for Penetration-Testing | Andreas Happe, Jürgen Cito | [Link](https://arxiv.org/pdf/2507.00829) | --- |
+| 2025 | A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis | Zhiwei Lin, Bonan Ruan, Jiahao Liu, Weibo Zhao | [Link](https://arxiv.org/pdf/2506.23474) | [Github](https://github.com/Snakinya/MCPCorpus) |
+| 2025 | Advancing Jailbreak Strategies: A Hybrid Approach to Exploiting LLM Vulnerabilities and Bypassing Modern Defenses | Mohamed Ahmed, Mohamed Abdelmouty, Mingyu Kim, Gunvanth Kandula, Alex Park, James C. Davis | [Link](https://arxiv.org/pdf/2506.21972) | --- |
 | 2025 | From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem | Yanxu Mao, Tiehan Cui, Peipei Liu, Datao You, Hongsong Zhu | [Link](https://arxiv.org/pdf/2506.15170) | --- |
 | 2025 | Doppelgänger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack | Daewon Kang, YeongHwan Shin, Doyeon Kim, Kyu-Hwan Jung, Meong Hi Son | [Link](https://arxiv.org/pdf/2506.14539) | --- |
 | 2025 | Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models | Arjun Krishna, Aaditya Rastogi, Erick Galinkin | [Link](https://arxiv.org/pdf/2506.13726) | --- |
@@ -435,6 +439,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Stealtooth: Breaking Bluetooth Security Abusing Silent Automatic Pairing | Keiichiro Kimura, Hiroki Kuzuno, Yoshiaki Shiraishi, Masakatu Morii | [Link](https://arxiv.org/pdf/2507.00847) | --- |
 | 2025 | Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions | Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, Zheyu Chen, Edith C.H. Ngai | [Link](https://arxiv.org/pdf/2506.20488) | --- |
 | 2024 | LoRaWAN attack in military use case | Georges Derache, Mounira Msahli, Aurelien Botbol, Fabien Romain, Jerome Champlon, Gauthier Canet | [Link](https://arxiv.org/pdf/2412.18447) | --- |
 | 2024 | CovFUZZ: Coverage-based fuzzer for 4G&5G protocols | Ilja Siroš, Dave Singelée, Bart Preneel | [Link](https://arxiv.org/pdf/2410.20958) | --- |
