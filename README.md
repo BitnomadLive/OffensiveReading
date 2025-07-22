@@ -1,6 +1,7 @@
 # OffensiveReading
 
 A collection of papers about offensive IT security with some blogposts sprinkled in. This is basically a list of papers I found interesting. If you want to contribute a paper just open a issue or issue a pull request. 
+Note: I started to put AI papers into other categories as well, since its getting used for fuzzing etc now as well
 
 ## Table of Contents
 
@@ -205,6 +206,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks | Oleksii Oleksenko, Flavien Solt, Cédric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos | [Link](https://arxiv.org/pdf/2507.06039) | [Github](https://github.com/microsoft/sca-fuzzer) |
 | 2025 | SmartAttack: Air-Gap Attack via Smartwatches | Mordechai Guri | [Link](https://arxiv.org/pdf/2506.08866) | --- |
 | 2025 | Efficient RL-based Cache Vulnerability Exploration by Penalizing Useless Agent Actions | Kanato Nakanishi, Soramichi Akiyama | [Link](https://arxiv.org/pdf/2506.07200) | --- |
 | 2025 | Exploiting Inaccurate Branch History in Side-Channel Attacks | Yuhui Zhu, Alessandro Biondi | [Link](https://arxiv.org/pdf/2506.07263) | --- |
@@ -274,6 +276,12 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems | Zhihao Li, Kun Li, Boyang Ma, Minghui Xu, Yue Zhang, Xiuzhen Cheng | [Link](https://arxiv.org/pdf/2507.06250) | --- |
+| 2025 | The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover | Matteo Lupinacci, Francesco Aurelio Pironti, Francesco Blefari, Francesco Romeo, Luigi Arena, Angelo Furfaro | [Link](https://arxiv.org/pdf/2507.06850) | --- |
+| 2025 | PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI | Haitham S. Al-Sinani, Chris J. Mitchell | [Link](https://arxiv.org/pdf/2507.06742) | --- |
+| 2025 | The Hidden Threat in Plain Text: Attacking RAG Data Loaders | Alberto Castagnaro, Umberto Salviati, Mauro Conti, Luca Pajola, Simeone Pizzi | [Link](https://arxiv.org/pdf/2507.05093) | --- |
+| 2025 | Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents | Jiangrong Wu, Yuhong Nan, Jianliang Wu, Zitong Yao, Zibin Zheng | [Link](https://arxiv.org/pdf/2507.02699) | --- |
+| 2025 | Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks | Sizhe Chen, Arman Zharmagambetov, David Wagner, Chuan Guo | [Link](https://arxiv.org/pdf/2507.02735) | --- |
 | 2025 | Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy | Víctor Mayoral-Vilches | [Link](https://arxiv.org/pdf/2506.23592) | --- |
 | 2025 | On the Surprising Efficacy of LLMs for Penetration-Testing | Andreas Happe, Jürgen Cito | [Link](https://arxiv.org/pdf/2507.00829) | --- |
 | 2025 | A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis | Zhiwei Lin, Bonan Ruan, Jiahao Liu, Weibo Zhao | [Link](https://arxiv.org/pdf/2506.23474) | [Github](https://github.com/Snakinya/MCPCorpus) |
@@ -368,6 +376,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | RVISmith: Fuzzing Compilers for RVV Intrinsics | Yibo He, Cunjian Huang, Xianmiao Qu, Hongdeng Chen, Wei Yang, Tao Xie | [Link](https://arxiv.org/pdf/2507.03773) | [Github](https://github.com/yibo2000/RVISmith) |
 | 2025 | FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk | Sajal Halder, Muhammad Ejaz Ahmed, Seyit Camtepe | [Link](https://arxiv.org/pdf/2506.19453) | [Github](https://github.com/sajalhalder/FuncVul) |
 | 2025 | deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses | Georgios Androutsopoulos, Antonio Bianchi | [Link](https://arxiv.org/pdf/2506.15648) | --- |
 | 2025 | gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images | Alan Mills, Jonathan White, Phil Legg | [Link](https://arxiv.org/pdf/2506.08218) | --- |
@@ -439,6 +448,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties | Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Luan, Yunxin Liu | [Link](https://arxiv.org/pdf/2507.04227) | --- |
 | 2025 | Stealtooth: Breaking Bluetooth Security Abusing Silent Automatic Pairing | Keiichiro Kimura, Hiroki Kuzuno, Yoshiaki Shiraishi, Masakatu Morii | [Link](https://arxiv.org/pdf/2507.00847) | --- |
 | 2025 | Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions | Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, Zheyu Chen, Edith C.H. Ngai | [Link](https://arxiv.org/pdf/2506.20488) | --- |
 | 2024 | LoRaWAN attack in military use case | Georges Derache, Mounira Msahli, Aurelien Botbol, Fabien Romain, Jerome Champlon, Gauthier Canet | [Link](https://arxiv.org/pdf/2412.18447) | --- |
@@ -489,6 +499,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Bittensor Protocol: The Bitcoin in Decentralized Artificial Intelligence? A Critical and Empirical Analysis | Elizabeth Lui, Jiahao Sun | [Link](https://arxiv.org/pdf/2507.02951) | --- |
 | 2025 | PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes | Pasquale De Rosa, Simon Queyrut, Yérom-David Bromberg, Pascal Felber, Valerio Schiavoni | [Link](https://arxiv.org/pdf/2506.19480) | --- |
 | 2025 | ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis | Chenyang Peng, Haijun Wang, Yin Wu, Hao Wu, Ming Fan, Yitao Zhao, Ting Liu | [Link](https://arxiv.org/pdf/2506.15790) | --- |
 | 2025 | A theory of Lending Protocols in DeFi | Massimo Bartoletti, Enrico Lipparini | [Link](https://arxiv.org/pdf/2506.15295) | --- |
@@ -526,6 +537,7 @@ A collection of papers about offensive IT security with some blogposts sprinkled
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | CyberRAG: An agentic RAG cyber attack classification and reporting tool | Francesco Blefari, Cristian Cosentino, Francesco Aurelio Pironti, Angelo Furfaro, Fabrizio Marozzo | [Link](https://arxiv.org/pdf/2507.02424) | --- |
 | 2025 | WebGuard++:Interpretable Malicious URL Detection via Bidirectional Fusion of HTML Subgraphs and Multi-Scale Convolutional BERT | Ye Tian, Zhang Yumin, Yifan Jia, Jianguo Sun, Yanbin Wang | [Link](https://arxiv.org/pdf/2506.19356) | --- |
 | 2025 | Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model | Side Liu, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng | [Link](https://arxiv.org/pdf/2506.17162) | [Zenodo](https://zenodo.org/records/15532394) |
 | 2025 | PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection | Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah | [Link](https://arxiv.org/pdf/2506.15656) | --- |
