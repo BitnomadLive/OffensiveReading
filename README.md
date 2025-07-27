@@ -206,6 +206,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | GPUHammer: Rowhammer Attacks on GPU Memories are Practical | Chris S. Lin, Joyce Qu, Gururaj Saileshwar | [Link](https://arxiv.org/pdf/2507.08166) | [Github](https://github.com/sith-lab/gpuhammer) |
 | 2025 | Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks | Oleksii Oleksenko, Flavien Solt, Cédric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos | [Link](https://arxiv.org/pdf/2507.06039) | [Github](https://github.com/microsoft/sca-fuzzer) |
 | 2025 | SmartAttack: Air-Gap Attack via Smartwatches | Mordechai Guri | [Link](https://arxiv.org/pdf/2506.08866) | --- |
 | 2025 | Efficient RL-based Cache Vulnerability Exploration by Penalizing Useless Agent Actions | Kanato Nakanishi, Soramichi Akiyama | [Link](https://arxiv.org/pdf/2506.07200) | --- |
@@ -276,6 +277,9 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Prompt Injection 2.0: Hybrid AI Threats | Jeremy McHugh, Kristina Šekrst, Jon Cefalu | [Link](https://arxiv.org/pdf/2507.13169) | --- |
+| 2025 | Defending Against Prompt Injection With a Few DefensiveTokens | Sizhe Chen, Yizhu Wang, Nicholas Carlini, Chawin Sitawarin, David Wagner | [Link](https://arxiv.org/pdf/2507.07974) | --- |
+| 2025 | Giving AI Agents Access to Cryptocurrency and Smart Contracts Creates New Vectors of AI Harm | Bill Marino, Ari Juels | [Link](https://arxiv.org/pdf/2507.08249) | --- |
 | 2025 | We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems | Zhihao Li, Kun Li, Boyang Ma, Minghui Xu, Yue Zhang, Xiuzhen Cheng | [Link](https://arxiv.org/pdf/2507.06250) | --- |
 | 2025 | The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover | Matteo Lupinacci, Francesco Aurelio Pironti, Francesco Blefari, Francesco Romeo, Luigi Arena, Angelo Furfaro | [Link](https://arxiv.org/pdf/2507.06850) | --- |
 | 2025 | PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI | Haitham S. Al-Sinani, Chris J. Mitchell | [Link](https://arxiv.org/pdf/2507.06742) | --- |
@@ -448,6 +452,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | KeyDroid: A Large-Scale Analysis of Secure Key Storage in Android Apps | Jenny Blessing, Ross J. Anderson, Alastair R. Beresford | [Link](https://arxiv.org/pdf/2507.07927) | --- |
 | 2025 | Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties | Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Luan, Yunxin Liu | [Link](https://arxiv.org/pdf/2507.04227) | --- |
 | 2025 | Stealtooth: Breaking Bluetooth Security Abusing Silent Automatic Pairing | Keiichiro Kimura, Hiroki Kuzuno, Yoshiaki Shiraishi, Masakatu Morii | [Link](https://arxiv.org/pdf/2507.00847) | --- |
 | 2025 | Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions | Shuo Yang, Xinran Zheng, Jinfeng Xu, Jinze Li, Danyang Song, Zheyu Chen, Edith C.H. Ngai | [Link](https://arxiv.org/pdf/2506.20488) | --- |
@@ -499,6 +504,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Stablecoins: Fundamentals, Emerging Issues, and Open Challenges | Ahmed Mahrous, Maurantonio Caprolu, Roberto Di Pietro | [Link](https://arxiv.org/pdf/2507.13883) | --- |
 | 2025 | Bittensor Protocol: The Bitcoin in Decentralized Artificial Intelligence? A Critical and Empirical Analysis | Elizabeth Lui, Jiahao Sun | [Link](https://arxiv.org/pdf/2507.02951) | --- |
 | 2025 | PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes | Pasquale De Rosa, Simon Queyrut, Yérom-David Bromberg, Pascal Felber, Valerio Schiavoni | [Link](https://arxiv.org/pdf/2506.19480) | --- |
 | 2025 | ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis | Chenyang Peng, Haijun Wang, Yin Wu, Hao Wu, Ming Fan, Yitao Zhao, Ting Liu | [Link](https://arxiv.org/pdf/2506.15790) | --- |
@@ -537,6 +543,8 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation | Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah | [Link](https://arxiv.org/pdf/2507.15419) | --- |
+| 2025 | Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models | Jikesh Thapa, Gurrehmat Chahal, Serban Voinea Gabreanu, Yazan Otoum | [Link](https://arxiv.org/pdf/2507.07406) | --- |
 | 2025 | CyberRAG: An agentic RAG cyber attack classification and reporting tool | Francesco Blefari, Cristian Cosentino, Francesco Aurelio Pironti, Angelo Furfaro, Fabrizio Marozzo | [Link](https://arxiv.org/pdf/2507.02424) | --- |
 | 2025 | WebGuard++:Interpretable Malicious URL Detection via Bidirectional Fusion of HTML Subgraphs and Multi-Scale Convolutional BERT | Ye Tian, Zhang Yumin, Yifan Jia, Jianguo Sun, Yanbin Wang | [Link](https://arxiv.org/pdf/2506.19356) | --- |
 | 2025 | Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model | Side Liu, Jiang Ming, Guodong Zhou, Xinyi Liu, Jianming Fu, Guojun Peng | [Link](https://arxiv.org/pdf/2506.17162) | [Zenodo](https://zenodo.org/records/15532394) |
