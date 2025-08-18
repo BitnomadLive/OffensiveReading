@@ -83,6 +83,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | BACFuzz: Exposing the Silence on Broken Access Control Vulnerabilities in Web Applications | I Putu Arya Dharmaadi, Mohannad Alhanahnah, Van-Thuan Pham, Fadi Mohsen, Fatih Turkmen | [Link](https://arxiv.org/pdf/2507.15984) | --- |
 | 2025 | Quantifying Azure RBAC Wildcard Overreach | Christophe Parisel | [Link](https://arxiv.org/pdf/2506.10755) | --- |
 | 2025 | PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages | Deniz Simsek, Aryaz Eghbali, Michael Pradel | [Link](https://arxiv.org/pdf/2506.04962) | --- |
 | 2025 | Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange | Pinji Chen, Jianjun Chen, Mingming Zhang, Qi Wang, Yiming Zhang, Mingwei Xu, Haixin Duan | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-1086-paper.pdf) | --- |
@@ -206,6 +207,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Thermal-Aware 3D Design for Side-Channel Information Leakage | Dylan Stow, Russell Barnes, Eren Kurshan, Yuan Xie | [Link](https://arxiv.org/pdf/2508.02816) | --- |
 | 2025 | GPUHammer: Rowhammer Attacks on GPU Memories are Practical | Chris S. Lin, Joyce Qu, Gururaj Saileshwar | [Link](https://arxiv.org/pdf/2507.08166) | [Github](https://github.com/sith-lab/gpuhammer) |
 | 2025 | Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks | Oleksii Oleksenko, Flavien Solt, Cédric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos | [Link](https://arxiv.org/pdf/2507.06039) | [Github](https://github.com/microsoft/sca-fuzzer) |
 | 2025 | SmartAttack: Air-Gap Attack via Smartwatches | Mordechai Guri | [Link](https://arxiv.org/pdf/2506.08866) | --- |
@@ -277,6 +279,9 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs | Bodam Kim, Hiskias Dingeto, Taeyoun Kwon, Dasol Choi, DongGeon Lee, Haon Park, JaeHoon Lee, Jongho Shin | [Link](https://arxiv.org/pdf/2508.03365) | --- |
+| 2025 | Untraceable DeepFakes via Traceable Fingerprint Elimination | Jiewei Lai, Lan Zhang, Chen Tang, Pengcheng Sun, Xinming Wang, Yunhao Wang | [Link](https://arxiv.org/pdf/2508.03067) | --- |
+| 2025 | Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree | Sam Johnson, Viet Pham, Thai Le | [Link](https://arxiv.org/pdf/2507.14799) | [Github](https://github.com/sej2020/manipulating-web-agents) |
 | 2025 | Prompt Injection 2.0: Hybrid AI Threats | Jeremy McHugh, Kristina Šekrst, Jon Cefalu | [Link](https://arxiv.org/pdf/2507.13169) | --- |
 | 2025 | Defending Against Prompt Injection With a Few DefensiveTokens | Sizhe Chen, Yizhu Wang, Nicholas Carlini, Chawin Sitawarin, David Wagner | [Link](https://arxiv.org/pdf/2507.07974) | --- |
 | 2025 | Giving AI Agents Access to Cryptocurrency and Smart Contracts Creates New Vectors of AI Harm | Bill Marino, Ari Juels | [Link](https://arxiv.org/pdf/2507.08249) | --- |
@@ -380,6 +385,9 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Learning to Locate: GNN-Powered Vulnerability Path Discovery in Open Source Code | Nima Atashin, Behrouz Tork Ladani, Mohammadreza Sharbaf | [Link](https://arxiv.org/pdf/2507.17888) | --- |
+| 2025 | Scheduzz: Constraint-based Fuzz Driver Generation with Dual Scheduling | Yan Li, Wenzhang Yang, Yuekun Wang, Jian Gao, Shaohua Wang, Yinxing Xue, Lijun Zhang | [Link](https://arxiv.org/pdf/2507.18289) | --- |
+| 2025 | LibLMFuzz: LLM-Augmented Fuzz Target Generation for Black-box Libraries | Ian Hardgrove, John D. Hastings | [Link](https://arxiv.org/pdf/2507.15058) | --- |
 | 2025 | RVISmith: Fuzzing Compilers for RVV Intrinsics | Yibo He, Cunjian Huang, Xianmiao Qu, Hongdeng Chen, Wei Yang, Tao Xie | [Link](https://arxiv.org/pdf/2507.03773) | [Github](https://github.com/yibo2000/RVISmith) |
 | 2025 | FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk | Sajal Halder, Muhammad Ejaz Ahmed, Seyit Camtepe | [Link](https://arxiv.org/pdf/2506.19453) | [Github](https://github.com/sajalhalder/FuncVul) |
 | 2025 | deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses | Georgios Androutsopoulos, Antonio Bianchi | [Link](https://arxiv.org/pdf/2506.15648) | --- |
@@ -543,6 +551,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Protecting Small Organizations from AI Bots with Logrip: Hierarchical IP Hashing | Rama Carl Hoetzlein | [Link](https://arxiv.org/pdf/2508.03130) | --- |
 | 2025 | PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation | Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah | [Link](https://arxiv.org/pdf/2507.15419) | --- |
 | 2025 | Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models | Jikesh Thapa, Gurrehmat Chahal, Serban Voinea Gabreanu, Yazan Otoum | [Link](https://arxiv.org/pdf/2507.07406) | --- |
 | 2025 | CyberRAG: An agentic RAG cyber attack classification and reporting tool | Francesco Blefari, Cristian Cosentino, Francesco Aurelio Pironti, Angelo Furfaro, Fabrizio Marozzo | [Link](https://arxiv.org/pdf/2507.02424) | --- |
