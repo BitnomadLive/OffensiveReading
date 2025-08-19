@@ -207,6 +207,8 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | "Energon": Unveiling Transformers from GPU Power and Thermal Side-Channels | Arunava Chaudhuri, Shubhi Shukla, Sarani Bhattacharya, Debdeep Mukhopadhyay | [Link](https://arxiv.org/pdf/2508.01768) | --- |
+| 2025 | SUAD: Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants | Chao Liu, Zhezheng Zhu, Hao Chen, Zhe Chen, Kaiwen Guo, Penghao Wang, Jun Luo | [Link](https://arxiv.org/pdf/2508.02116) | --- |
 | 2025 | Thermal-Aware 3D Design for Side-Channel Information Leakage | Dylan Stow, Russell Barnes, Eren Kurshan, Yuan Xie | [Link](https://arxiv.org/pdf/2508.02816) | --- |
 | 2025 | GPUHammer: Rowhammer Attacks on GPU Memories are Practical | Chris S. Lin, Joyce Qu, Gururaj Saileshwar | [Link](https://arxiv.org/pdf/2507.08166) | [Github](https://github.com/sith-lab/gpuhammer) |
 | 2025 | Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks | Oleksii Oleksenko, Flavien Solt, Cédric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos | [Link](https://arxiv.org/pdf/2507.06039) | [Github](https://github.com/microsoft/sca-fuzzer) |
@@ -279,6 +281,9 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Complete Evasion, Zero Modification: PDF Attacks on AI Text Detection | Aldan Creo | [Link](https://arxiv.org/pdf/2508.01887) | [Github](https://github.com/ACMCMC/PDFuzz) |
+| 2025 | Whispering Agents: An event-driven covert communication protocol for the Internet of Agents | Kaibo Huang, Yukun Wei, WanSheng Wu, Tianhua Zhang, Zhongliang Yang, Linna Zhou | [Link](https://arxiv.org/pdf/2508.02188) | --- |
+| 2025 | PentestJudge: Judging Agent Behavior Against Operational Requirements | Shane Caldwell, Max Harley, Michael Kouremetis, Vincent Abruzzo, Will Pearce | [Link](https://arxiv.org/pdf/2508.02921) | --- |
 | 2025 | When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with Benign Inputs | Bodam Kim, Hiskias Dingeto, Taeyoun Kwon, Dasol Choi, DongGeon Lee, Haon Park, JaeHoon Lee, Jongho Shin | [Link](https://arxiv.org/pdf/2508.03365) | --- |
 | 2025 | Untraceable DeepFakes via Traceable Fingerprint Elimination | Jiewei Lai, Lan Zhang, Chen Tang, Pengcheng Sun, Xinming Wang, Yunhao Wang | [Link](https://arxiv.org/pdf/2508.03067) | --- |
 | 2025 | Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree | Sam Johnson, Viet Pham, Thai Le | [Link](https://arxiv.org/pdf/2507.14799) | [Github](https://github.com/sej2020/manipulating-web-agents) |
@@ -385,6 +390,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | LLM-Assisted Model-Based Fuzzing of Protocol Implementations | Changze Huang, Di Wang, Zhi Quan Zhou | [Link](https://arxiv.org/pdf/2508.01750) | --- |
 | 2025 | Learning to Locate: GNN-Powered Vulnerability Path Discovery in Open Source Code | Nima Atashin, Behrouz Tork Ladani, Mohammadreza Sharbaf | [Link](https://arxiv.org/pdf/2507.17888) | --- |
 | 2025 | Scheduzz: Constraint-based Fuzz Driver Generation with Dual Scheduling | Yan Li, Wenzhang Yang, Yuekun Wang, Jian Gao, Shaohua Wang, Yinxing Xue, Lijun Zhang | [Link](https://arxiv.org/pdf/2507.18289) | --- |
 | 2025 | LibLMFuzz: LLM-Augmented Fuzz Target Generation for Black-box Libraries | Ian Hardgrove, John D. Hastings | [Link](https://arxiv.org/pdf/2507.15058) | --- |
@@ -512,6 +518,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | The Dark Side of Upgrades: Uncovering Security Risks in Smart Contract Upgrades | Dingding Wang, Jianting He, Siwei Wu, Yajin Zhou, Lei Wu, Cong Wang | [Link](https://arxiv.org/pdf/2508.02145) | --- |
 | 2025 | Stablecoins: Fundamentals, Emerging Issues, and Open Challenges | Ahmed Mahrous, Maurantonio Caprolu, Roberto Di Pietro | [Link](https://arxiv.org/pdf/2507.13883) | --- |
 | 2025 | Bittensor Protocol: The Bitcoin in Decentralized Artificial Intelligence? A Critical and Empirical Analysis | Elizabeth Lui, Jiahao Sun | [Link](https://arxiv.org/pdf/2507.02951) | --- |
 | 2025 | PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes | Pasquale De Rosa, Simon Queyrut, Yérom-David Bromberg, Pascal Felber, Valerio Schiavoni | [Link](https://arxiv.org/pdf/2506.19480) | --- |
@@ -551,6 +558,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | PhishParrot: LLM-Driven Adaptive Crawling to Unveil Cloaked Phishing Sites | Hiroki Nakano, Takashi Koide, Daiki Chiba | [Link](https://arxiv.org/pdf/2508.02035) | --- |
 | 2025 | Protecting Small Organizations from AI Bots with Logrip: Hierarchical IP Hashing | Rama Carl Hoetzlein | [Link](https://arxiv.org/pdf/2508.03130) | --- |
 | 2025 | PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation | Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah | [Link](https://arxiv.org/pdf/2507.15419) | --- |
 | 2025 | Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models | Jikesh Thapa, Gurrehmat Chahal, Serban Voinea Gabreanu, Yazan Otoum | [Link](https://arxiv.org/pdf/2507.07406) | --- |
