@@ -281,6 +281,10 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | PUZZLED: Jailbreaking LLMs through Word-Based Puzzles | Yelim Ahn, Jaejin Lee | [Link](https://arxiv.org/pdf/2508.01306) | --- |
+| 2025 | Beyond Vulnerabilities: A Survey of Adversarial Attacks as Both Threats and Defenses in Computer Vision Systems | Zhongliang Guo, Yifei Qian, Yanli Li, Weiye Li, Chun Tong Lei, Shuai Zhao, Lei Fang, Ognjen Arandjelović, Chun Pong Lau | [Link](https://arxiv.org/pdf/2508.01845) | --- |
+| 2025 | Cyber-Zero: Training Cybersecurity Agents without Runtime | Terry Yue Zhuo, Dingmin Wang, Hantian Ding, Varun Kumar, Zijian Wang | [Link](https://arxiv.org/pdf/2508.00910) | --- |
+| 2025 | Autonomous Penetration Testing: Solving Capture-the-Flag Challenges with LLMs | Isabelle Bakker, John Hastings | [Link](https://arxiv.org/pdf/2508.01054) | --- |
 | 2025 | Complete Evasion, Zero Modification: PDF Attacks on AI Text Detection | Aldan Creo | [Link](https://arxiv.org/pdf/2508.01887) | [Github](https://github.com/ACMCMC/PDFuzz) |
 | 2025 | Whispering Agents: An event-driven covert communication protocol for the Internet of Agents | Kaibo Huang, Yukun Wei, WanSheng Wu, Tianhua Zhang, Zhongliang Yang, Linna Zhou | [Link](https://arxiv.org/pdf/2508.02188) | --- |
 | 2025 | PentestJudge: Judging Agent Behavior Against Operational Requirements | Shane Caldwell, Max Harley, Michael Kouremetis, Vincent Abruzzo, Will Pearce | [Link](https://arxiv.org/pdf/2508.02921) | --- |
@@ -390,6 +394,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Unveiling Dynamic Binary Instrumentation Techniques | Oscar Llorente-Vazquez, Xabier Ugarte-Pedrero, Igor Santos-Grueiro, Pablo Garcia Bringas | [Link](https://arxiv.org/pdf/2508.00682) | --- |
 | 2025 | LLM-Assisted Model-Based Fuzzing of Protocol Implementations | Changze Huang, Di Wang, Zhi Quan Zhou | [Link](https://arxiv.org/pdf/2508.01750) | --- |
 | 2025 | Learning to Locate: GNN-Powered Vulnerability Path Discovery in Open Source Code | Nima Atashin, Behrouz Tork Ladani, Mohammadreza Sharbaf | [Link](https://arxiv.org/pdf/2507.17888) | --- |
 | 2025 | Scheduzz: Constraint-based Fuzz Driver Generation with Dual Scheduling | Yan Li, Wenzhang Yang, Yuekun Wang, Jian Gao, Shaohua Wang, Yinxing Xue, Lijun Zhang | [Link](https://arxiv.org/pdf/2507.18289) | --- |
@@ -518,6 +523,11 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection | Lei Yu, Shiqi Cheng, Zhirong Huang, Jingyuan Zhang, Chenjie Shen, Junyi Lu, Li Yang, Fengjun Zhang, Jiajia Ma | [Link](https://arxiv.org/pdf/2507.22371) | --- |
+| 2025 | UEChecker: Detecting Unchecked External Call Vulnerabilities in DApps via Graph Analysis | Dechao Kong, Xiaoqi Li, Wenkai Li | [Link](https://arxiv.org/pdf/2508.01343) | --- |
+| 2025 | MultiCFV: Detecting Control Flow Vulnerabilities in Smart Contracts Leveraging Multimodal Deep Learning | Hongli Peng, Xiaoqi Li, Wenkai Li | [Link](https://arxiv.org/pdf/2508.01346) | --- |
+| 2025 | NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM | Yuanzheng Niu, Xiaoqi Li, Wenkai Li | [Link](https://arxiv.org/pdf/2508.01351) | --- |
+| 2025 | Prompt to Pwn: Automated Exploit Generation for Smart Contracts | Zeke Xiao, Yuekang Li, Qin Wang, Shiping Chen | [Link](https://arxiv.org/pdf/2508.01371) | --- |
 | 2025 | The Dark Side of Upgrades: Uncovering Security Risks in Smart Contract Upgrades | Dingding Wang, Jianting He, Siwei Wu, Yajin Zhou, Lei Wu, Cong Wang | [Link](https://arxiv.org/pdf/2508.02145) | --- |
 | 2025 | Stablecoins: Fundamentals, Emerging Issues, and Open Challenges | Ahmed Mahrous, Maurantonio Caprolu, Roberto Di Pietro | [Link](https://arxiv.org/pdf/2507.13883) | --- |
 | 2025 | Bittensor Protocol: The Bitcoin in Decentralized Artificial Intelligence? A Critical and Empirical Analysis | Elizabeth Lui, Jiahao Sun | [Link](https://arxiv.org/pdf/2507.02951) | --- |
@@ -558,6 +568,8 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | LLM-Based Identification of Infostealer Infection Vectors from Screenshots: The Case of Aurora | Estelle Ruellan, Eric Clay, Nicholas Ascoli | [Link](https://arxiv.org/pdf/2507.23611) | --- |
+| 2025 | AI-Driven Cybersecurity Threat Detection: Building Resilient Defense Systems Using Predictive Analytics | Biswajit Chandra Das, M Saif Sartaz, Syed Ali Reza, Arat Hossain, Md Nasiruddin, Kanchon Kumar Bishnu, Kazi Sharmin Sultana, Sadia Sharmeen Shatyi, MD Azam Khan, Joynal Abed | [Link](https://arxiv.org/pdf/2508.01422) | --- |
 | 2025 | PhishParrot: LLM-Driven Adaptive Crawling to Unveil Cloaked Phishing Sites | Hiroki Nakano, Takashi Koide, Daiki Chiba | [Link](https://arxiv.org/pdf/2508.02035) | --- |
 | 2025 | Protecting Small Organizations from AI Bots with Logrip: Hierarchical IP Hashing | Rama Carl Hoetzlein | [Link](https://arxiv.org/pdf/2508.03130) | --- |
 | 2025 | PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation | Wenhao Li, Selvakumar Manickam, Yung-wey Chong, Shankar Karuppayah | [Link](https://arxiv.org/pdf/2507.15419) | --- |
@@ -594,6 +606,8 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Prime Factorization Equation from a Tensor Network Perspective | Alejandro Mata Ali, Jorge Martínez Martín, Sergio Muñiz Subiñas, Miguel Franco Hernando, Javier Sedano, Ángel Miguel García-Vico | [Link](https://arxiv.org/pdf/2508.00907) | --- |
+| 2025 | How Cybersecurity Behaviors affect the Success of Darknet Drug Vendors: A Quantitative Analysis | Syon Balakrishnan, Aaron Grinberg | [Link](https://arxiv.org/pdf/2508.00934) | --- |
 | 2025 | On the Impossibility of a Perfect Hypervisor | Mordechai Guri | [Link](https://arxiv.org/pdf/2506.09825) | --- |
 | 2025 | Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China | Shencha Fan, Jackson Sippe, Sakamoto San, Jade Sheffey, David Fifield, Amir Houmansadr, Elson Wedwards, Eric Wustrow | [Link](https://www.ndss-symposium.org/wp-content/uploads/2025-237-paper.pdf) | --- |
 | 2025 | SoK: Stealing Cars Since Remote Keyless Entry Introduction and How to Defend From It | Tommaso Bianchi, Alessandro Brighente, Mauro Conti, Edoardo Pavan | [Link](https://arxiv.org/pdf/2505.02713) | --- |
