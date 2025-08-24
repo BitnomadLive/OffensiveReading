@@ -208,7 +208,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
 | 2025 | Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks | Nathaniel Moyer, Charalampos Papamanthou, Evgenios Kornaropoulos | [Link](https://arxiv.org/pdf/2508.11563) | --- |
-| 2025 | SleepWalk: Exploiting Context Switching and Residual Power for Physical Side-Channel Attacks | Sahan Sanjaya, Aruna Jayasena, Prabhat Mishra | [Link](https://arxiv.org/pdf/2507.22306) | --- |
+| 2025 | SleepWalk: Exploiting Context Switching and Residual Power for Physical Side-Channel Attacks | Sahan Sanjaya, Aruna Jayasena, Prabhat Mishra | [Link](https://arxiv.org/pdf/2507.22306) | [Git](https://anonymous.4open.science/r/SleepWalk/) |
 | 2025 | "Energon": Unveiling Transformers from GPU Power and Thermal Side-Channels | Arunava Chaudhuri, Shubhi Shukla, Sarani Bhattacharya, Debdeep Mukhopadhyay | [Link](https://arxiv.org/pdf/2508.01768) | --- |
 | 2025 | SUAD: Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants | Chao Liu, Zhezheng Zhu, Hao Chen, Zhe Chen, Kaiwen Guo, Penghao Wang, Jun Luo | [Link](https://arxiv.org/pdf/2508.02116) | --- |
 | 2025 | Thermal-Aware 3D Design for Side-Channel Information Leakage | Dylan Stow, Russell Barnes, Eren Kurshan, Yuan Xie | [Link](https://arxiv.org/pdf/2508.02816) | --- |
