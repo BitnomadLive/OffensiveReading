@@ -207,6 +207,8 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks | Nathaniel Moyer, Charalampos Papamanthou, Evgenios Kornaropoulos | [Link](https://arxiv.org/pdf/2508.11563) | --- |
+| 2025 | SleepWalk: Exploiting Context Switching and Residual Power for Physical Side-Channel Attacks | Sahan Sanjaya, Aruna Jayasena, Prabhat Mishra | [Link](https://arxiv.org/pdf/2507.22306) | --- |
 | 2025 | "Energon": Unveiling Transformers from GPU Power and Thermal Side-Channels | Arunava Chaudhuri, Shubhi Shukla, Sarani Bhattacharya, Debdeep Mukhopadhyay | [Link](https://arxiv.org/pdf/2508.01768) | --- |
 | 2025 | SUAD: Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants | Chao Liu, Zhezheng Zhu, Hao Chen, Zhe Chen, Kaiwen Guo, Penghao Wang, Jun Luo | [Link](https://arxiv.org/pdf/2508.02116) | --- |
 | 2025 | Thermal-Aware 3D Design for Side-Channel Information Leakage | Dylan Stow, Russell Barnes, Eren Kurshan, Yuan Xie | [Link](https://arxiv.org/pdf/2508.02816) | --- |
@@ -281,6 +283,11 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | Searching for Privacy Risks in LLM Agents via Simulation | Yanzhe Zhang, Diyi Yang | [Link](https://arxiv.org/pdf/2508.10880) | --- |
+| 2025 | CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection | Zhihao Li, Zimo Ji, Tao Zheng, Hao Ren, Xiao Lan | [Link](https://arxiv.org/pdf/2508.11599) | --- |
+| 2025 | ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls | Sanket Badhe | [Link](https://arxiv.org/pdf/2508.06457) | --- |
+| 2025 | Prompt Optimization and Evaluation for LLM Automated Red Teaming | Michael Freenor, Lauren Alvarez, Milton Leal, Lily Smith, Joel Garrett, Yelyzaveta Husieva, Madeline Woodruff, Ryan Miller, Erich Kummerfeld, Rafael Medeiros, Sander Schulhoff | [Link](https://arxiv.org/pdf/2507.22133) | --- |
+| 2025 | Enhancing Jailbreak Attacks on LLMs via Persona Prompts | Zheng Zhang, Peilin Zhao, Deheng Ye, Hao Wang | [Link](https://arxiv.org/pdf/2507.22171) | --- |
 | 2025 | PUZZLED: Jailbreaking LLMs through Word-Based Puzzles | Yelim Ahn, Jaejin Lee | [Link](https://arxiv.org/pdf/2508.01306) | --- |
 | 2025 | Beyond Vulnerabilities: A Survey of Adversarial Attacks as Both Threats and Defenses in Computer Vision Systems | Zhongliang Guo, Yifei Qian, Yanli Li, Weiye Li, Chun Tong Lei, Shuai Zhao, Lei Fang, Ognjen Arandjelović, Chun Pong Lau | [Link](https://arxiv.org/pdf/2508.01845) | --- |
 | 2025 | Cyber-Zero: Training Cybersecurity Agents without Runtime | Terry Yue Zhuo, Dingmin Wang, Hantian Ding, Varun Kumar, Zijian Wang | [Link](https://arxiv.org/pdf/2508.00910) | --- |
@@ -568,6 +575,10 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2025 | A Novel Study on Intelligent Methods and Explainable AI for Dynamic Malware Analysis | Richa Dasila, Vatsala Upadhyay, Samo Bobek, Abhishek Vaish | [Link](https://arxiv.org/pdf/2508.10652) | --- |
+| 2025 | Enhance the machine learning algorithm performance in phishing detection with keyword features | Zijiang Yang | [Link](https://arxiv.org/pdf/2508.09765) | --- |
+| 2025 | NetMoniAI: An Agentic AI Framework for Network Security & Monitoring | Pallavi Zambare, Venkata Nikhil Thanikella, Nikhil Padmanabh Kottur, Sree Akhil Akula, Ying Liu | [Link](https://arxiv.org/pdf/2508.10052) | --- |
+| 2025 | Advancing Autonomous Incident Response: Leveraging LLMs and Cyber Threat Intelligence | Amine Tellache, Abdelaziz Amara Korba, Amdjed Mokhtari, Horea Moldovan, Yacine Ghamri-Doudane | [Link](https://arxiv.org/pdf/2508.10677) | --- |
 | 2025 | LLM-Based Identification of Infostealer Infection Vectors from Screenshots: The Case of Aurora | Estelle Ruellan, Eric Clay, Nicholas Ascoli | [Link](https://arxiv.org/pdf/2507.23611) | --- |
 | 2025 | AI-Driven Cybersecurity Threat Detection: Building Resilient Defense Systems Using Predictive Analytics | Biswajit Chandra Das, M Saif Sartaz, Syed Ali Reza, Arat Hossain, Md Nasiruddin, Kanchon Kumar Bishnu, Kazi Sharmin Sultana, Sadia Sharmeen Shatyi, MD Azam Khan, Joynal Abed | [Link](https://arxiv.org/pdf/2508.01422) | --- |
 | 2025 | PhishParrot: LLM-Driven Adaptive Crawling to Unveil Cloaked Phishing Sites | Hiroki Nakano, Takashi Koide, Daiki Chiba | [Link](https://arxiv.org/pdf/2508.02035) | --- |
