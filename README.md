@@ -209,6 +209,9 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | FeatureBleed: Inferring Private Enriched Attributes From Sparsity-Optimized AI Accelerators | Darsh Asher, Farshad Dizani, Joshua Kalyanapu, Rosario Cammarota, Aydin Aysu, Samira Mirbagher Ajorpaz | [Link](https://arxiv.org/pdf/2602.18304) | --- |
+| 2025 | GateBleed: Exploiting On-Core Accelerator Power Gating for High Performance and Stealthy Attacks on AI | Joshua Kalyanapu, Farshad Dizani, Darsh Asher, Azam Ghanbari, Rosario Cammarota, Aydin Aysu, Samira Mirbagher Ajorpaz | [Link](https://arxiv.org/pdf/2507.17033) | [Github](https://github.com/jkalya/gatebleed) |
+| 2025 | Exploiting Intel AMX Power Gating | Joshua Kalyanapu, Farshad Dizani, Azam Ghanbari, Darsh Asher, Samira Mirbagher Ajorpaz | [Link](https://doi.org/10.1109/LCA.2025.3555183) | --- |
 | 2025 | Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks | Nathaniel Moyer, Charalampos Papamanthou, Evgenios Kornaropoulos | [Link](https://arxiv.org/pdf/2508.11563) | --- |
 | 2025 | SleepWalk: Exploiting Context Switching and Residual Power for Physical Side-Channel Attacks | Sahan Sanjaya, Aruna Jayasena, Prabhat Mishra | [Link](https://arxiv.org/pdf/2507.22306) | [Git](https://anonymous.4open.science/r/SleepWalk/) |
 | 2025 | "Energon": Unveiling Transformers from GPU Power and Thermal Side-Channels | Arunava Chaudhuri, Shubhi Shukla, Sarani Bhattacharya, Debdeep Mukhopadhyay | [Link](https://arxiv.org/pdf/2508.01768) | --- |
@@ -247,6 +250,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 | 2023 | LeakyOhm: Secret Bits Extraction using Impedance Analysis | Saleh Khalaj Monfared, Tahoura Mosavirik, Shahin Tajik | [Link](https://arxiv.org/pdf/2310.07014) | --- |
 | 2023 | From Dragondoom to Dragonstar: Side-channel Attacks and Formally Verified Implementation of WPA3 Dragonfly Handshake | Daniel De Almeida Braga, Natalia Kulatova, Mohamed Sabt, Pierre-Alain Fouque | [Link](https://arxiv.org/pdf/2307.09243) | --- |
 | 2023 | AVX Timing Side-Channel Attacks against Address Space Layout Randomization | Hyunwoo Choi, Suryeon Kim, Seungwon Shin | [link](https://arxiv.org/pdf/2304.07940) | --- |
+| 2023 | An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation | Sayinath Karuppanan, Samira Mirbagher Ajorpaz | [Link](https://arxiv.org/pdf/2302.01131) | --- |
 | 2022 | Physical Fault Injection and Side-Channel Attacks on Mobile Devices: A Comprehensive Analysis | Carlton Shepherda, Konstantinos Markantonakisa, Nico van Heijningenb, Driss Aboulkassimic,Clément Gainec, Thibaut Heckmann, David Naccache | [Link](https://arxiv.org/pdf/2105.04454) | --- |
 | 2022 | Frequency Throttling Side-Channel Attack | Chen Liu, Abhishek Chakraborty, Nikhil Chawla, Neer Roggel | [Link](https://arxiv.org/pdf/2206.07012.pdf) | --- |
 | 2022 | Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86 | Yingchen Wang, Riccardo Paccagnella, Elizabeth Tang He, Hovav Shacham, Christopher W. Fletcher, David Kohlbrenner | [Link](https://www.hertzbleed.com/hertzbleed.pdf) | [Github](https://github.com/FPSG-UIUC/hertzbleed) |
