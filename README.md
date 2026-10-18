@@ -313,6 +313,61 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | KryptoPilot: An Open-World Knowledge-Augmented LLM Agent for Automated Cryptographic Exploitation | Xiaonan Liu, Zhihao Li, Xiao Lan, Hao Ren, Haizhou Wang, Xingshu Chen | [Link](https://arxiv.org/pdf/2601.09129) | --- |
+| 2026 | Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale | Yi Liu, Weizhe Wang, Ruitao Feng, Yao Zhang, Guangquan Xu, Gelei Deng, Yuekang Li, Leo Zhang | [Link](https://arxiv.org/pdf/2601.10338) | --- |
+| 2026 | Reasoning Hijacking: The Fragility of Reasoning Alignment in Large Language Models | Yuansen Liu, Yixuan Tang, Anthony Kum Hoe Tung | [Link](https://arxiv.org/pdf/2601.10294) | --- |
+| 2026 | To Defend Against Cyber Attacks, We Must Teach AI Agents to Hack | Terry Yue Zhuo, Yangruibo Ding, Wenbo Guo, Ruijie Meng | [Link](https://arxiv.org/pdf/2602.02595) | --- |
+| 2026 | Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents | Pengfei He, Ash Fox, Lesly Miculicich, Stefan Friedli, Daniel Fabian, Burak Gokturk, Jiliang Tang, Chen-Yu Lee, Tomas Pfister, Long T. Le | [Link](https://arxiv.org/pdf/2602.02164) | --- |
+| 2026 | Whispers of Wealth: Red-Teaming Google's Agent Payments Protocol via Prompt Injection | Tanusree Debi, Wentian Zhu, Pranjol Sen Gupta | [Link](https://arxiv.org/pdf/2601.22569) | --- |
+| 2026 | TFL: Targeted Bit-Flip Attack on Large Language Model | Jingkai Guo, Chaitali Chakrabarti, Deliang Fan | [Link](https://arxiv.org/pdf/2602.17837) | --- |
+| 2026 | Quantifying Frontier LLM Capabilities for Container Sandbox Escape | Rahul Marchand, Art O Cathain, Jerome Wynne, Philippos Maximos Giavridis, Stuart Jennings, Freddy Tuxworth, Tolga H. Dur, Sam Deverett, John Wilkinson, Jason Gwartz, Harry Coppock | [Link](https://arxiv.org/pdf/2603.02277) | --- |
+| 2026 | CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? | Xiangsen Chen, Xuan Feng, Shuo Chen, Matthieu Maitre, Sudipto Rakshit, Diana Duvieilh, Ashley Picone, Nan Tang | [Link](https://arxiv.org/pdf/2603.09452) | --- |
+| 2026 | Cybersecurity AI: Hacking Consumer Robots in the AI Era | Víctor Mayoral-Vilches, Unai Ayucar-Carbajo, Olivier Laflamme, Ruikai Peng, María Sanz-Gómez, Francesco Balassone, Lucas Apa, Endika Gil-Uriarte | [Link](https://arxiv.org/pdf/2603.08665) | --- |
+| 2026 | Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection | Zi Liang, Qipeng Xie, Jun He, Bohuan Xue, Weizheng Wang, Yuandao Cai, Fei Luo, Boxian Zhang, Haibo Hu, Kaishun Wu | [Link](https://arxiv.org/pdf/2604.06633) | --- |
+| 2026 | SkillAttack: Automated Red Teaming of Agent Skills through Attack Path Refinement | Zenghao Duan, Yuxin Tian, Zhiyi Yin, Liang Pang, Jingcheng Deng, Zihao Wei, Shicheng Xu, Yuyao Ge, Xueqi Cheng | [Link](https://arxiv.org/pdf/2604.04989) | --- |
+| 2026 | Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents | Wei Zou, Mingwen Dong, Miguel Romero Calvo, Shuaichen Chang, Jiang Guo, Dongkyu Lee, Xing Niu, Xiaofei Ma, Yanjun Qi, Jiarong Jiang | [Link](https://arxiv.org/pdf/2604.02623) | --- |
+| 2026 | Taint-Style Vulnerability Detection and Confirmation for Node.js Packages Using LLM Agent Reasoning | Ronghao Ni, Mihai Christodorescu, Limin Jia | [Link](https://arxiv.org/pdf/2604.20179) | --- |
+| 2026 | Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense | Mingming Zha, Xiaofeng Wang | [Link](https://arxiv.org/pdf/2605.02812) | --- |
+| 2026 | Trojan Hippo Bench: A Dynamic Benchmark for Persistent Memory Attacks and Defenses in LLM Agents | Debeshee Das, Julien Piet, Darya Kaviani, Luca Beurer-Kellner, Florian Tramèr, David Wagner | [Link](https://arxiv.org/pdf/2605.01970) | --- |
+| 2026 | Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents | Benjamin Probst, Andreas Happe, Jürgen Cito | [Link](https://arxiv.org/pdf/2604.27143) | --- |
+| 2026 | Adversarial SQL Injection Generation with LLM-Based Architectures | Ali Karakoc, H. Birkan Yilmaz | [Link](https://arxiv.org/pdf/2605.11188) | --- |
+| 2026 | ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? | Zhun Wang, Nico Schiller, Hongwei Li, Srijiith Sesha Narayana, Milad Nasr, Nicholas Carlini, Xiangyu Qi, Eric Wallace, Elie Bursztein, Luca Invernizzi, Kurt Thomas, Yan Shoshitaishvili, Wenbo Guo, Jingxuan He, Thorsten Holz, Dawn Song | [Link](https://arxiv.org/pdf/2605.11086) | --- |
+| 2026 | Under the Hood of SKILL.md: Semantic Supply-chain Attacks on AI Agent Skill Registry | Shoumik Saha, Kazem Faghih, Soheil Feizi | [Link](https://arxiv.org/pdf/2605.11418) | --- |
+| 2026 | uGen: An Agentic Framework for Generating Microarchitectural Attack PoCs | Debopriya Roy Dipta, Thore Tiemann, Eduard Marin, Thomas Eisenbarth, Berk Gulmezoglu | [Link](https://arxiv.org/pdf/2605.15503) | --- |
+| 2026 | Hidden in Memory: Sleeper Memory Poisoning in LLM Agents | Sidharth Pulipaka, Stanislau Hlebik, Leonidas Raghav, Sahar Abdelnabi, Vyas Raina, Ivaxi Sheth, Mario Fritz | [Link](https://arxiv.org/pdf/2605.15338) | --- |
+| 2026 | Stealing Reasoning Traces from Proprietary LLM APIs | Alexander Panfilov, David Schmotz, Ilia Shumailov, Luca Beurer-Kellner, Joachim Schaeffer, Ameya Prabhu, Jonas Geiping, Maksym Andriushchenko | [Link](https://arxiv.org/pdf/2608.09867) | --- |
+| 2026 | Decision Hijacking: Prompt Injection Attacks on Jev's Typed Probabilistic Decisions | Tiantong Wu, Wei Yang Bryan Lim | [Link](https://arxiv.org/pdf/2609.28613) | --- |
+| 2026 | AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agents | Weida Liang, Shi Qiu, Zhun Wang, Simon Sure, Xiaoyuan Liu, Tianneng Shi, Zhaorun Chen, Wenbo Guo, Dawn Song | [Link](https://arxiv.org/pdf/2609.31318) | --- |
+| 2026 | How Reliable Are AI Attackers Against a Fixed Vulnerable Target? A 400-Run Empirical Study of LLM Penetration Testing Consistency | Galip Tolga Erdem | [Link](https://arxiv.org/pdf/2605.30096) | --- |
+| 2026 | When LLMs Team Up: A Coordinated Attack Framework for Automated Cyber Intrusions | Minfeng Qi, Tianqing Zhu, Zijie Xu, Congcong Zhu, Qin Wang, Wanlei Zhou | [Link](https://arxiv.org/pdf/2605.08763) | --- |
+| 2026 | CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild | Jian Yang, Haau-Sing Li, Shawn Guo, Zixi Zhao, Yibo Tan, Jiajun Wu, Aishan Liu, Zhoujun Li, Xianglong Liu, Tianyu Zheng, Bryan Dai, Chengran Yang, Weifeng Lv | [Link](https://arxiv.org/pdf/2608.23181) | --- |
+| 2025 | EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System | Pavan Reddy, Aditya Sanjay Gujral | [Link](https://arxiv.org/pdf/2509.10540) | --- |
+| 2025 | Cuckoo Attack: Stealthy and Persistent Attacks Against AI-IDE | Xinpeng Liu, Junming Liu, Peiyu Liu, Han Zheng, Qinying Wang, Mathias Payer, Shouling Ji, Wenhai Wang | [Link](https://arxiv.org/pdf/2509.15572) | --- |
+| 2025 | LLM Jailbreak Detection for (Almost) Free! | Guorui Chen, Yifan Xia, Xiaojun Jia, Zhijiang Li, Philip Torr, Jindong Gu | [Link](https://arxiv.org/pdf/2509.14558) | --- |
+| 2025 | SeedPrints: Fingerprints Can Even Tell Which Seed Your Large Language Model Was Trained From | Yao Tong, Haonan Wang, Siquan Li, Kenji Kawaguchi, Tianyang Hu | [Link](https://arxiv.org/pdf/2509.26404) | --- |
+| 2025 | Fingerprinting LLMs via Prompt Injection | Yuepeng Hu, Zhengyuan Jiang, Mengyuan Li, Osama Ahmed, Zhicong Huang, Cheng Hong, Neil Gong | [Link](https://arxiv.org/pdf/2509.25448) | --- |
+| 2025 | Fine-tuning of Large Language Models for Domain-Specific Cybersecurity Knowledge | Yuan Huang | [Link](https://arxiv.org/pdf/2509.25241) | --- |
+| 2025 | Potential and Challenges of Large Language Models for Reverse Engineering | Xinyu Hu, Zhiwei Fu, Shaocong Xie, Steven H. H. Ding, Philippe Charland | [Link](https://arxiv.org/pdf/2509.21821) | --- |
+| 2025 | "Your AI, My Shell": Demystifying Prompt Injection Attacks on Agentic AI Coding Editors | Yue Liu, Yanjie Zhao, Yunbo Lyu, Ting Zhang, Haoyu Wang, David Lo | [Link](https://arxiv.org/pdf/2509.22040) | --- |
+| 2025 | Virus Infection Attack on LLMs: Your Poisoning Can Spread "VIA" Synthetic Data | Zi Liang, Qingqing Ye, Xuan Liu, Yanyun Wang, Jianliang Xu, Haibo Hu | [Link](https://arxiv.org/pdf/2509.23041) | --- |
+| 2025 | Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting | Yuqiao Meng, Luoxi Tang, Feiyang Yu, Xi Li, Guanhua Yan, Ping Yang, Zhaohan Xi | [Link](https://arxiv.org/pdf/2509.23571) | --- |
+| 2025 | Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools | Ping He, Changjiang Li, Binbin Zhao, Tianyu Du, Shouling Ji | [Link](https://arxiv.org/pdf/2509.21011) | --- |
+| 2025 | RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection | Yuxin Wen, Arman Zharmagambetov, Ivan Evtimov, Narine Kokhlikyan, Tom Goldstein, Kamalika Chaudhuri, Chuan Guo | [Link](https://arxiv.org/pdf/2510.04885) | --- |
+| 2025 | AutoPentester: An LLM Agent-based Framework for Automated Pentesting | Yasod Ginige, Akila Niroshan, Sajal Jain, Suranga Seneviratne | [Link](https://arxiv.org/pdf/2510.05605) | [Link](https://github.com/YasodGinige/AutoPentester) |
+| 2025 | PromptLocate: Localizing Prompt Injection Attacks | Yuqi Jia, Yupei Liu, Zedian Shao, Jinyuan Jia, Neil Gong | [Link](https://arxiv.org/pdf/2510.12252) | --- |
+| 2025 | Deep Research Agents Brings Deeper Harm | Shuo Chen, Zonggen Li, Xingyu Jin, Zhen Han, Bailan He, Tong Liu, Haokun Chen, Georg Groh, Philip Torr, Volker Tresp, Jindong Gu | [Link](https://arxiv.org/pdf/2510.11851) | --- |
+| 2025 | MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation | Wentian Zhu, Zhen Xiang, Wei Niu, Le Guan | [Link](https://arxiv.org/pdf/2510.10271) | --- |
+| 2025 | BreakFun: Jailbreaking LLMs via Object Instantiation under Simulated Code Execution | Amirkia Rafiei Oskooei, Mehmet S. Aktas | [Link](https://arxiv.org/pdf/2510.17904) | --- |
+| 2025 | Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs | Francesco Balassone, Víctor Mayoral-Vilches, Stefan Rass, Martin Pinzger, Gaetano Perrone, Simon Pietro Romano, Peter Schartner | [Link](https://arxiv.org/pdf/2510.17521) | --- |
+| 2025 | Takedown: How It's Done in Modern Coding Agent Exploits | Eunkyu Lee, Donghyeon Kim, Wonyoung Kim, Insu Yun | [Link](https://arxiv.org/pdf/2509.24240) | --- |
+| 2025 | Exploiting Web Search Tools of AI Agents for Data Exfiltration | Dennis Rall, Bernhard Bauer, Mohit Mittal, Thomas Fraunholz | [Link](https://arxiv.org/pdf/2510.09093) | --- |
+| 2025 | Can Transformer Memory Be Corrupted? Investigating Cache-Side Vulnerabilities in Large Language Models | Elias Hossain, Swayamjit Saha, Somshubhra Roy, Ravi Prasad | [Link](https://arxiv.org/pdf/2510.17098) | --- |
+| 2025 | Evil Vizier: Vulnerabilities of LLM-Integrated XR Systems | Yicheng Zhang, Zijian Huang, Sophie Chen, Erfan Shayegani, Jiasi Chen, Nael Abu-Ghazaleh | [Link](https://arxiv.org/pdf/2509.15213) | --- |
+| 2025 | Living Off the LLM: How LLMs Will Change Adversary Tactics | Sean Oesch, Jack Hutchins, Luke Koch, Kevin Kurian | [Link](https://arxiv.org/pdf/2510.11398) | --- |
+| 2025 | Uncovering Vulnerabilities of LLM-Assisted Cyber Threat Intelligence | Yuqiao Meng, Luoxi Tang, Feiyang Yu, Jinyuan Jia, Guanhua Yan, Ping Yang, Zhaohan Xi | [Link](https://arxiv.org/pdf/2509.23573) | --- |
+| 2025 | The Hidden DNA of LLM-Generated JavaScript: Structural Patterns Enable High-Accuracy Authorship Attribution | Norbert Tihanyi, Bilel Cherif, Richard A. Dubniczky, Mohamed Amine Ferrag, Tamás Bisztray | [Link](https://arxiv.org/pdf/2510.10493) | --- |
+| 2025 | DECEPTICON: How Dark Patterns Manipulate Web Agents | Phil Cuvin, Hao Zhu, Diyi Yang | [Link](https://arxiv.org/pdf/2512.22894) | --- |
+| 2025 | AutoML in Cybersecurity: An Empirical Study | Sherif Saad, Kevin Shi, Mohammed Mamun, Hythem Elmiligi | [Link](https://arxiv.org/pdf/2509.23621) | --- |
 | 2025 | Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack Trees | Katsuaki Nakano, Reza Feyyazi, Shanchieh Jay Yang, Michael Zuzak | [Link](https://arxiv.org/pdf/2509.07939) | --- |
 | 2025 | Between a Rock and a Hard Place: Exploiting Ethical Reasoning to Jailbreak LLMs | Shei Pern Chua, Thai Zhen Leng, Teh Kai Jun, Xiao Li, Xiaolin Hu | [Link](https://arxiv.org/pdf/2509.05367) | --- |
 | 2025 | Web Fraud Attacks Against LLM-Driven Multi-Agent Systems | Dezhang Kong, Hujin Peng, Yilun Zhang, Lele Zhao, Zhenhua Xu, Shi Lin, Changting Lin, Meng Han | [Link](https://arxiv.org/pdf/2509.01211) | --- |
@@ -441,6 +496,37 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | Enhancing Fuzz Testing Efficiency through Automated Fuzz Target Generation | Chi Thien Tran | [Link](https://arxiv.org/pdf/2601.11972) | --- |
+| 2026 | Rust and Go directed fuzzing with LibAFL-DiFuzz | Timofey Mezhuev, Darya Parygina, Daniil Kuts | [Link](https://arxiv.org/pdf/2601.22772) | --- |
+| 2026 | AXE: Grey-Box Exploitability Confirmation for Localized Vulnerability Reports | Amirali Sajadi, Tu Nguyen, Kostadin Damevski, Preetha Chatterjee | [Link](https://arxiv.org/pdf/2602.14345) | --- |
+| 2026 | FuzzySQL: Uncovering Hidden Vulnerabilities in DBMS Special Features with LLM-Driven Fuzzing | Yongxin Chen, Zhiyuan Jiang, Chao Zhang, Haoran Xu, Shenglin Xu, Jianping Tang, Zheming Li, Peidai Xie, Yongjun Wang | [Link](https://arxiv.org/pdf/2602.19490) | --- |
+| 2026 | VulLink: A Dynamic Open-Access Vulnerability Graph Database for Cybersecurity Data Mining | Luat Do, Jiao Yin, Jinli Cao, Hua Wang | [Link](https://arxiv.org/pdf/2604.06967) | --- |
+| 2026 | CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis | Arunabh Majumdar | [Link](https://arxiv.org/pdf/2604.21917) | --- |
+| 2026 | CVEs With a CVSS Score Greater Than or Equal to 9 | Lena Sinterhauf, Andreas Aßmuth, Roland Kaltefleiter | [Link](https://arxiv.org/pdf/2604.20765) | --- |
+| 2026 | FunFuzz: An LLM-Powered Evolutionary Fuzzing Framework | Mario Rodríguez Béjar, B. Romera-Paredes, Jose L. Hernández-Ramos | [Link](https://arxiv.org/pdf/2605.02789) | --- |
+| 2026 | Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches | Isaac David, Arthur Gervais | [Link](https://arxiv.org/pdf/2605.06601) | --- |
+| 2026 | Agentic Vulnerability Reasoning on COTS Binaries | Hwiwon Lee, Jongseong Kim, Lingming Zhang | [Link](https://arxiv.org/pdf/2605.05000) | --- |
+| 2026 | Continuous Discovery of Vulnerabilities in LLM Serving Systems with Fuzzing | Yunze Zhao, Yibo Zhao, Yuchen Zhang, Zaoxing Liu, Michelle L. Mazurek | [Link](https://arxiv.org/pdf/2605.11202) | --- |
+| 2026 | PickleFuzzer: A Case Study in Fuzzing for Discrepancies Between Python Pickle Implementations | Justin Applegate, Andreas Kellas | [Link](https://arxiv.org/pdf/2605.15084) | --- |
+| 2026 | FuzzAgent: Multi-Agent System for Evolutionary Library Fuzzing | Yunlong Lyu, Peng Chen, Fengyi Wu, Junzhe Yu, Kit Long Hon, Hao Chen | [Link](https://arxiv.org/pdf/2605.14431) | --- |
+| 2026 | FuzzingBrain V2: A Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction | Ze Sheng, Zhicheng Chen, Qingxiao Xu, Kewen Zhu, Jeff Huang | [Link](https://arxiv.org/pdf/2605.21779) | --- |
+| 2026 | PeAR: A Static Binary Rewriting Framework for Binary-Only Fuzzing | Alvin Charles, Adrian Herrera, Peter Oslington, Alwen Tiu | [Link](https://arxiv.org/pdf/2606.02126) | --- |
+| 2026 | SeedSmith: LLM-Driven Seed Synthesis for Directed Fuzzing | Junmin Zhu, Siyu Liu, Jie Hu, Fabio Gritti, Ati Priya Bajaj, Hulin Wang, Wenbo Guo, Tiffany Bao, Christopher Kruegel, Giovanni Vigna | [Link](https://arxiv.org/pdf/2607.08949) | --- |
+| 2026 | From Documentation to Zero-day Vulnerabilities: LLM-Driven Fuzzing of JavaScript Engines in PDF Readers | Suyue Guo, Stijn Pletinckx, Tianle Yu, Yigitcan Kaya, Saad Ullah, Wenbo Guo, Christopher Kruegel, Giovanni Vigna | [Link](https://arxiv.org/pdf/2608.06641) | --- |
+| 2026 | PrimSynth: An Agentic Approach to Discover, Validate, and Synthesize Exploit Primitives for Linux Kernel Vulnerabilities | Pengfei Wang, Anying Chen, Danjun Liu, Xu Zhou, Wei Xie | [Link](https://arxiv.org/pdf/2609.02647) | --- |
+| 2026 | SemFuzz: A Semantics-Aware Fuzzing Framework for Network Protocol Implementations | Yanbang Sun, Quan Luo, Yuelin Wang, Qian Chen, Benjin Liu, Ruiqi Chen, Qing Huang, Xiaohong Li, Junjie Wang | [Link](https://arxiv.org/pdf/2603.05989) | --- |
+| 2026 | CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions | Jingwei Shi, Xinxiang Yin, Jing Huang, Jinman Zhao, Shengyu Tao | [Link](https://arxiv.org/pdf/2602.20213) | --- |
+| 2026 | Triggering and Detecting Exploitable Library Vulnerability from the Client by Directed Greybox Fuzzing | Yukai Zhao, Menghan Wu, Xing Hu, Shaohua Wang, Meng Luo, Xin Xia | [Link](https://arxiv.org/pdf/2604.04102) | --- |
+| 2026 | Detecting Privilege Escalation in Polyglot Microservices via Agentic Program Analysis | Penghui Li, Hong Yau Chong, Yinzhi Cao, Junfeng Yang | [Link](https://arxiv.org/pdf/2605.15569) | --- |
+| 2026 | Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study | Jingdong Guo, Chaopeng Dong, Yimo Ren, Siyuan Li, Jie Liu, Hong Li, Hongsong Zhu | [Link](https://arxiv.org/pdf/2606.28870) | --- |
+| 2026 | Antiproof: Synthesizing Vulnerability Detectors and Proofs of Exploitability | Alon Shakevsky, Corban Villa, Ion Stoica, Raluca Ada Popa | [Link](https://arxiv.org/pdf/2607.12316) | --- |
+| 2025 | xOffense: An Autonomous Multi-Agent Framework for Penetration Testing with Domain-Adapted Large Language Models | Phung Duc Luong, Le Tran Gia Bao, Nguyen Vu Khai Tam, Dong Huu Nguyen Khoa, Nguyen Huu Quyen, Van-Hau Pham, Phan The Duy | [Link](https://arxiv.org/pdf/2509.13021) | --- |
+| 2025 | Orion: Fuzzing Workflow Automation | Max Bazalii, Marius Fleischer | [Link](https://arxiv.org/pdf/2509.15195) | --- |
+| 2025 | QuiLL: An LLM-Based Vulnerability Assessment Framework for the Wild | Rijha Safdar, Danyail Mateen, Syed Taha Ali, Wajahat Hussain | [Link](https://arxiv.org/pdf/2510.04056) | --- |
+| 2025 | PentestMCP: A Toolkit for Agentic Penetration Testing | Zachary Ezetta, Wu-chang Feng | [Link](https://arxiv.org/pdf/2510.03610) | --- |
+| 2025 | Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer | Johannes Lenzen, Mohamadreza Rostami, Lichao Wu, Ahmad-Reza Sadeghi | [Link](https://arxiv.org/pdf/2512.23438) | --- |
+| 2025 | The First Large-Scale Systematic Study of Python Class Pollution Vulnerability | Zhengyu Liu, Jiacheng Zhong, Jianjia Yu, Muxi Lyu, Zifeng Kang, Yinzhi Cao | [Link](https://jackfromeast.github.io/assets/Pyrl.pdf) | --- |
+| 2025 | LLM-based Vulnerability Discovery through the Lens of Code Metrics | Felix Weissberg, Lukas Pirch, Erik Imgrund, Jonas Möller, Thorsten Eisenhofer, Konrad Rieck | [Link](https://arxiv.org/pdf/2509.19117) | --- |
 | 2025 | All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching | Ze Sheng, Qingxiao Xu, Jianwei Huang, Matthew Woodcock, Heqing Huang, Alastair F. Donaldson, Guofei Gu, Jeff Huang | [Link](https://arxiv.org/pdf/2509.07225) | --- |
 | 2025 | FuzzBox: Blending Fuzzing into Emulation for Binary-Only Embedded Targets | Carmine Cesarano, Roberto Natella | [Link](https://arxiv.org/pdf/2509.05643) | --- |
 | 2025 | A Whole New World: Creating a Parallel-Poisoned Web Only AI-Agents Can See | Shaked Zychlinski | [Link](https://arxiv.org/pdf/2509.00124) | --- |
@@ -584,6 +670,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | Speaking to Silicon: Neural Communication with Bitcoin Mining ASICs | Francisco Angulo de Lafuente, Vladimir Veselov, Richard Goodman | [Link](https://arxiv.org/pdf/2601.12032) | --- |
 | 2026 | LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts | Jiaqi Gao, Zijian Zhang, Yuqiang Sun, Ye Liu, Chengwei Liu, Han Liu, Yi Li, Yang Liu | [Link](https://arxiv.org/pdf/2602.03271) | --- |
 | 2026 | Capturing Monetarily Exploitable Vulnerability in Smart Contracts via Auditor Knowledge-Learning Fuzzing | Bowen Cai, Weiheng Bai, Hangyun Tang, Youshui Lu, Kangjie Lu | [Link](https://arxiv.org/pdf/2604.18395) | --- |
 | 2026 | DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching | Rui Cao, Shaojing Fan, Zhimei Sui, Liming Fang, Ziqi Yang, Yingying Jiao, Zhenguang Liu | [Link](https://arxiv.org/pdf/2607.22184) | --- |
@@ -636,6 +723,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | AgentSOC: A Multi-Layer Agentic AI Framework for Security Operations Automation | Joyjit Roy, Samaresh Kumar Singh | [Link](https://arxiv.org/pdf/2604.20134) | --- |
 | 2026 | Fully Automated End-to-End Adversary Emulation from MITRE ATT&CK Based Cyber Threat Intelligence Using LLMs | Jueon Choi, Seojun Lee, Sanggwon Yun, Kwanghoon Choi, Gunjin Cha | [Link](https://arxiv.org/pdf/2607.14566) | --- |
 | 2026 | AttackMate: Realistic Emulation and Automation of Cyber Attack Scenarios Across the Kill Chain | Max Landauer, Wolfgang Hotwagner, Thorina Boenke, Florian Skopik, Markus Wurzenberger | [Link](https://arxiv.org/pdf/2601.14108) | --- |
 | 2026 | Before the Vicious Cycle Starts: Preventing Burnout Across SOC Roles Through Flow-Aligned Design | Kashyap Thimmaraju, Duc Anh Hoang, Souradip Nath, Jaron Mink, Gail-Joon Ahn | [Link](https://arxiv.org/pdf/2602.14598) | --- |
@@ -703,6 +791,11 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | Hidden Secrets in the arXiv: Discovering, Analyzing, and Preventing Unintentional Information Disclosure in Source Files of Scientific Preprints | Jan Pennekamp, Johannes Lohmöller, David Schütte, Joscha Loos, Martin Henze | [Link](https://arxiv.org/pdf/2604.20927) | --- |
+| 2026 | Longitudinal Analyses of SAST Tools: A CodeQL Case Study | Jean-Charles Noirot Ferrand, Kyle Domico, Yohan Beugin, Patrick McDaniel | [Link](https://arxiv.org/pdf/2605.07900) | --- |
+| 2025 | ReSMT: An SMT-Based Tool for Reverse Engineering | Nir Somech, Guy Katz | [Link](https://arxiv.org/pdf/2512.22076) | --- |
+| 2025 | Breaking the Sorting Barrier for Directed Single-Source Shortest Paths | Ran Duan, Jiayi Mao, Xiao Mao, Xinkai Shu, Longhui Yin | [Link](https://arxiv.org/pdf/2504.17033) | --- |
+| 2023 | A Randomized Algorithm for Single-Source Shortest Path on Undirected Real-Weighted Graphs | Ran Duan, Jiayi Mao, Xinkai Shu, Longhui Yin | [Link](https://arxiv.org/pdf/2307.04139) | --- |
 | 2025 | Human-AI Collaborative Bot Detection in MMORPGs | Jaeman Son, Hyunsoo Kim | [Link](https://arxiv.org/pdf/2508.20578) | --- |
 | 2025 | AI Propaganda factories with language models | Lukasz Olejnik | [Link](https://arxiv.org/pdf/2508.20186) | --- |
 | 2025 | Tricking LLM-Based NPCs into Spilling Secrets | Kyohei Shiomi, Zhuotao Lian, Toru Nakanishi, Teruaki Kitasuka | [Link](https://arxiv.org/pdf/2508.19288) | --- |
