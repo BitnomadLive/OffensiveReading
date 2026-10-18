@@ -27,6 +27,10 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC |
 | --- | --- | --- | --- | --- |
+| 2026 | An Analysis of Modern Web Security Vulnerabilities Inside WebAssembly Applications | Lorenzo Corrias, Lorenzo Pisu, Davide Maiorca, Giorgio Giacinto | [Link](https://arxiv.org/pdf/2603.09426) | --- |
+| 2026 | WebTrap: Stealthy Mid-Task Hijacking of Browser Agents During Navigation | Zhichao Liu, Wenbo Pan, Haining Yu, Ge Gao, Tianqing Zhu, Xiaohua Jia | [Link](https://arxiv.org/pdf/2605.08310) | --- |
+| 2026 | AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents | Asif Shahriar, Md Nafiu Rahman, Sadif Ahmed, Farig Sadeque, Md Rizwan Parvez | [Link](https://arxiv.org/pdf/2609.32915) | --- |
+| 2025 | Exploring and Exploiting the Resource Isolation Attack Surface of WebAssembly Containers | Zhaofeng Yu, Dongyang Zhan, Lin Ye, Haining Yu, Hongli Zhang, Zhihong Tian | [Link](https://arxiv.org/pdf/2509.11242) | --- |
 | 2024 | Pixel Thief: Exploiting SVG Filter Leakage in Firefox and Chrome | Sioli O'Connell, Lishay Aben Sour, Ron Magen, Ben Gurion, Daniel Genkin, Yossi Oren, Ben-Gurion, Hovav Shacham, Yuval Yarom | [Link](https://www.usenix.org/system/files/usenixsecurity24-oconnell.pdf) | --- |
 | 2023 | iLeakage: Browser-based Timerless Speculative Execution Attacks on Apple Devices | Jason Kim, Stephan van Schaik, Daniel Genkin, Yuval Yarom | [Link](https://ileakage.com/files/ileakage.pdf) | --- |
 | 2023 | Chrowned by an Extension: Abusing the Chrome DevTools Protocol through the Debugger API | Jose Miguel Moreno, Narseo Vallina-Rodriguez, Juan Tapiador | [Link](https://arxiv.org/pdf/2305.11506) | --- |
@@ -84,6 +88,12 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | TraceScope: Interactive URL Triage via Decoupled Checklist Adjudication | Haolin Zhang, William Reber, Yuxuan Zhang, Guofei Gu, Jeff Huang | [Link](https://arxiv.org/pdf/2604.21840) | --- |
+| 2026 | SpiderSapien: Client-Centric Web Crawler and Security Scanner | Eric Olsson, Benjamin Eriksson, Adam Doupé, Andrei Sabelfeld | [Link](https://arxiv.org/pdf/2609.02532) | --- |
+| 2026 | Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation | Praneeth Narisetty, Shiva Nagendra Babu Kore | [Link](https://arxiv.org/pdf/2607.11288) | --- |
+| 2025 | PrediQL: Automated Testing of GraphQL APIs with LLMs | Shaolun Liu, Sina Marefat, Omar Tsai, Yu Chen, Zecheng Deng, Jia Wang, Mohammad A. Tayebi | [Link](https://arxiv.org/pdf/2510.10407) | --- |
+| 2025 | HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities | Xiaoxue Ren, Penghao Jiang, Kaixin Li, Zhiyong Huang, Xiaoning Du, Jiaojiao Jiang, Zhenchang Xing, Jiamou Sun, Terry Yue Zhuo | [Link](https://arxiv.org/pdf/2510.12200) | --- |
+| 2025 | The DOMino Effect: Detecting and Exploiting DOM Clobbering Gadgets via Concolic Execution with Symbolic DOM | Zhengyu Liu, Theo Lee, Jianjia Yu, Zifeng Kang, Yinzhi Cao | [Link](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-858-liu-zhengyu.pdf) | [Link](https://github.com/jackfromeast/TheHulk) |
 | 2025 | Multi-Agent Penetration Testing AI for the Web | Isaac David, Arthur Gervais | [Link](https://arxiv.org/pdf/2508.20816) | [Github](https://github.com/arthurgervais/mapta) |
 | 2025 | BACFuzz: Exposing the Silence on Broken Access Control Vulnerabilities in Web Applications | I Putu Arya Dharmaadi, Mohannad Alhanahnah, Van-Thuan Pham, Fadi Mohsen, Fatih Turkmen | [Link](https://arxiv.org/pdf/2507.15984) | --- |
 | 2025 | Quantifying Azure RBAC Wildcard Overreach | Christophe Parisel | [Link](https://arxiv.org/pdf/2506.10755) | --- |
@@ -104,6 +114,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 | 2024 | Fingerprinting web servers through Transformer-encoded HTTP response headers | Patrick Darwinkel | [Link](https://arxiv.org/pdf/2404.00056) | [Github](https://github.com/Darwinkel/bachelor-thesis-information-science) |
 | 2024 | AdvSQLi: Generating Adversarial SQL Injections against Real-world WAF-as-a-service | Zhenqing Qu, Xiang Ling, Ting Wang, Xiang Chen, Shouling Ji, Chunming Wu | [Link](https://arxiv.org/pdf/2401.02615) | --- |
 | 2024 | EDEFuzz: A Web API Fuzzer for Excessive Data Exposures | Lianglu Pan, Shaanan Cohney, Toby Murray, Van-Thuan Pham | [Link](https://arxiv.org/ftp/arxiv/papers/2301/2301.09258.pdf) | [Github](https://github.com/Broken-Assumptions/EDEFuzz) |
+| 2023 | It's (DOM) Clobbering Time: Attack Techniques, Prevalence, and Defenses | Soheil Khodayari, Giancarlo Pellegrino | [Link](https://trouge.net/papers/domclob_sp23.pdf) | --- |
 | 2023 | Exploiting Client-Side Path Traversal CSRF is dead, long live CSRF | Maxence Schmitt | [Link](https://www.doyensec.com/resources/Doyensec_CSPT2CSRF_Whitepaper.pdf) | --- |
 | 2023 | Parse Me, Baby, One More Time: Bypassing HTML Sanitizer via Parsing Differentials | David Klein, Martin Johns | [Link](https://www.ias.cs.tu-bs.de/publications/parsing_differentials.pdf) | [Github](https://github.com/ias-tubs/HTML_parsing_differentials) |
 | 2023 | Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis | Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu | [Link](https://arxiv.org/pdf/2311.03919) | [Github](https://github.com/KTH-LangSec/Dasty) |
@@ -135,6 +146,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | RECEIPT: Deterministic, Reward-Hacking-Resistant Verification for White-Box Agentic XSS Discovery | Muxi Lyu, Karen Shieh, Yiwei Hou, Hao Wang, Koushik Sen, David Wagner | [Link](https://arxiv.org/pdf/2607.18575) | --- |
 | 2022 | Link: Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning | Soyoung Lee, Seongil Wi, Sooel Son | [Link](https://wsp-lab.github.io/papers/lee-link-www22.pdf) | [Github](https://github.com/WSP-LAB/Link) |
 | 2022 | FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim, Young Min Kim, Jaewon Hur, Suhwan Song, Gwangmu Lee, Byoungyoung Lee | [Link](https://www.usenix.org/system/files/sec22-kim.pdf) | [Github](https://github.com/compsec-snu/fuzzorigin) |
 | 2022 | Twenty-Two Years Since Revealing Cross-Site Scripting Attacks: A Systematic Mapping And A Comprehensive Survey | Abdelhakim Hannousse, Salima Yahiouche, Mohamed Cherif Nait-Hamoud | [Link](https://arxiv.org/pdf/2205.08425.pdf) | --- |
@@ -172,6 +184,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks | Ziyu Lin, Tianlong Su, Yingjie Lin, Prosanta Gope, Yinzhi Cao, Ximeng Liu, Biplab Sikdar | [Link](https://arxiv.org/pdf/2607.26589) | --- |
 | 2024 | Hidden Web Caches Discovery | Matteo Golinelli, Bruno Crispo | [Link](https://arxiv.org/pdf/2407.16303) | [Github](https://github.com/golim/hidden-web-caches-discovery) |
 | 2022 | Web Cache Deception Escalates! | Seyed Ali Mirheidari, Matteo Golinelli, Kaan Onarlioglu, Engin Kirda, Bruno Crispo | [Link](https://www.onarlioglu.com/publications/sec2022escalate.pdf) | [Github](https://github.com/Golim/wcde) |
 | 2020 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson   | [Link](https://www.usenix.org/system/files/sec20-mirheidari.pdf) | --- |
@@ -183,6 +196,8 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | Crossing the Streams: SSH Plaintext Recovery via a Common Compression Context in Multiplexed Channels | Fabian Bäumer, Marcus Brinkmann | [Link](https://arxiv.org/pdf/2609.07709) | --- |
+| 2025 | Off-Path TCP Exploits: PMTUD Breaks TCP Connection Isolation in IP Address Sharing Scenarios | Xuewei Feng, Zhaoxi Li, Qi Li, Ziqiang Wang, Kun Sun, Ke Xu | [Link](https://arxiv.org/pdf/2509.11833) | --- |
 | 2024 | Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks | Yuxiang Yang, Xuewei Feng, Qi Li, Kun Sun, Ziqiang Wang, Ke Xu | [Link](https://arxiv.org/pdf/2404.04601) | --- |
 | 2024 | Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack | Ziqiang Wang, Xuewei Feng, Qi Li, Kun Sun, Yuxiang Yang, Mengyuan Li, Ganqiu Du, Ke Xu, Jianping Wu | [Link](https://arxiv.org/pdf/2402.12716) | --- |
 | 2023 | Passive SSH Key Compromise via Lattices | Keegan Ryan, Kaiwen He, George Arnold Sullivan, Nadia Heninger | [Link](https://eprint.iacr.org/2023/1711.pdf) | --- |
@@ -194,6 +209,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | Needles at Scale: LLM-Assisted Target Selection for Windows Vulnerability Research | Michael J. Bommarito | [Link](https://arxiv.org/pdf/2606.01364) | --- |
 | 2024 | TIMEROASTING, TRUSTROASTING AND COMPUTER SPRAYING | Tom Tervoort | [Link](https://www.secura.com/uploads/whitepapers/Secura-WP-Timeroasting-v3.pdf) | [Github](https://github.com/SecuraBV/Timeroast) |
 | 2022 | POPKORN: Popping Windows Kernel Drivers At Scale | Rajat Gupta, Lukas Dresel, Noah Spahn, Giovanni Vigna, Christopher Kruegel, Taesoo Kim | [Link](https://dl.acm.org/doi/pdf/10.1145/3564625.3564631) | [Github](https://github.com/ucsb-seclab/popkorn-artifact) |
 | 2018 | Exploiting Regedit- Invisible Persistence & binary storage | eWhiteHats | [Link](https://github.com/ewhitehats/InvisiblePersistence/blob/master/InvisibleRegValues_Whitepaper.pdf) | [Github](https://github.com/ewhitehats/InvisiblePersistence) |
@@ -215,6 +231,11 @@ Note: I started to put AI papers into other categories as well, since its gettin
 | 2025 | Pushing the Limits of Frequency Analysis in Leakage Abuse Attacks | Nathaniel Moyer, Charalampos Papamanthou, Evgenios Kornaropoulos | [Link](https://arxiv.org/pdf/2508.11563) | --- |
 | 2025 | SleepWalk: Exploiting Context Switching and Residual Power for Physical Side-Channel Attacks | Sahan Sanjaya, Aruna Jayasena, Prabhat Mishra | [Link](https://arxiv.org/pdf/2507.22306) | [Git](https://anonymous.4open.science/r/SleepWalk/) |
 | 2025 | "Energon": Unveiling Transformers from GPU Power and Thermal Side-Channels | Arunava Chaudhuri, Shubhi Shukla, Sarani Bhattacharya, Debdeep Mukhopadhyay | [Link](https://arxiv.org/pdf/2508.01768) | --- |
+| 2025 | Thunderhammer: Rowhammer Bitflips via PCIe and Thunderbolt (USB-C) | Robert Dumitru, Junpeng Wan, Daniel Genkin, Rick Kennell,  Dave,  Tian, Yuval Yarom | [Link](https://arxiv.org/pdf/2509.11440) | --- |
+| 2025 | Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization | Diego Meyer, Patrick Jattke, Michele Marazzi, Salman Qazi, Daniel Moghimi, Kaveh Razavi | [Link](https://comsec.ethz.ch/research/dram/phoenix/) | --- |
+| 2025 | OpenGL GPU-Based Rowhammer Attack (Work in Progress) | Antoine Plin, Frédéric Fauberteau, Nga Nguyen | [Link](https://arxiv.org/pdf/2509.19959) | --- |
+| 2025 | $ρ$Hammer: Reviving RowHammer Attacks on New Architectures via Prefetching | Weijie Chen, Shan Tang, Yulin Tang, Xiapu Luo, Yinqian Zhang, Weizhong Qiang | [Link](https://arxiv.org/pdf/2510.16544) | --- |
+| 2025 | Redefining Website Fingerprinting Attacks With Multiagent LLMs | Chuxu Song, Dheekshith Dev Manohar Mekala, Hao Wang, Richard Martin | [Link](https://arxiv.org/pdf/2509.12462) | --- |
 | 2025 | SUAD: Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants | Chao Liu, Zhezheng Zhu, Hao Chen, Zhe Chen, Kaiwen Guo, Penghao Wang, Jun Luo | [Link](https://arxiv.org/pdf/2508.02116) | --- |
 | 2025 | Thermal-Aware 3D Design for Side-Channel Information Leakage | Dylan Stow, Russell Barnes, Eren Kurshan, Yuan Xie | [Link](https://arxiv.org/pdf/2508.02816) | --- |
 | 2025 | GPUHammer: Rowhammer Attacks on GPU Memories are Practical | Chris S. Lin, Joyce Qu, Gururaj Saileshwar | [Link](https://arxiv.org/pdf/2507.08166) | [Github](https://github.com/sith-lab/gpuhammer) |
@@ -269,6 +290,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | Unpacking .zip: A First Look at Domain and File Name Confusion | Predrag Despotovic, Pranab Mishra, Kevin Rossel, Athanasios Avgetidis, Zane Ma | [Link](https://arxiv.org/pdf/2604.04805) | --- |
 | 2023 | RESOLVERFUZZ: Automated Discovery of DNS Resolver Vulnerabilities with Query-Response Fuzzing | Qifan Zhang, Xuesong Bai, Xiang Li, Haixin Duan, Qi Li, Zhou Li | -[Link](https://arxiv.org/pdf/2310.03202) | -[Github](https://github.com/ResolverFuzz/ResolverFuzz) |
 | 2022 | Under the Hood of DANE Mismanagement in SMTP | Hyeonmin Lee, Md. Ishtiaq Ashiq, Moritz Müller, Roland van Rijswijk-Deij, Taekyoung “Ted” Kwon, Taejoong Chung | [Link](https://www.usenix.org/system/files/sec22summer_lee.pdf) | [Artifacts](https://dane-study.github.io/) |
 | 2022 | The Hijackers Guide To The Galaxy: Off-Path Taking Over Internet Resources | Tianxiang Dai, Philipp Jeitner, Haya Shulman, Michael Waidner | [Link](https://arxiv.org/pdf/2205.05473.pdf) | --- |
@@ -504,6 +526,7 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | 5GDescrambler: Locating, Descrambling, and Decoding 5G Scheduling Information (long version) | Fritz Windisch, Thorsten Strufe | [Link](https://arxiv.org/pdf/2609.07367) | --- |
 | 2025 | Agentic Discovery and Validation of Android App Vulnerabilities | Ziyue Wang, Liyi Zhou | [Link](https://arxiv.org/pdf/2508.21579) | --- |
 | 2025 | KeyDroid: A Large-Scale Analysis of Secure Key Storage in Android Apps | Jenny Blessing, Ross J. Anderson, Alastair R. Beresford | [Link](https://arxiv.org/pdf/2507.07927) | --- |
 | 2025 | Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties | Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Luan, Yunxin Liu | [Link](https://arxiv.org/pdf/2507.04227) | --- |
@@ -535,6 +558,10 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | SysFuSS: System-Level Firmware Fuzzing with Selective Symbolic Execution | Dakshina Tharindu, Aruna Jayasena, Prabhat Mishra | [Link](https://arxiv.org/pdf/2602.02243) | --- |
+| 2026 | VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents | Katherine Swinea, Kshitiz Aryal, Lopamudra Praharaj, Maanak Gupta | [Link](https://arxiv.org/pdf/2607.09653) | --- |
+| 2025 | Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks | Moritz Bley, Tobias Scharnowski, Simon Wörner, Moritz Schloegel, Thorsten Holz | [Link](https://arxiv.org/pdf/2509.13740) | --- |
+| 2025 | ICS-SimLab: A Containerized Approach for Simulating Industrial Control Systems for Cyber Security Research | Jaxson Brown, Duc-Son Pham, Sie-Teng Soh, Foad Motalebi, Sivaraman Eswaran, Mahathir Almashor | [Link](https://arxiv.org/pdf/2509.23305) | --- |
 | 2025 | SIMulator: SIM Tracing on a (Pico-)Budget | Gabriel K. Gegenhuber, Philipp É. Frenzel, Adrian Dabrowski | [Link](https://arxiv.org/pdf/2506.20800) | [Github](https://github.com/sbaresearch/mobile-atlas#simulator) |
 | 2025 | CveBinarySheet: A Comprehensive Pre-built Binaries Database for IoT Vulnerability Analysis | Lingfeng Chen | [Link](https://arxiv.org/pdf/2501.08840) | --- |
 | 2024 | Finding (and exploiting) vulnerabilities on IP Cameras: the Tenda CP3 case study | Dario Stabili, Tobia Bocchi, Filip Valgimigli, Mirco Marchetti | [Link](https://arxiv.org/pdf/2406.15103) | [Github](https://github.com/SECloudUNIMORE/ACES/tree/master/Tenda) |
@@ -557,6 +584,13 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts | Jiaqi Gao, Zijian Zhang, Yuqiang Sun, Ye Liu, Chengwei Liu, Han Liu, Yi Li, Yang Liu | [Link](https://arxiv.org/pdf/2602.03271) | --- |
+| 2026 | Capturing Monetarily Exploitable Vulnerability in Smart Contracts via Auditor Knowledge-Learning Fuzzing | Bowen Cai, Weiheng Bai, Hangyun Tang, Youshui Lu, Kangjie Lu | [Link](https://arxiv.org/pdf/2604.18395) | --- |
+| 2026 | DeFiScreener: Efficient DeFi Attack Pre-screening in Smart Contracts via Historical Case Matching | Rui Cao, Shaojing Fan, Zhimei Sui, Liming Fang, Ziqi Yang, Yingying Jiao, Zhenguang Liu | [Link](https://arxiv.org/pdf/2607.22184) | --- |
+| 2025 | The Dark Art of Financial Disguise in Web3: Money Laundering Schemes and Countermeasures | Hesam Sarkhosh, Uzma Maroof, Diogo Barradas | [Link](https://arxiv.org/pdf/2509.21831) | --- |
+| 2025 | BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities | Yury Yanovich, Victoria Kovalevskaya, Maksim Egorov, Elizaveta Smirnova, Matvey Mishuris, Yash Madhwal, Kirill Ziborov, Vladimir Gorgadze, Subodh Sharma | [Link](https://arxiv.org/pdf/2509.24444) | --- |
+| 2025 | LLMs as verification oracles for Solidity | Massimo Bartoletti, Enrico Lipparini, Livio Pompianu | [Link](https://arxiv.org/pdf/2509.19153) | --- |
+| 2025 | TaintSentinel: Path-Level Randomness Vulnerability Detection for Ethereum Smart Contracts | Hadis Rezaei, Ahmed Afif Monrat, Karl Andersson, Francesco Flammini | [Link](https://arxiv.org/pdf/2510.18192) | [Link](https://github.com/HadisRe/TaintSentinel) |
 | 2025 | SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection | Lei Yu, Shiqi Cheng, Zhirong Huang, Jingyuan Zhang, Chenjie Shen, Junyi Lu, Li Yang, Fengjun Zhang, Jiajia Ma | [Link](https://arxiv.org/pdf/2507.22371) | --- |
 | 2025 | UEChecker: Detecting Unchecked External Call Vulnerabilities in DApps via Graph Analysis | Dechao Kong, Xiaoqi Li, Wenkai Li | [Link](https://arxiv.org/pdf/2508.01343) | --- |
 | 2025 | MultiCFV: Detecting Control Flow Vulnerabilities in Smart Contracts Leveraging Multimodal Deep Learning | Hongli Peng, Xiaoqi Li, Wenkai Li | [Link](https://arxiv.org/pdf/2508.01346) | --- |
@@ -602,6 +636,26 @@ Note: I started to put AI papers into other categories as well, since its gettin
 ### Papers/Thesis
 | Year | Title | Author | Link | Github/PoC  |
 | --- | --- | --- | --- | --- |
+| 2026 | Fully Automated End-to-End Adversary Emulation from MITRE ATT&CK Based Cyber Threat Intelligence Using LLMs | Jueon Choi, Seojun Lee, Sanggwon Yun, Kwanghoon Choi, Gunjin Cha | [Link](https://arxiv.org/pdf/2607.14566) | --- |
+| 2026 | AttackMate: Realistic Emulation and Automation of Cyber Attack Scenarios Across the Kill Chain | Max Landauer, Wolfgang Hotwagner, Thorina Boenke, Florian Skopik, Markus Wurzenberger | [Link](https://arxiv.org/pdf/2601.14108) | --- |
+| 2026 | Before the Vicious Cycle Starts: Preventing Burnout Across SOC Roles Through Flow-Aligned Design | Kashyap Thimmaraju, Duc Anh Hoang, Souradip Nath, Jaron Mink, Gail-Joon Ahn | [Link](https://arxiv.org/pdf/2602.14598) | --- |
+| 2026 | Mining the YARA Ecosystem: From Ad-Hoc Sharing to Data-Driven Threat Intelligence | Dectot--Le Monnier de Gouville Esteban, Mohammad Hamdaqa, Moataz Chouchen | [Link](https://arxiv.org/pdf/2603.14191) | --- |
+| 2026 | AI-Driven Security Alert Screening and Alert Fatigue Mitigation in Security Operations Centers: A Survey | Samuel Ndichu, Tao Ban, Seiichi Ozawa, Takeshi Takahashi, Daisuke Inoue | [Link](https://arxiv.org/pdf/2605.08316) | --- |
+| 2026 | SOCpilot: Verifying Policy Compliance for LLM-Assisted Incident Response | Sidnei Barbieri, Leonardo Vaz de Meneses, Ágney Lopes Roth Ferraz, Lourenço Alves Pereira Júnior | [Link](https://arxiv.org/pdf/2605.05501) | --- |
+| 2026 | Quantifiable Uncertainty: A Stochastic Consensus Multi-Agent RAG Framework for Robust Malware Detection | ElMouatez Billah Karbab | [Link](https://arxiv.org/pdf/2605.08385) | --- |
+| 2026 | PocketAgents: A Manifest-Driven Library of Autonomous Defense Agents | Sidnei Barbieri, Ágney Lopes Roth Ferraz, Lourenço Alves Pereira Júnior | [Link](https://arxiv.org/pdf/2605.21694) | --- |
+| 2026 | GenAI-Driven Threat Detection with Microsoft Security Copilot | Scott Freitas, Amir Gharib | [Link](https://arxiv.org/pdf/2605.20896) | --- |
+| 2025 | Large Language Models for Security Operations Centers: A Comprehensive Survey | Ali Habibzadeh, Farid Feyzi, Reza Ebrahimi Atani | [Link](https://arxiv.org/pdf/2509.10858) | --- |
+| 2025 | A Graph-Based Approach to Alert Contextualisation in Security Operations Centres | Magnus Wiik Eckhoff, Peter Marius Flydal, Siem Peters, Martin Eian, Jonas Halvorsen, Vasileios Mavroeidis, Gudmund Grov | [Link](https://arxiv.org/pdf/2509.12923) | --- |
+| 2025 | Is "Knowing It's Malicious Enough?" Evaluating LLMs for Fine-Grained Malware Behavior Auditing | Xinran Zheng, Xingzhi Qian, Yiling He, Shuo Yang, Lorenzo Cavallaro | [Link](https://arxiv.org/pdf/2509.14335) | --- |
+| 2025 | BEACON: Behavioral Malware Classification with Large Language Model Embeddings and Deep Learning | Wadduwage Shanika Perera, Haodi Jiang | [Link](https://arxiv.org/pdf/2509.14519) | --- |
+| 2025 | PhishLumos: An Adaptive Multi-Agent System for Proactive Phishing Campaign Mitigation | Daiki Chiba, Hiroki Nakano, Takashi Koide | [Link](https://arxiv.org/pdf/2509.21772) | --- |
+| 2025 | CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning | Lauren Deason, Adam Bali, Ciprian Bejean, Diana Bolocan, James Crnkovich, Ioana Croitoru, Krishna Durai, Chase Midler, Calin Miron, David Molnar, Brad Moon, Bruno Ostarcevic, Alberto Peltea, Matt Rosenberg, Catalin Sandu, Arthur Saputkin, Sagar Shah, Daniel Stan, Ernest Szocs, Shengye Wan, Spencer Whitman, Sven Krasser, Joshua Saxe | [Link](https://arxiv.org/pdf/2509.20166) | --- |
+| 2025 | EvoMail: Self-Evolving Cognitive Agents for Adaptive Spam and Phishing Email Defense | Wei Huang, De-Tian Chu, Lin-Yuan Bai, Wei Kang, Hai-Tao Zhang, Bo Li, Zhi-Mo Han, Jing Ge, Hai-Feng Lin | [Link](https://arxiv.org/pdf/2509.21129) | --- |
+| 2025 | Every Character Counts: From Vulnerability to Defense in Phishing Detection | Maria Chiper, Radu Tudor Ionescu | [Link](https://arxiv.org/pdf/2509.20589) | --- |
+| 2025 | PhishSSL: Self-Supervised Contrastive Learning for Phishing Website Detection | Wenhao Li, Selvakumar Manickam, Yung-Wey Chong, Shankar Karuppayah, Priyadarsi Nanda, Binyong Li | [Link](https://arxiv.org/pdf/2510.05900) | --- |
+| 2025 | IP-Augmented Multi-Modal Malicious URL Detection Via Token-Contrastive Representation Enhancement and Multi-Granularity Fusion | Ye Tian, Yanqiu Yu, Liangliang Song, Zhiquan Liu, Yanbin Wang, Jianguo Sun | [Link](https://arxiv.org/pdf/2510.12395) | --- |
+| 2025 | LOKI: Proactively Discovering Online Scam Websites by Mining Toxic Search Queries | Pujan Paudel, Gianluca Stringhini | [Link](https://arxiv.org/pdf/2509.12181) | --- |
 | 2025 | E-PhishGen: Unlocking Novel Research in Phishing Email Detection | Luca Pajola, Eugenio Caripoti, Simeone Pizzi, Mauro Conti, Stefan Banzer, Giovanni Apruzzese | [Link](https://arxiv.org/pdf/2509.01791) | --- |
 | 2025 | A Systematic Approach to Estimate the Security Posture of a Cyber Infrastructure: A Technical Report | Qishen Sam Liang | [Link](https://arxiv.org/pdf/2509.00266) | --- |
 | 2025 | LLMHoney: A Real-Time SSH Honeypot with Large Language Model-Driven Dynamic Response Generation | Pranjay Malhotra | [Link](https://arxiv.org/pdf/2509.01463) | --- |
